@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... nothibg at the moment
 - 📫 How to reach me ... my dicord Fe4RLess#0001
 
-![Replit](https://replit.com/@CPScript/replit-000000?style=for-the-badge&logo=replit&logoColor=black)
+![Replit](https://replit.com/@CPScript-000000?style=for-the-badge&logo=replit&logoColor=black)
 
 <!---
 CPScript/CPScript is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
