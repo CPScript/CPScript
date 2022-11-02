@@ -20,5 +20,3 @@ Projects | what they do
 ##### i make these kind of things bc im board at school, im passing my classes and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
 
 ##### If i do see that these scripts are being used for malicious acts i will take them down and put the code into google docs
-# -----------------------------------------------------------------------------------------------------------------------------------
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
