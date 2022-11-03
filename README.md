@@ -26,8 +26,5 @@ Projects | what they do
 
 ##### If i do see that these scripts are being used for malicious acts i will take them down and put the code into google docs
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
-username=CPScript&show_icons=true&theme=theme_hacker)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?
-username=codemaker2015&show_icons=true&theme=radical)
