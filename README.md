@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/83523587/199719888-7e272f21-570c-414c-a745-3cbcb5490762.png)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 # CPScript
 #### about me
