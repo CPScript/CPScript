@@ -1,4 +1,4 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 
 # CPScript
 #### about me
@@ -22,3 +22,5 @@ Projects | what they do
 ##### i make these kind of things bc im board at school, im passing my classes and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
 
 ##### If i do see that these scripts are being used for malicious acts i will take them down and put the code into google docs
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
