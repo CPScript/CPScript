@@ -15,7 +15,7 @@ I have had this github account for 1 to 2 years and just never realy used it tha
 
 Projects | what they do
 --------- | ---------
-[YourAcutie.TXT]❤️ | This is basicly the exact same as ILOVEYOU.TXT, its my virsion of that <3
+[YourAcutie.TXT]❤️ | This was based of of the ILOVEYOU virus/malware <3
 [Smile]😊 | :D Smile is a php program that i made to crash your pc, i made it because one of my friends said i couldn't :D
 [Chicken Wings]🍗 | !YUMMY! Downloads A LOT of files onto your computer, must be ran in python
 [NUKE]☢ | A 5TB zip bomb
