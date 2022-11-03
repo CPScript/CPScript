@@ -21,7 +21,7 @@ Projects | what they do
 [WannaCry]😭 | Literaly WannayCry's Script
 [Fine-Wine]🍷 | A phishing tool that i made, MUST be ran in python
 # ----------------------------------------------------------
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=black)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
 
 ## why do i do this?
 ##### i make these kind of things bc im board at school, im passing my classes and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
