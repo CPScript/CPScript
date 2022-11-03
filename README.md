@@ -26,6 +26,8 @@ Projects | what they do
 
 ##### If i do see that these scripts are being used for malicious acts i will take them down and put the code into google docs
 
-<!--START_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?
+username=CPScript&show_icons=true&theme=theme_hacker)
 
-<!--END_SECTION:waka-->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?
+username=codemaker2015&show_icons=true&theme=radical)
