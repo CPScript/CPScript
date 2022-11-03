@@ -29,4 +29,4 @@ Projects | what they do
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScriptlayout=compact&theme=blue-green)
+![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CPScript&theme=theme_green)
