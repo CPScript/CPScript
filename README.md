@@ -32,4 +32,12 @@ Projects | what they do
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
+# what type of programer/hacker am I???
+## I would be considered a GRAY hat
+[white hat]⚪ | A hacker thats ethical and hacks for good
+[Gray hat]🔘 | A hacker that is not malicious but not always ethical
+[Black hat]⚫ | Malicious hacker that only does harm 
+[Blue hat]🔵 | A hacker that hacks for revenge
+[Red hat]🔴 | A hacker that is a vigilante
+[Green hat]🟢 | A hacker that is new to hacking, and probiblt doesn't know what there doing.
+[Script Skeepy]🤮 | A hacker that steals other scripts and uses them in there own programs
