@@ -20,8 +20,8 @@ Projects | what they do
 [Web-D00M]💀 | This was made for people that have had things on the internet don wrong to them <3
 [WannaCry]😭 | Literaly WannayCry's Script
 [Fine-Wine]🍷 | A phishing tool that i made, MUST be ran in python
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=theme)
 # ----------------------------------------------------------
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=black)
 
 ## why do i do this?
 ##### i make these kind of things bc im board at school, im passing my classes and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
