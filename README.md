@@ -6,6 +6,7 @@
 
 # about me
 I have had this github account for 1 to 2 years and just never realy used it that much, now i use it to backup all of the projects that i have made and YEAH... thats basicly all, You can reach out to me by my discord "Fe4RLess#0001" or by email "Endermanhunter07@gmail.com" i dont check my email tho so dont think ill respond quickly. The things that i creat are malware, and i create antiviruses to (I do not use them, i only create them for fun) the only things i create them for is for people that have had things done wroung to them online
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScriptlayout=compact&theme=blue-green)
 
 ## Things iv created!
 
