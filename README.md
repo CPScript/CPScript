@@ -45,4 +45,6 @@ types of hackers | what they do
 [Script Skeepy]🤮 | A hacker that steals other scripts and uses them in there own programs
 ### I would be considred a Gray Hat <3
 
+# HAVE A GREAT DAY <3
+ <img src="https://steamuserimages-a.akamaihd.net/ugc/897763649221801158/A99E49E5859B6FE0DD0ED17C6909AD776F118CFA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
 
