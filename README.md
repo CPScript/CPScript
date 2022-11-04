@@ -47,9 +47,9 @@ types of hackers | what they do
 
 # How do you code?
 ### NGL i have no clue, i take stuff that i know BASH them togather and creat things :)     its honistly quite fun
-# How do i start off o coding?
 #### one of the most easy Things to use whan starting to code is HTML (Hyper Text Markup Language) 
-#### To start you can go to code.org to get started :>
+#### To start you can go to https://code.org/ to get started (If your a kid)
+#### If your an adult, you can probibly try PHP or javascript (basicly the same as HTML) 
 
 
 
