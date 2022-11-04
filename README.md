@@ -45,6 +45,15 @@ types of hackers | what they do
 [Script Skeepy]🤮 | A hacker that steals other scripts and uses them in there own programs
 ##### I would be considred a Gray Hat <3
 
+# How do you code?
+### NGL i have no clue, i take stuff that i know BASH them togather and creat things :)     its honistly quite fun
+# How do i start off o coding?
+#### one of the most easy Things to use whan starting to code is HTML (Hyper Text Markup Language) 
+#### To start you can go to code.org to get started :>
+
+
+
+
 # Have a great DAY <3
 
  <img src="https://steamuserimages-a.akamaihd.net/ugc/897763649221801158/A99E49E5859B6FE0DD0ED17C6909AD776F118CFA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
