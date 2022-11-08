@@ -12,7 +12,7 @@ I have had this github account for 1 to 2 years and just never realy used it tha
 
 ## Things iv created!
 
-
+Malware
 Projects | what they do
 --------- | ---------
 [YourAcutie.TXT]❤️ | my favoret project that i have made :)
@@ -23,9 +23,17 @@ Projects | what they do
 [WannaCry]😭 | Literaly WannayCry's Script
 [Fine-Wine]🍷 | A phishing tool that i made, MUST be ran in python
 # ----------------------------------------------------------
+Safe stuff <3
+[CPScript] | My Read.me (What your reading)
+[Auto-key-clicker] | Click/KEYstrokes a sertain key
+[I-WISH-I-KNEW] | makes a pop up of the song (i was board... OK?)
+[snake] | Snake (not the game) for my Read.me (does not work)
+[WAKATIME_API_KEY] | IDK what this does... like the snake its for my Read.me
+[CuteVirusCollection] | Ideas...
+[MyD00M] | Thr Mydoom virus Sorce code
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
 
-## why do i do this?
+# why do i do this?
 ##### i make these kind of things bc im board and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
 
 ##### If i do see that these scripts are being used for malicious acts i will take them down and put the code into google docs
