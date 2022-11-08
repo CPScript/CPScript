@@ -10,9 +10,14 @@ I have had this github account for 1 to 2 years and just never realy used it tha
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CPScript&theme=theme_xcode)
 
 
+
+
+
+
+
 ## Things iv created!
 
-Malware
+Bad stuff :<
 Projects | what they do
 --------- | ---------
 [YourAcutie.TXT]❤️ | my favoret project that i have made :)
@@ -33,7 +38,22 @@ Projects | what they do
 [WAKATIME_API_KEY] | IDK what this does... like the snake its for my Read.me
 [CuteVirusCollection] | Ideas...
 [MyD00M] | Thr Mydoom virus Sorce code
+# -----------
+
+
+
+
+
+
+
+
+
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
+
+
+
+
+
 
 # why do i do this?
 ##### i make these kind of things bc im board and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
@@ -41,6 +61,18 @@ Projects | what they do
 ##### If i do see that these scripts are being used for malicious acts i will take them down and put the code into google docs
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
+
+
+
+
+
+
+
+
+
+
 
 # what type of programer/hacker are you????
 ######  
@@ -55,12 +87,35 @@ types of hackers | what they do
 [Script Skeepy]🤮 | A hacker that steals other scripts and uses them in there own programs
 ##### I would be considred a Gray Hat <3
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # How do you code?
 ### NGL i have no clue, i take stuff that i know BASH them togather and creat things :)     its honistly quite fun
 #### one of the most easy Things to use whan starting to code is HTML (Hyper Text Markup Language) 
 #### To start you can go to https://code.org/ to get started (If your a kid)
 #### If your an adult, you can probibly try PHP or javascript (basicly the same as HTML) 
 # ------------
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -73,6 +128,11 @@ Questions | Answers
 [Have i made any?] | I have made some Game hacks (i will not give them to you) I have made them for the fun of it BC im board all the time <3
 [Can you have any of the hacks] | NO! i do not promote hacking for you can get in a lot of trouble, I dont use them for bad. i test and explore
 [How do you make game hacks?] | I cant tell you... Because you could make ssome of your own. (I dont wanna be responsible)
+
+
+
+
+
 
 
 
