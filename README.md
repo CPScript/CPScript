@@ -54,7 +54,7 @@ types of hackers | what they do
 
 
 
-# Do i hack?
+# Do i hack on games?
 
 Questions | Answers
 --------- | ---------
