@@ -24,6 +24,8 @@ Projects | what they do
 [Fine-Wine]🍷 | A phishing tool that i made, MUST be ran in python
 # ----------------------------------------------------------
 Safe stuff <3
+Projects | what they do
+--------- | ---------
 [CPScript] | My Read.me (What your reading)
 [Auto-key-clicker] | Click/KEYstrokes a sertain key
 [I-WISH-I-KNEW] | makes a pop up of the song (i was board... OK?)
