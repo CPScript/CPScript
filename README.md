@@ -50,6 +50,14 @@ types of hackers | what they do
 #### one of the most easy Things to use whan starting to code is HTML (Hyper Text Markup Language) 
 #### To start you can go to https://code.org/ to get started (If your a kid)
 #### If your an adult, you can probibly try PHP or javascript (basicly the same as HTML) 
+# ------------
+# Do i hack?
+--------- | ---------
+[Do i have hacks in games?] | YES! i do have hacks in MANY diffrent games Variating from Fortnite, CSGO, Minecraft, Roblox, coolmath, and many other games
+[Why do i use hacks?] | for the fun of it, I dont use hacks for an advantage, I test and use them for fun.
+[Have i made any?] | I have made some Game hacks (i will not give them to you) I have made them for the fun of it BC im board all the time <3
+[Can you have any of the hacks] | NO! i do not promote hacking for you can get in a lot of trouble, I dont use them for bad. i test and explore
+[How do you make game hacks?] | I cant tell you... Because you could make ssome of your own. (I dont wanna be responsible)
 
 
 
