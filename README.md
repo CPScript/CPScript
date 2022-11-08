@@ -51,7 +51,12 @@ types of hackers | what they do
 #### To start you can go to https://code.org/ to get started (If your a kid)
 #### If your an adult, you can probibly try PHP or javascript (basicly the same as HTML) 
 # ------------
+
+
+
 # Do i hack?
+
+Questions | Answers
 --------- | ---------
 [Do i have hacks in games?] | YES! i do have hacks in MANY diffrent games Variating from Fortnite, CSGO, Minecraft, Roblox, coolmath, and many other games
 [Why do i use hacks?] | for the fun of it, I dont use hacks for an advantage, I test and use them for fun.
