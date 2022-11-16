@@ -5,8 +5,7 @@
 
 
 # about me
-I have had this github account for 1 to 2 years and just never realy used it that much, now i use it to backup all of the projects that i have made and YEAH... thats basicly all, You can reach out to me by my discord "Fe4RLess#0001". The things that i creat are malware, and i create antiviruses to (I do not use them, i only create them for fun) the only things i create them for is for people that have had things done wroung to them online
-
+I love to code/make scripts and have been doing it for 2 years now <3
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CPScript&theme=theme_xcode)
 
 
@@ -17,7 +16,7 @@ I have had this github account for 1 to 2 years and just never realy used it tha
 
 ## Things iv created!
 
-Bad stuff :<
+### Bad stuff :<
 Projects | what they do
 --------- | ---------
 [YourAcutie.TXT]❤️ | my favoret project that i have made :)
@@ -28,7 +27,7 @@ Projects | what they do
 [WannaCry]😭 | Literaly WannayCry's Script
 [Fine-Wine]🍷 | A phishing tool that i made, MUST be ran in python
 # ----------------------------------------------------------
-Safe stuff <3
+### Safe stuff <3
 Projects | what they do
 --------- | ---------
 [CPScript] | My Read.me (What your reading)
@@ -37,8 +36,8 @@ Projects | what they do
 [snake] | Snake (not the game) for my Read.me (does not work)
 [WAKATIME_API_KEY] | IDK what this does... like the snake its for my Read.me
 [CuteVirusCollection] | Ideas...
-[MyD00M] | Thr Mydoom virus Sorce code
-# -----------
+[MyD00M] | The Mydoom virus Sorce code
+# ----------------------------------------------
 
 
 
@@ -56,9 +55,9 @@ Projects | what they do
 
 
 # why do i do this?
-##### i make these kind of things bc im board and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
+### i make these kind of things bc im board and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
 
-##### If i do see that these scripts are being used for malicious acts i will take them down and put the code into google docs
+#### If i do see that these scripts are being used for malicious acts i will take them down and put the code into google docs
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -101,11 +100,9 @@ types of hackers | what they do
 
 
 # How do you code?
-### NGL i have no clue, i take stuff that i know BASH them togather and creat things :)     its honistly quite fun
-#### one of the most easy Things to use whan starting to code is HTML (Hyper Text Markup Language) 
-#### To start you can go to https://code.org/ to get started (If your a kid)
-#### If your an adult, you can probibly try PHP or javascript (basicly the same as HTML) 
-# ------------
+### NGL i have no clue, i take stuff that i know BASH them togather and creat things :)     its honistly quite fun!!!
+### one of the most easy Things to use whan starting to code is HTML (Hyper Text Markup Language). To start you can go to https://code.org/ to get started (If your a kid), If your an adult, you can probibly try PHP or javascript (basicly the same as HTML) 
+# ---------------------------------------
 
 
 
