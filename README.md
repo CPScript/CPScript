@@ -139,5 +139,5 @@ Questions | Answers
 
 # Have a great DAY <3
 
- <img src="https://steamuserimages-a.akamaihd.net/ugc/897763649221801158/A99E49E5859B6FE0DD0ED17C6909AD776F118CFA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" />
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5TLJID_Ax92fzvIXtNKFM4ShQntYDbdVhA&usqp=CAU" />
 
