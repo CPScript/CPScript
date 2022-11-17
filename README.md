@@ -35,7 +35,7 @@ Projects | what they do
 [I-WISH-I-KNEW] | makes a pop up of the song (i was board... OK?)
 [snake] | Snake (not the game) for my Read.me (does not work)
 [WAKATIME_API_KEY] | IDK what this does... like the snake its for my Read.me
-[CuteVirusCollection] | Ideas...
+[Viruses] | a lot of diffrent viruses :) ...
 [MyD00M] | The Mydoom virus Sorce code
 # ----------------------------------------------
 
