@@ -1,6 +1,4 @@
-<p align="center">
- <img src="https://ntmaker.gfto.ru/animtilestexten//data/fire/7a17a0653d1ed525d41acae79762f752/fire.gif" />
-</p>
+
 
 
 
