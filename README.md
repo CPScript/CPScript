@@ -3,7 +3,7 @@
 
 
 # about me
-I love to code/make scripts and have been doing it for 2 years now <3
+I make dumb stuff for fun...
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CPScript&theme=theme_xcode)
 
 
