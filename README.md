@@ -4,6 +4,7 @@
 
 # about me
 I make dumb stuff for fun...
+### some of my code is bugged on some of my projects... im curently trying to fix them
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CPScript&theme=theme_xcode)
 
 
