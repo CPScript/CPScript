@@ -1,7 +1,7 @@
 
 
 
-### some of my code is bugged on some of my projects... im curently trying to fix them
+### Soe of the code in my projects are bugged... im trying to fix them!
 
 # about me
 I make dumb stuff for fun...
@@ -72,7 +72,7 @@ Projects | what they do
 
 
 
-# what type of programer/hacker are you????
+# What type of programer/hacker are you????
 ######  
 types of hackers | what they do
 --------- | ---------
