@@ -149,5 +149,5 @@ Questions | Answers
 
 # Have a great DAY <3
 
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQt5TLJID_Ax92fzvIXtNKFM4ShQntYDbdVhA&usqp=CAU" />
+ <img src="" />
 
