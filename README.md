@@ -8,6 +8,14 @@ Bugged repos | Why are they bugged?
 [FineWine-PhishingT00L] | IDK what the bug is, probibly has to do something with the startup process.
 [Chicken Wings] | I cant accses the file... (At the moment :< )
 
+# --------------------------------------------------------------
+### What im working on... at the moment
+im curently working on a python script to show you how to run programs in python... And download stuff.
+
+
+
+
+
 # about me
 I make dumb stuff for fun...
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CPScript&theme=theme_xcode)
