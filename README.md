@@ -1,7 +1,7 @@
 
 
 
-### Soe of the code in my projects are bugged... im trying to fix them!
+### Some of the code in my projects are bugged... im trying to fix them!
 
 # about me
 I make dumb stuff for fun...
