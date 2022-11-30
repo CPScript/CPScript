@@ -10,7 +10,7 @@ Bugged repos | Why are they bugged?
 
 # --------------------------------------------------------------
 ### What im working on... at the moment
-im curently working on a python script to show you how to run programs in python... And download stuff.
+A bot that gets all open ports that are connected to your ip address
 
 # --------------------------------------------------------------
 
