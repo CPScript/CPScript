@@ -2,6 +2,11 @@
 
 
 ### Some of the code in my projects are bugged... im trying to fix them!
+Bugged repos | Why are they bugged?
+--------- | ---------
+[Smile] | Nothing is wroung with it, it just doesn't load the website.
+[FineWine-PhishingT00L] | IDK what the bug is, probibly has to do something with the startup process.
+[Chicken Wings] | I cant accses the file... (At the moment :< )
 
 # about me
 I make dumb stuff for fun...
