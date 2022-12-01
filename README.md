@@ -165,6 +165,8 @@ Questions | Answers
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 # Have a great DAY <3
 
 <p align="center">
