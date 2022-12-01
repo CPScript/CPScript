@@ -6,7 +6,7 @@ Bugged repos | Why are they bugged?
 --------- | ---------
 [Smile] | Nothing is wroung with it, it just doesn't load the website.
 [Chicken Wings] | I cant accses the file... (At the moment :< )
-
+i fixed one :D
 # --------------------------------------------------------------
 ### What im working on... at the moment
 A bot that gets all open ports that are connected to your ip address
