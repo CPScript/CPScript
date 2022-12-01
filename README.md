@@ -162,7 +162,9 @@ Questions | Answers
 [How do i get to da hacks?] | go to this link--> https://github.com/CPS-hacks
 
 
-
+<p align="center">
+ <img src="https://irdeto-wp-content.irdeto.com/wp-content/uploads/2022/04/22122041/game_protection__.png" />
+</p>
 
 
 
