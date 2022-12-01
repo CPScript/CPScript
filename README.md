@@ -30,9 +30,6 @@ Bugged repos | Why are they bugged?
 
 # --------------------------------------------------------------
 
- <div align="center">
-
-<samp>
 
 # about me
 I make dumb stuff for fun...
@@ -40,11 +37,6 @@ I make dumb stuff for fun...
 
 
 
-
-
-<div align="center">
-
-<samp>
 
  # Things iv created!
 
@@ -88,9 +80,6 @@ BetterDiscord-MyAnimeTheme | a better discord theme that i have made
  <img src="https://info.thinklab.design/hs-fs/hubfs/Campaigns/Events/Hackathon/2022/TL21_Hackathon_LP_icon_4.png?width=400&height=400&name=TL21_Hackathon_LP_icon_4.png" />
 </p>
 
- <div align="center">
-
-<samp>
 
 # why do i do this?
 ### i make these kind of things bc im board and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
@@ -108,10 +97,6 @@ BetterDiscord-MyAnimeTheme | a better discord theme that i have made
 
 
 
-
-<div align="center">
-
-<samp>
 
 # What type of programer/hacker are you????
 ######  
@@ -138,10 +123,6 @@ types of hackers | what they do
 
 
 
-<div align="center">
-
-<samp>
-
 # How do you code?
 ### NGL i have no clue, i take stuff that i know BASH them togather and creat things :)     its honistly quite fun!!!
 ### one of the most easy Things to use whan starting to code is HTML (Hyper Text Markup Language). To start you can go to https://code.org/ to get started (If your a kid), If your an adult, you can probibly try PHP or javascript (basicly the same as HTML) 
@@ -151,16 +132,6 @@ types of hackers | what they do
 
 
 
-
-
-
-
-
-
-
-<div align="center">
-
-<samp>
 
 # Do i hack on games?
 
@@ -179,9 +150,6 @@ Questions | Answers
 </p>
 
 
-<div align="center">
-
-<samp>
 
 # MY STATS
 
