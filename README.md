@@ -20,7 +20,9 @@ Bugged repos | Why are they bugged?
 [Chicken Wings] | I cant accses the file... (At the moment :< )
 # --------------------------------------------------------------
 
-
+<p align="center">
+ <img src="https://static.thenounproject.com/png/3311300-200.png" />
+</p>
 
 # about me
 I make dumb stuff for fun...
@@ -155,5 +157,7 @@ Questions | Answers
 
 # Have a great DAY <3
 
- <img src="" />
+<p align="center">
+ <img src="https://gifimage.net/wp-content/uploads/2018/06/transparent-glitch-gif-10.gif" />
+</p>
 
