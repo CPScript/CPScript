@@ -5,7 +5,6 @@
 Bugged repos | Why are they bugged?
 --------- | ---------
 [Smile] | Nothing is wroung with it, it just doesn't load the website.
-[FineWine-PhishingT00L] | IDK what the bug is, probibly has to do something with the startup process.
 [Chicken Wings] | I cant accses the file... (At the moment :< )
 
 # --------------------------------------------------------------
