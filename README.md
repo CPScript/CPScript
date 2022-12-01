@@ -83,7 +83,9 @@ BetterDiscord-MyAnimeTheme | a better discord theme that i have made
 
 
 
-
+<p align="left">
+ <img src="https://www.freepnglogos.com/uploads/question-mark-png/red-and-yellow-question-mark-transparent-png-svg-vector-4.png" />
+</p>
 
 
 # why do i do this?
