@@ -1,19 +1,14 @@
 
 
 
-### Some of the code in my projects are bugged... im trying to fix them!
-Bugged repos | Why are they bugged?
---------- | ---------
-[Smile] | Nothing is wroung with it, it just doesn't load the website.
-[Chicken Wings] | I cant accses the file... (At the moment :< )
-
-### What im working on.
+# What im working on.
 Project names | Info | Estemated date to be Finished | LINK
 --------- | --------- | --------- | --------- 
 [Zip-Password-Grabber] | A program that finds all open ports connected to a public IP address | 12/10/22 | https://github.com/CPScript/SpiltWine-
 [SpiltWine-] | A program that Finds the password to any locked Zip Files | 12/11/22 | https://github.com/CPScript/Zip-Password-Grabber
 [FireFox] | A program that Runs FireFox in a VM or sandbox | 12/24/22 | NOT PUBLIC YET!
-## -----
+## -
+### SOme of my bugged projects
 Bugged repos | Why are they bugged?
 --------- | ---------
 [Smile] | Nothing is wroung with it, it just doesn't load the website.
