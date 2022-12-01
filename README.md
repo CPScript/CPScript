@@ -30,7 +30,8 @@ Bugged repos | Why are they bugged?
 
 
 # about me
-I make dumb stuff for fun...
+I specialize in Networking and making Malware, Spyware, Adware, and viruses. I also make Hacks for games and other stuff.
+I dont acctuly use any of the Viruses or trajans that i make and i only make them for fun. :)
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CPScript&theme=theme_xcode)
 
 
