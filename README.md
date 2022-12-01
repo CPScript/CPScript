@@ -83,11 +83,9 @@ BetterDiscord-MyAnimeTheme | a better discord theme that i have made
 
 
 
-<p align="left">
+<p align="center">
  <img src="https://info.thinklab.design/hs-fs/hubfs/Campaigns/Events/Hackathon/2022/TL21_Hackathon_LP_icon_4.png?width=400&height=400&name=TL21_Hackathon_LP_icon_4.png" />
 </p>
-
-
 # why do i do this?
 ### i make these kind of things bc im board and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
 
