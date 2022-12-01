@@ -12,6 +12,7 @@ Project names | Info | Estemated date to be Finished | LINK
 <p align="center">
  <img src="https://static.thenounproject.com/png/239041-200.png" />
 </p>
+
 ## Some of my bugged projects
 Bugged repos | Why are they bugged?
 --------- | ---------
