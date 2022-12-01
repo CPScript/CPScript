@@ -5,8 +5,6 @@
 
 <div align="center">
 
-<samp>
-
  # What im working on.
 Project names | Info | Estemated date to be Finished | LINK
 --------- | --------- | --------- | --------- 
