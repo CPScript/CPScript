@@ -84,7 +84,7 @@ BetterDiscord-MyAnimeTheme | a better discord theme that i have made
 
 
 <p align="left">
- <img src="https://www.freepnglogos.com/uploads/question-mark-png/red-and-yellow-question-mark-transparent-png-svg-vector-4.png" />
+ <img src="https://info.thinklab.design/hs-fs/hubfs/Campaigns/Events/Hackathon/2022/TL21_Hackathon_LP_icon_4.png?width=400&height=400&name=TL21_Hackathon_LP_icon_4.png" />
 </p>
 
 
