@@ -163,7 +163,7 @@ Questions | Answers
 
 
 <p align="center">
- <img src="https://irdeto-wp-content.irdeto.com/wp-content/uploads/2022/04/22122041/game_protection__.png" />
+ <img src="https://www.guardsquare.com/hubfs/nav-icon_gaming.png" />
 </p>
 
 
