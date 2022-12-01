@@ -3,7 +3,11 @@
  <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 </p>
 
-# What im working on.
+<div align="center">
+
+<samp>
+
+ # What im working on.
 Project names | Info | Estemated date to be Finished | LINK
 --------- | --------- | --------- | --------- 
 SpiltWine- | A program that finds all open ports connected to a public IP address | 12/10/22 | https://github.com/CPScript/SpiltWine-
@@ -26,6 +30,10 @@ Bugged repos | Why are they bugged?
 
 # --------------------------------------------------------------
 
+ <div align="center">
+
+<samp>
+
 # about me
 I make dumb stuff for fun...
 ![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=CPScript&theme=theme_xcode)
@@ -34,9 +42,11 @@ I make dumb stuff for fun...
 
 
 
+<div align="center">
 
+<samp>
 
-# Things iv created!
+ # Things iv created!
 
 <p align="center">
  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" />
@@ -78,6 +88,10 @@ BetterDiscord-MyAnimeTheme | a better discord theme that i have made
  <img src="https://info.thinklab.design/hs-fs/hubfs/Campaigns/Events/Hackathon/2022/TL21_Hackathon_LP_icon_4.png?width=400&height=400&name=TL21_Hackathon_LP_icon_4.png" />
 </p>
 
+ <div align="center">
+
+<samp>
+
 # why do i do this?
 ### i make these kind of things bc im board and have nothing else to do, I never plan on using these scripts/programs, and never want to see what i have created go out on the web.
 
@@ -95,6 +109,9 @@ BetterDiscord-MyAnimeTheme | a better discord theme that i have made
 
 
 
+<div align="center">
+
+<samp>
 
 # What type of programer/hacker are you????
 ######  
@@ -121,6 +138,9 @@ types of hackers | what they do
 
 
 
+<div align="center">
+
+<samp>
 
 # How do you code?
 ### NGL i have no clue, i take stuff that i know BASH them togather and creat things :)     its honistly quite fun!!!
@@ -138,6 +158,9 @@ types of hackers | what they do
 
 
 
+<div align="center">
+
+<samp>
 
 # Do i hack on games?
 
@@ -156,6 +179,9 @@ Questions | Answers
 </p>
 
 
+<div align="center">
+
+<samp>
 
 # MY STATS
 
