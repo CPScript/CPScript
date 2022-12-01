@@ -1,6 +1,6 @@
 
 <p align="center">
- <img src="https://cliply.co/wp-content/uploads/2019/06/371906130_TYPING_ON_LAPTOP_400.png" />
+ <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
 </p>
 
 # What im working on.
