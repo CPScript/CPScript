@@ -36,9 +36,12 @@ I make dumb stuff for fun...
 
 
 
-## Things iv created!
+# Things iv created!
 
-### Bad stuff :<
+<p align="center">
+ <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" />
+</p>
+
 Projects | what they do
 --------- | ---------
 [YourAcutie.TXT]❤️ | my favoret project that i have made :)
@@ -48,10 +51,6 @@ Projects | what they do
 [Web-D00M]💀 | This was made for people that have had things on the internet don wrong to them <3
 [WannaCry]😭 | Literaly WannayCry's Script
 [Fine-Wine]🍷 | A phishing tool that i made, MUST be ran in python
-# ----------------------------------------------------------
-### Safe stuff <3
-Projects | what they do
---------- | ---------
 [CPScript] | My Read.me (What your reading)
 [Auto-key-clicker] | Click/KEYstrokes a sertain key
 [I-WISH-I-KNEW] | makes a pop up of the song (i was board... OK?)
@@ -59,7 +58,18 @@ Projects | what they do
 [WAKATIME_API_KEY] | IDK what this does... like the snake its for my Read.me
 [Viruses] | a lot of diffrent viruses :) ...
 [MyD00M] | The Mydoom virus Sorce code
-# ----------------------------------------------
+[script to add images] | a 4 line script to add images to the README.md of a Repository
+[FireFox] | the firefox browser
+[CPSphishing-tool] | a phishing tool with 30+ options
+[spiltwine-] | a tool to find all open ports on a IP address
+[How-to-Run-scripts] | a turtorial on how to run scripts in the Codespace terminal
+[FineWINE-phishingT00L] | i forgot what this does
+[Ransomeware] | Some ransomeware that i got
+[Toxi-DDoS ] | a ddos tool (TROOL) this doesn't work, it just looks cool
+[Auto-key-clicker] | aoutmaticly does a keystroke, kinda like a macro
+[I-WISH-I-KNEW] | I WISH I KNEW... I WISH I KNEW YOU WANTED ME
+[Web-D00M-for-small-websites ] | ddos tool for little websites
+[BetterDiscord-MyAnimeTheme] | a better discord theme that i have made
 
 
 
