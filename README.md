@@ -158,9 +158,9 @@ Questions | Answers
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
 
-# Have a great DAY <3
+# Have a great DAY <3... ↓POV me↓
 
 <p align="center">
- <img src="" />
+ <img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" />
 </p>
 
