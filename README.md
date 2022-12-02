@@ -161,6 +161,6 @@ Questions | Answers
 # Have a great DAY <3
 
 <p align="center">
- <img src="https://gifimage.net/wp-content/uploads/2018/06/transparent-glitch-gif-10.gif" />
+ <img src="" />
 </p>
 
