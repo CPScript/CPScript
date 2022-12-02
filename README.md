@@ -112,8 +112,7 @@ types of hackers | what they do
 ↓better discription↓
 
 <p align="center">
- <img src="https://sectigostore.com/blog/wp-content/uploads/2020/12/breakdown-different-types-of-hackers2.png
-f" />
+ <img src="https://sectigostore.com/blog/wp-content/uploads/2020/12/breakdown-different-types-of-hackers2.png" />
 </p>
 
 #### I would be considred a Gray Hat <3
