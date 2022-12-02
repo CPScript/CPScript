@@ -108,7 +108,15 @@ types of hackers | what they do
 [Red hat]🔴 | A hacker that is a vigilante
 [Green hat]🟢 | A hacker that is new to hacking, and probibly doesn't know what there doing.
 [Script Skeepy]🤮 | A hacker that steals other scripts and uses them in there own programs
-##### I would be considred a Gray Hat <3
+
+↓better discription↓
+
+<p align="center">
+ <img src="https://sectigostore.com/blog/wp-content/uploads/2020/12/breakdown-different-types-of-hackers2.png
+f" />
+</p>
+
+#### I would be considred a Gray Hat <3
 
 
 
