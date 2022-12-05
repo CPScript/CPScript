@@ -3,7 +3,6 @@
  # What im working on.
 Project names | Info | Estemated date to be Finished | LINK
 --------- | --------- | --------- | --------- 
-SpiltWine- | A program that finds all open ports connected to a public IP address | 12/10/22 | https://github.com/CPScript/SpiltWine-
 Zip-Password-Grabber | A program that Finds the password to any locked Zip Files | 12/11/22 | https://github.com/CPScript/Zip-Password-Grabber
 Kitty Tools | A hacking software for Kahoot... somthing new i wanted to try | 12/6/22 | https://github.com/CPScript/Kitty-Tools
 
