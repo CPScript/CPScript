@@ -1,8 +1,3 @@
-
-<p align="center">
- <img src="https://media3.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" />
-</p>
-
 <div align="center">
 
  # What im working on.
