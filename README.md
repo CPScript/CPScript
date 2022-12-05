@@ -146,7 +146,7 @@ Questions | Answers
 
 
 <p align="center">
- <img src="https://www.guardsquare.com/hubfs/nav-icon_gaming.png" />
+ <img src="https://freepngimg.com/thumb/coffee/62047-coffee-for-icons-windows-tea-cup-computer-thumb.png" />
 </p>
 
 
