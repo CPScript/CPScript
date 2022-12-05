@@ -1,3 +1,8 @@
+
+<p align="center">
+ <img src="https://freepngimg.com/thumb/coffee/62047-coffee-for-icons-windows-tea-cup-computer-thumb.png" />
+</p>
+
 <div align="center">
 
  # What im working on.
@@ -143,13 +148,6 @@ Questions | Answers
 [Can you have any of the hacks] | YES! i have now made a orginization just for my HACKS!!!!!! 
 [How do you make game hacks?] | I cant tell you... Because you could make some of your own. (I dont wanna be responsible)
 [How do i get to da hacks?] | go to this link--> https://github.com/CPS-hacks
-
-
-<p align="center">
- <img src="https://freepngimg.com/thumb/coffee/62047-coffee-for-icons-windows-tea-cup-computer-thumb.png" />
-</p>
-
-
 
 # MY STATS
 
