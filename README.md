@@ -8,7 +8,7 @@
  # What im working on.
 Project names | Info | Publish date | LINK
 --------- | --------- | --------- | --------- 
-bookmarklet-tools | Chaeats for kids at school | 12/7/22 | https://github.com/CPScript/Bookmarklet-tools
+bookmarklet-tools | Cheats for kids at school | 12/7/22 | https://github.com/CPScript/bookmarlet-tools
 
  
  
