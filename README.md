@@ -6,9 +6,9 @@
 <div align="center">
 
  # What im working on.
-Project names | Info | Estemated date to be Finished | LINK
+Project names | Info | Publish date | LINK
 --------- | --------- | --------- | --------- 
-Zip-Password-Grabber | A program that Finds the password to any locked Zip Files | 12/11/22 | https://github.com/CPScript/Zip-Password-Grabber
+Reaperr | IP Info Grabber (Best one iv made... YET) | 12/5/22 | https://github.com/CPScript/Reaper
 Kitty Tools | A hacking software for Kahoot... somthing new i wanted to try | 12/6/22 | https://github.com/CPScript/Kitty-Tools
 
 <p align="center">
