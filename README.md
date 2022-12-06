@@ -8,9 +8,32 @@
  # What im working on.
 Project names | Info | Publish date | LINK
 --------- | --------- | --------- | --------- 
-Reaperr | IP Info Grabber (Best one iv made... YET) | 12/5/22 | https://github.com/CPScript/Reaper
+Reaper | IP Info Grabber (Best one iv made... YET) | 12/5/22 | https://github.com/CPScript/Reaper
 Kitty Tools | A hacking software for Kahoot... somthing new i wanted to try | 12/6/22 | https://github.com/CPScript/Kitty-Tools
 
+ 
+ 
+ 
+ 
+# Favoret repos.
+Project names | Info | Publish date | LINK
+--------- | --------- | --------- | --------- 
+Reaper | IP Info Grabber (Best one iv made... YET) | 12/5/22 | https://github.com/CPScript/Reaper
+Kitty Tools | A hacking software for Kahoot... somthing new i wanted to try | 12/6/22 | https://github.com/CPScript/Kitty-Tools
+Wifi-Pass | A software that trys to brute force get the password from a network | 12/6/22 | https://github.com/CPScript/Wifi-Pass
+YourAcutie.TXT | A malware that i made... One of the first ones i have ever made | 11/9/22 | https://github.com/CPScript/YourAcutie.TXT
+Smile | A program that is exactly made to be like YouAreAIdiot.org | 11/15/22 | https://github.com/CPScript/Smile
+CPS-phishing tool | A phishing tool for all your IP puling needs | 11/4/22 | https://github.com/CPScript/CPSphishing-tool
+ToXI-DDoS | A DDoS tool that is FAKE!!!! its only for looks and was made to troll your freinds | 11/20/ https://github.com/CPScript/Toxi-DDoS
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <p align="center">
  <img src="https://static.thenounproject.com/png/239041-200.png" />
 </p>
