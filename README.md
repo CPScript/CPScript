@@ -20,6 +20,7 @@ Project names | Info | Publish date | LINK
 Reaper | IP Info Grabber (Best one iv made... YET) | 12/5/22 | https://github.com/CPScript/Reaper
 Computer Information | Grabs your Computers INFO and displays it t you | 12/6/22 | https://github.com/CPScript/Computer-information
 Kitty Tools | A hacking software for Kahoot... somthing new i wanted to try | 12/6/22 | https://github.com/CPScript/Kitty-Tools
+Cam-Hacker | Shows the vidio feed of easy to acces low costing Camras around the world | 12/7/22 | https://github.com/CPScript/Cam-Hacker
 Wifi-Pass | A software that trys to brute force get the password from a network | 12/6/22 | https://github.com/CPScript/Wifi-Pass
 YourAcutie.TXT | A malware that i made... One of the first ones i have ever made | 11/9/22 | https://github.com/CPScript/YourAcutie.TXT
 Smile | A program that is exactly made to be like YouAreAIdiot.org | 11/15/22 | https://github.com/CPScript/Smile
