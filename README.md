@@ -48,7 +48,6 @@ Smile | A program that is exactly made to be like YouAreAIdiot.org | 11/15/22 | 
 Bugged repos | Why are they bugged?
 --------- | ---------
 [Smile] | Nothing is wrong with it, it just doesn't load the website.
-[Chicken Wings] | I cant accses the file... (At the moment :< )
 
 <p align="center">
  <img src="https://static.thenounproject.com/png/3311300-200.png" />
