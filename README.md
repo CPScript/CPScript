@@ -55,7 +55,7 @@ I dont acctuly use any of the Viruses or trajans that i make and i only make the
 
 
 
- # Things iv created!
+ # MORE STUFF!
 
 <p align="center">
  <img src="https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/79332/coding-clipart-md.png" />
