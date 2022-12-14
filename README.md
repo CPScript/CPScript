@@ -18,6 +18,7 @@ https://github.com/CPScript/Tools
  # What im working on.
 Project names | Info | Publish date | LINK
 --------- | --------- | --------- | --------- 
+Game | im working on a game RN | NONE YET
 LOL-Ransomeware | a ransome made in python | 13/12/22 | https://github.com/CPScript/LOL-ransomeware
 
  
