@@ -19,7 +19,6 @@ https://github.com/CPScript/Tools
 Project names | Info | Publish date | LINK
 --------- | --------- | --------- | --------- 
 Game | im working on a game RN | 00/00/00 | not published
-LOL-Ransom | a ransome made in python | 13/12/22 | https://github.com/CPScript/LOL-ransom
 
  
  
