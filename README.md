@@ -1,7 +1,13 @@
-# Hi there I'm CPScript
-# CURRENTLY REDOING MY ABOUT ME
+<div align="center">
+ 
+# Hi there I'm Chai
+<div align="left">
 
-PLEASE WAIT
+# About me:
+Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made.
+IF YOU USE ONT OF MY MALWARES AND MESS SOMTHING UP... IM NOT RESPONSIBLE!!!!!
+Luv YAH <3
+ 
 
 
 
