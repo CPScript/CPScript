@@ -1,5 +1,19 @@
+# Hi there I'm CPScript
 # CURRENTLY REDOING MY ABOUT ME
+
 PLEASE WAIT
+
+
+
+
+
+
+
+
+
+
+
+
 
 # MY STATS
 
