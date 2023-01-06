@@ -1,4 +1,3 @@
-<div align="center">
  
 # Hi there I'm Chai
 https://github.com/CPScript/tools
@@ -9,7 +8,6 @@ https://github.com/CPScript/tools
 Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made.
 Luv YAH <3
            
-[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
 
 ## my most popular repos
 
@@ -26,6 +24,8 @@ Luv YAH <3
 
 # MY STATS
            
+[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
+ 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
