@@ -26,6 +26,7 @@ Luv YAH <3
 
 
 <div align="center">
+
 # MY STATS
            
 [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
