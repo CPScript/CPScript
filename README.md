@@ -59,9 +59,10 @@ Luv YAH <3
 * A lot of diffrent games
            
            
-           
-           
-           
+## Contact me:
+* Discord - Fe4RLess#0001  im always online         
+* Email - CPScript@outlook.com  Il very rarely check this
+* Persinal Email - Endermanhunter07@gmail.com - I NEVER CHECK THIS AND WILL NOT RESPOND          
 
            
            
