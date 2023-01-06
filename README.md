@@ -11,8 +11,7 @@ Im a 16 year old Programmer... im mainly ethical and dont usualy use the things 
 IF YOU USE ONE OF MY MALWARES AND MESS SOMTHING UP... IM NOT RESPONSIBLE!!!!!
 Luv YAH <3
            
-           
-[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
+      
  
 
 
