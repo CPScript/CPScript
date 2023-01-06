@@ -41,7 +41,7 @@ Luv YAH <3
  
  
 
-<div align="left"> 
+<div align="center">
 
 # Have a great DAY <3...
 ## ↓POV me↓
@@ -51,5 +51,6 @@ Luv YAH <3
 </p>
  
  
+# ↓↓↓My chat room↓↓↓
  
 <a href="https://organizations.minnit.chat/770249523178200/CoffeeChat" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyeE1WLMdrs2CC4dRi_i4gfCQahtjMsgn4g&usqp=CAU" alt="Chat" height="100" width="100"></a>
