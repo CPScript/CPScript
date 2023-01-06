@@ -45,5 +45,5 @@ Luv YAH <3
  
  
  
- <script src="https://minnit.chat/js/embed.js" defer></script><minnit-chat data-chatname="https://organizations.minnit.chat/770249523178200/CoffeeChat?embed&nickname=" data-style="width:90%;height:500px;"></minnit-chat>
+<button class="button" type="submit">CHAT (button)</button>
 
