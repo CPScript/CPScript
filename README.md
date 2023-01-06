@@ -4,12 +4,12 @@
 
 <div align="left">
 
-# About me:
+## About me:
 Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made.
 Luv YAH <3
            
 
-## my most popular repos
+## My most popular repos
 
 * https://github.com/CPScript/tools
 * https://github.com/CPScript/LOL-ransom
@@ -18,7 +18,32 @@ Luv YAH <3
 * https://github.com/CPScript/YourAcutie.TXT
 * https://github.com/CPScript/HiDDen-Cam           
 
+## Languages that i know
+* Main - Python
+* Java
+* C
+* C++
+* PHP
+* HTML
+           
+## What im curently doing
+* Learning - Ruby
+* Learning - C#
+* Learning - How to make Windows applications
+           
+           
+           
+           
 
+           
+           
+           
+           
+           
+           
+           
+           
+           
 <div align="center">
 
 
