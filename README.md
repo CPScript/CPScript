@@ -1,6 +1,6 @@
  
 # Hi there I'm Chai
-https://github.com/CPScript/tools
+
 
 <div align="left">
 
@@ -11,6 +11,7 @@ Luv YAH <3
 
 ## my most popular repos
 
+* https://github.com/CPScript/tools
 * https://github.com/CPScript/LOL-ransom
 * https://github.com/CPScript/Reaper
 * https://github.com/CPScript/DDoS-ToolKit
