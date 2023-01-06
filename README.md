@@ -2,7 +2,7 @@
  
 # Hi there I'm Chai
  
-### all of my programs
+### all of my programms
 https://github.com/CPScript/tools
 <div align="left">
 
@@ -12,7 +12,8 @@ IF YOU USE ONE OF MY MALWARES AND MESS SOMTHING UP... IM NOT RESPONSIBLE!!!!!
 Luv YAH <3
            
       
- 
+ [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
+
 
 
 
@@ -28,8 +29,6 @@ Luv YAH <3
 
 # MY STATS
            
-[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
-
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
