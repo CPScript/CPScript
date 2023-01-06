@@ -42,4 +42,8 @@ Luv YAH <3
 <p align="center">
  <img src="https://media2.giphy.com/media/B4dt6rXq6nABilHTYM/200w.gif?cid=6c09b952gmulkvgs2s32dk721wmozo0kycqzktvc9t13p2ev&rid=200w.gif&ct=g" />
 </p>
+ 
+ 
+ 
+ <script src="https://minnit.chat/js/embed.js" defer></script><minnit-chat data-chatname="https://organizations.minnit.chat/770249523178200/CoffeeChat?embed&nickname=" data-style="width:90%;height:500px;"></minnit-chat>
 
