@@ -1,25 +1,23 @@
 <div align="center">
  
 # Hi there I'm Chai
- 
-### all of my programms
 https://github.com/CPScript/tools
+
 <div align="left">
 
 # About me:
 Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made.
 Luv YAH <3
            
-      
- [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
 
+## my most popular repos
 
-
-
-
-
-
-
+https://github.com/CPScript/LOL-ransom
+https://github.com/CPScript/Reaper
+https://github.com/CPScript/DDoS-ToolKit
+https://github.com/CPScript/YourAcutie.TXT
+https://github.com/CPScript/HiDDen-Cam           
 
 
 <div align="center">
