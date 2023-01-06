@@ -45,8 +45,5 @@ Luv YAH <3
  
  
  
-<a href="#" class="button">Post comment (link)</a>
- 
-<input class="button" type="submit" value="Post comment (input)">
- 
-<button class="button" type="submit">Post comment (button)</button>
+<a href="#" class="button">Chat (https://organizations.minnit.chat/770249523178200/CoffeeChat)</a>
+
