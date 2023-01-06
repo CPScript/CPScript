@@ -45,4 +45,4 @@ Luv YAH <3
  
  
  
-<a href="https://www.buymeacoffee.com/roniemartinez" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://organizations.minnit.chat/770249523178200/CoffeeChat" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2885/2885444.png" alt="Chat" height="41" width="174"></a>
