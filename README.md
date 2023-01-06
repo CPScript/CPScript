@@ -18,6 +18,17 @@ Luv YAH <3
 * https://github.com/CPScript/YourAcutie.TXT
 * https://github.com/CPScript/HiDDen-Cam           
 
+## What i use
+* PiPY 
+* JAVA          
+* Visual studio         
+* WireShark          
+* CMD - Windows command prompt          
+* Linux          
+* Code space
+* Replit~
+* Github Desktop
+           
 ## Languages that i know
 * Main - Python
 * Java
@@ -25,11 +36,29 @@ Luv YAH <3
 * C++
 * PHP
 * HTML
+* Shell
            
 ## What im curently doing
 * Learning - Ruby
 * Learning - C#
 * Learning - How to make Windows applications
+* Making a Website or summ ike that
+           
+## What i do in my free time
+* play games
+* make programs that i will never use when im older
+* Study for school and other stuff
+           
+           
+## Games i play
+* Minecaft
+* Most COD games         
+* GTA 5 & 4          
+* CSGO & CSsourse          
+* VRchat                    
+* FOrtnite   
+* A lot of diffrent games
+           
            
            
            
