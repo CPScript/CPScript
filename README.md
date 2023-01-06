@@ -8,7 +8,6 @@ https://github.com/CPScript/tools
 
 # About me:
 Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made.
-IF YOU USE ONE OF MY MALWARES AND MESS SOMTHING UP... IM NOT RESPONSIBLE!!!!!
 Luv YAH <3
            
       
