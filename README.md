@@ -32,9 +32,9 @@ Luv YAH <3
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Have a great DAY <3...
 ## ↓POV me↓
