@@ -1,10 +1,9 @@
  
-# Hi there I'm Chai
 
 
 <div align="left">
 
-## About me:
+# About me:
 Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made.
 Luv YAH <3
            
