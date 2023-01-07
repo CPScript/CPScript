@@ -31,8 +31,6 @@ Luv YAH <3
 ## Languages that i know
 * Main - Python
 * Java
-* C
-* C++
 * PHP
 * HTML
 * Shell
