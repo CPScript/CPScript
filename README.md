@@ -4,16 +4,12 @@
 <div align="left">
 
 # About me:
-Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made.
-Luv YAH <3
-
-# What i used to do?
-Some thing i used to do was make games on Scratch.com HERE ----> https://scratch.mit.edu/users/Unreal-engine-5/ <----
+Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made, Some thing i used to do was make games on Scratch.com HERE ----> https://scratch.mit.edu/users/Unreal-engine-5/ <----
            
            
 
 ## Learn Coding
-* https://github.com/CPScript/Learning-C
+* https://github.com/CPScript/Learn-C
 * https://github.com/CPScript/Learn-Ruby                                                                                                             
 * https://github.com/CPScript/Lean-Python (noy published yet)
                                                                                                                       
