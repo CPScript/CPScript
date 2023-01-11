@@ -42,9 +42,9 @@ Im a 16 year old Programmer... im mainly ethical and dont usualy use the things 
 * PHP
 * HTML
 * Shell
+* Ruby
            
 ## What im curently doing
-* Learning - Ruby
 * Learning - C#
 * Learning - How to make Windows applications
 * Making a Website or summ ike that
