@@ -11,7 +11,7 @@ Im a 16 year old Programmer... im mainly ethical and dont usualy use the things 
 ## Learn Coding
 * https://github.com/CPScript/Learn-C
 * https://github.com/CPScript/Learn-Ruby                                                                                                             
-* https://github.com/CPScript/Lean-Python (noy published yet)
+* https://github.com/CPScript/Lean-Python (not published yet)
                                                                                                                       
                                                                                                                       
                                                                                                                   
