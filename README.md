@@ -12,6 +12,14 @@ Some thing i used to do was make games on Scratch.com HERE ----> https://scratch
            
            
 
+## Learn Coding
+* https://github.com/CPScript/Learning-C
+* https://github.com/CPScript/Learn-Ruby                                                                                                             
+* https://github.com/CPScript/Lean-Python (noy published yet)
+                                                                                                                      
+                                                                                                                      
+                                                                                                                  
+                                                                                                                      
 ## My most popular repos
 
 * https://github.com/CPScript/tools
