@@ -96,7 +96,8 @@ Im a 16 year old Programmer... im mainly ethical and dont usualy use the things 
  
  
  
- 
+# BY THE WAY
+What i do is not illigal, now it is illigal if you use the malware or DoS tools, I would not be the one to get in to trouble
 
 <div align="center">
 
