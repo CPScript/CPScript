@@ -4,7 +4,7 @@
 <div align="left">
 
 # About me:
-Im a 16 year old Programmer... im mainly ethical and dont usualy use the things that i have made, Some thing i used to do was make games on Scratch.com HERE ----> https://scratch.mit.edu/users/Unreal-engine-5/ <----
+Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things that i have made for harm, Some thing i used to do was make games on Scratch.com HERE ----> https://scratch.mit.edu/users/Unreal-engine-5/ <----
            
            
 
@@ -66,7 +66,7 @@ Im a 16 year old Programmer... im mainly ethical and dont usualy use the things 
            
            
 ## Contact me:
-* Discord - Fe4RLess#0001  im always online         
+* Discord - Chai#8230  im always online         
 * Email - CPScript@outlook.com  Il very rarely check this
 * Persinal Email - Endermanhunter07@gmail.com - I NEVER CHECK THIS AND WILL NOT RESPOND          
 
@@ -97,7 +97,7 @@ Im a 16 year old Programmer... im mainly ethical and dont usualy use the things 
  
  
 # BY THE WAY
-What i do is not illigal, now it is illigal if you use the malware or DoS tools, I would not be the one to get in to trouble
+Most of the Things i make and do arnt always ethical, BUT ARNT illegal.
 
 <div align="center">
 
