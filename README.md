@@ -1,5 +1,3 @@
- ## My school just reset my Computer... imma be away for a bit, trying to configure everything
-
 
 <div align="left">
 
