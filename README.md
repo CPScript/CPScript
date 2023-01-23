@@ -16,6 +16,7 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
                                                                                                                       
 ## My most popular repos
 
+* https://github.com/CPScript/Kitty-Tools
 * https://github.com/CPScript/tools
 * https://github.com/CPScript/LOL-ransom
 * https://github.com/CPScript/Reaper
