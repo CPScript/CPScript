@@ -4,8 +4,6 @@
 # About me:
 Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things that i have made for harm, Some thing i used to do was make games on Scratch.com HERE ----> https://scratch.mit.edu/users/Unreal-engine-5/ <----
            
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
-
            
 
 ## Learn Coding
@@ -93,6 +91,9 @@ https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+           
+[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github-profile-trophy.vercel.app/?CPScript=ryo-ma&row=2&column=3)
+
 
  
  
