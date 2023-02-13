@@ -47,9 +47,7 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 * Ruby
            
 ## What im curently doing
-* Learning - C#
-* Learning - How to make Windows applications
-* Making a Website or summ ike that
+* Doin summ dumb
            
 ## What i do in my free time
 * play games
