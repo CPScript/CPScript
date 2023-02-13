@@ -1,3 +1,6 @@
+<div align=center>
+    <img src="https://komarev.com/ghpvc/?username=CPScriptstyle=flat-square&color=blue" alt=""/>
+</div>
 
 <div align="left">
 
