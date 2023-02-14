@@ -84,10 +84,10 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
            
 #### MOST USED langs... OVERALL
 
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-    original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img 
-</div>
+
+<h3 align="center">Languages and Tools:</h3>
+original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img 
+
     
 
 
