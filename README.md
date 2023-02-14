@@ -54,22 +54,11 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 * make programs that i will never use when im older
 * Study for school and other stuff
            
-           
-## Games i play
-* Minecaft
-* Most COD games         
-* GTA 5 & 4          
-* CSGO & CSsourse          
-* VRchat                    
-* FOrtnite   
-* A lot of diffrent games
-           
+
            
 ## Contact me:
 * Discord - Chai#8230  im always online         
 * Email - CPScript@outlook.com  Il very rarely check this
-* Persinal Email - Endermanhunter07@gmail.com - I NEVER CHECK THIS AND WILL NOT RESPOND          
-
            
            
            
@@ -93,6 +82,9 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
            
+#### langs
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CPScript&show_icons=true&locale=en&layout=compact" alt="CPScript" /></p>
 
 
  
