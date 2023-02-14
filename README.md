@@ -46,17 +46,17 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
            
 ### Main Languages
 <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" title="PHP" alt="PHP" width="40"
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Bach" alt="Bach" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="60" height="60"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="60" height="60"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/php/php-original.svg" title="PHP" alt="PHP" width="60"
 <div> 
     
 <div>
-    <img src="https://www.file-extension.info/images/resource/formats/vbs.png" title="VBScript" alt="VBS" width="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/29/29529.png" title="BatchFle" alt="Batch" width="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" title="CSharp" alt="C#" width="40/>"
+    <img src="https://www.file-extension.info/images/resource/formats/vbs.png" title="VBScript" alt="VBS" width="60"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/29/29529.png" title="BatchFle" alt="Batch" width="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" title="CSharp" alt="C#" width="60/>"
     <img src=     
 <div>
 
