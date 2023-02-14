@@ -6,6 +6,8 @@
 
 # About me:
 Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things that i have made for harm, Some thing i used to do was make games on Scratch.com HERE ----> https://scratch.mit.edu/users/Unreal-engine-5/ <----
+
+
            
            
 
@@ -25,49 +27,9 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 * https://github.com/CPScript/Reaper
 * https://github.com/CPScript/DDoS-ToolKit
 * https://github.com/CPScript/YourAcutie.TXT
-* https://github.com/CPScript/HiDDen-Cam           
+* https://github.com/CPScript/HiDDen-Cam        
 
-## What i use
-* PiPY 
-* JAVA          
-* Visual studio         
-* WireShark          
-* CMD - Windows command prompt          
-* Linux          
-* Code space
-* Replit~
-* Github Desktop
-           
-## Languages that i know
-* Main - Python
-* Java
-* PHP
-* HTML
-* Shell
-* Ruby
-           
-## What im curently doing
-* Doin summ dumb
-           
-## What i do in my free time
-* play games
-* make programs that i will never use when im older
-* Study for school and other stuff
-           
 
-           
-## Contact me:
-* Discord - Chai#8230  im always online         
-* Email - CPScript@outlook.com  Il very rarely check this
-           
-           
-           
-           
-           
-           
-           
-           
-           
 <div align="center">
 
 
@@ -97,7 +59,28 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" title="CSharp" alt="C#" width="40/>"
     <img src=     
 <div>
-    
+
+<div align="left">
+           
+           
+## What im curently doing
+* Doin summ dumb
+           
+## What i do in my free time
+* play games
+* make programs that i will never use when im older
+* Study for school and other stuff
+           
+
+           
+## Contact me:
+* Discord - Chai#8230  im always online         
+* Email - CPScript@outlook.com  Il very rarely check this
+           
+           
+           
+           
+  
 <div align="center">
 
 # Have a great DAY <3... 
