@@ -84,7 +84,6 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
            
 #### langs
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CPScript&show_icons=true&locale=en&layout=compact" alt="CPScript" /></p>
 
 
  
