@@ -82,7 +82,7 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
            
-#### langs
+#### MOST USED langs... OVERALL
 
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
