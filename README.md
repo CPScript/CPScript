@@ -86,7 +86,7 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 
 
 <h3 align="center">Languages and Tools:</h3>
-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a 
 
     
 
