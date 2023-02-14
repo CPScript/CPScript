@@ -92,8 +92,10 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 <div> 
     
 <div>
-    <img src="https://www.file-extension.info/images/resource/formats/vbs.png" title="VBScript" alt="VBS" width="40"
-    
+    <img src="https://www.file-extension.info/images/resource/formats/vbs.png" title="VBScript" alt="VBS" width="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/29/29529.png" title="BatchFle" alt="Batch" width="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" title="CSharp" alt="C#" width="40/>"
+    <img src=     
 <div>
     
 <div align="center">
