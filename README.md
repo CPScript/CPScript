@@ -82,7 +82,13 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
            
-
+### Main Languages
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp; 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<div>    
 
 
 <div align="center">
@@ -91,10 +97,3 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 ## ↓↓↓My chat room↓↓↓
  
 <a href="https://organizations.minnit.chat/770249523178200/CoffeeChat" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyeE1WLMdrs2CC4dRi_i4gfCQahtjMsgn4g&usqp=CAU" alt="Chat" height="100" width="100"></a>
-    
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp; 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<div>
