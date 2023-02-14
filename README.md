@@ -92,6 +92,10 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
  
 <a href="https://organizations.minnit.chat/770249523178200/CoffeeChat" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyeE1WLMdrs2CC4dRi_i4gfCQahtjMsgn4g&usqp=CAU" alt="Chat" height="100" width="100"></a>
     
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original-wordmark.svg"  title="Lua" alt="Lua" width="40" height="40"/>&nbsp;    
+<div>
     
 <h3 align="center">Languages and Tools:</h3>
 <a href="https://www.w3schools.com/cs/" target="_blank"> 
