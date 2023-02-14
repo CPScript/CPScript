@@ -85,7 +85,6 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 #### MOST USED langs... OVERALL
 
 
-<h3 align="center">Languages and Tools:</h3>
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a 
 
     
