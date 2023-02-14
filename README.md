@@ -82,19 +82,8 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
            
-#### MOST USED langs... OVERALL
 
 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a 
-
-    
-
-
- 
- 
- 
-# BY THE WAY
-Most of the Things i make and do arnt always ethical, BUT ARNT illegal.
 
 <div align="center">
 
@@ -102,3 +91,7 @@ Most of the Things i make and do arnt always ethical, BUT ARNT illegal.
 ## ↓↓↓My chat room↓↓↓
  
 <a href="https://organizations.minnit.chat/770249523178200/CoffeeChat" target="_blank"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNyeE1WLMdrs2CC4dRi_i4gfCQahtjMsgn4g&usqp=CAU" alt="Chat" height="100" width="100"></a>
+    
+    
+<h3 align="center">Languages and Tools:</h3>
+original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img 
