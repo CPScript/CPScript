@@ -14,15 +14,7 @@ Location? | Matrix
 What do i plan to make next? | Something HELLA cool
 Can i hack? | YES... but only for ethical use.
 What do i do 4 fun? | Im ither outside, talking in chatrooms, or playing games.
-
-
-    
-
-    
-
-
-    
-    https://scratch.mit.edu/users/Unreal-engine-5/
+What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
 
            
