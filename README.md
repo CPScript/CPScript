@@ -11,8 +11,6 @@ Age? | I am 16 years old
 Name? | thats classified, just call me CPS or Chai 
 Gender? | Classified
 Location? | Matrix
-    
-    
 What do i plan to make next? | Something HELLA cool
 Can i hack? | YES... but only for ethical use.
 What do i do 4 fun? | Im ither outside, talking in chatrooms, or playing games.
@@ -80,17 +78,7 @@ What do i do 4 fun? | Im ither outside, talking in chatrooms, or playing games.
 <div>
 
 <div align="left">
-           
-           
-## What im curently doing
-* Doin summ dumb
-           
-## What i do in my free time
-* play games
-* make programs that i will never use when im older
-* Study for school and other stuff
-           
-
+          
            
 ## Contact me:
 * Discord - Chai#8230  im always online         
