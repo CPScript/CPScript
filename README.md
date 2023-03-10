@@ -5,7 +5,18 @@
 <div align="left">
 
 # About me:
-Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things that i have made for harm, Some thing i used to do was make games on Scratch.com HERE ----> https://scratch.mit.edu/users/Unreal-engine-5/ <----
+Questions | Answers
+--------- | ---------
+GENERAL | 
+Age? | I am 16 years old
+Name? | thats classified, just call me CPS or Chai 
+Gender? | Classified
+Location? | Matrix
+    
+
+
+    
+    https://scratch.mit.edu/users/Unreal-engine-5/
 
 
            
@@ -22,12 +33,12 @@ Im a 16 year old Programmer... im MAINLY ethical and dont usualy use the things 
 ## My most popular repos
 
 * https://github.com/CPScript/Kitty-Tools
-* https://github.com/CPScript/tools
+* https://github.com/CPScript/USB-Trojan
 * https://github.com/CPScript/LOL-ransom
 * https://github.com/CPScript/Reaper
-* https://github.com/CPScript/DDoS-ToolKit
+* https://github.com/CPScript/VBS-File-maker
 * https://github.com/CPScript/YourAcutie.TXT
-* https://github.com/CPScript/HiDDen-Cam        
+
 
 
 <div align="center">
