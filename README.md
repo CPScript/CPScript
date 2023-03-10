@@ -6,12 +6,20 @@
 
 # About me:
 Questions | Answers
---------- | ---------
-GENERAL | 
+--------- | --------- 
 Age? | I am 16 years old
 Name? | thats classified, just call me CPS or Chai 
 Gender? | Classified
 Location? | Matrix
+    
+    
+What do i plan to make next? | Something HELLA cool
+Can i hack? | YES... but only for ethical use.
+What do i do 4 fun? | Im ither outside, talking in chatrooms, or playing games.
+
+
+    
+
     
 
 
