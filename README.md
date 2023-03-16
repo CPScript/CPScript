@@ -1,7 +1,6 @@
-![ZbRU](https://user-images.githubusercontent.com/83523587/225723408-8466585b-1956-4782-9a40-4978645a72db.gif)
-
-
 <div align=center>
+    
+![ZbRU](https://user-images.githubusercontent.com/83523587/225723408-8466585b-1956-4782-9a40-4978645a72db.gif)
 
 <details>
 <summary>News / Upcoming Repos</summary>
@@ -117,5 +116,5 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 # Have a great DAY <3... 
                          
 <p align="center">
-  <img src="https://i.gifer.com/ZbRU.gif"/>
+  <img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif"/>
 </p>
