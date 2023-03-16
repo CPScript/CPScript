@@ -1,15 +1,14 @@
+<details>
+<summary>News / Upcoming Repos</summary>
+<br>
+
 relese date: march 17, 2023
 
 ![Screenshot 2023-03-14 3 13 06 PM](https://user-images.githubusercontent.com/83523587/225112626-8d8d97c3-91b6-44fa-8b28-0e02548f8673.png)
 
 Preview: https://www.youtube.com/watch?v=Ygw0iv7ooWM
 
-
-
-
-
-
-
+</details>
 
 
 <div align=center>
