@@ -1,7 +1,8 @@
 <div align=center>
     
-![banner-banners](https://user-images.githubusercontent.com/83523587/225724967-c4e3cb0a-2efe-4a9c-9c17-a9f6863ee20e.gif)
+![banner-discord](https://user-images.githubusercontent.com/83523587/225727476-4484fd72-59b0-4842-aa32-317368c824bd.gif)
 
+    
 <details>
 <summary>News / Upcoming Repos</summary>
 <br>
