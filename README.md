@@ -36,9 +36,8 @@ Can i hack? | YES... but only for ethical use.
 What do i do 4 fun? | Im ither outside, talking in chatrooms, or playing games.
 What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
-    
-<div align="center">
 ## -------
+ 
     
 <h1 align="center"><img src="code.gif" height="20"/> Some Repositories</h1>
     
