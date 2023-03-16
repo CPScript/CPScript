@@ -1,6 +1,6 @@
 <div align=center>
     
-![banner-discord](https://user-images.githubusercontent.com/83523587/225727476-4484fd72-59b0-4842-aa32-317368c824bd.gif)
+![ZbRU](https://user-images.githubusercontent.com/83523587/225727539-ff8909d4-f368-4266-8125-77679402725b.gif)
 
     
 <details>
