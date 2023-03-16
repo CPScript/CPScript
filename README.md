@@ -39,7 +39,7 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
     
 <div align="center">
     
-# Repos
+<h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
     
 <div align="center">
   <img src="divider2.png" alt="divider"/>
@@ -48,13 +48,13 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
            
 <div align="left">
 
-## Learn Coding
+### Learn Coding
 * https://github.com/CPScript/Learn-C
 * https://github.com/CPScript/Learn-Ruby   
     
 * https://github.com/CPScript/Lean-Python (not published yet)
                                                                                                                      
-## My most popular repos
+### My most popular repos
 
 * https://github.com/CPScript/Kitty-Tools
 * https://github.com/CPScript/USB-Trojan
