@@ -1,6 +1,6 @@
 <div align=center>
     
-    ![banner-banners](https://user-images.githubusercontent.com/83523587/225724967-c4e3cb0a-2efe-4a9c-9c17-a9f6863ee20e.gif)
+![banner-banners](https://user-images.githubusercontent.com/83523587/225724967-c4e3cb0a-2efe-4a9c-9c17-a9f6863ee20e.gif)
 
 <details>
 <summary>News / Upcoming Repos</summary>
