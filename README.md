@@ -39,7 +39,7 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
     
 <div align="center">
     
-<h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
+<h1 align="center"><img src="code.gif" height="20"/> Some Repositories</h1>
     
 <div align="center">
   <img src="divider2.png" alt="divider"/>
