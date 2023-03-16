@@ -56,10 +56,8 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
 * https://github.com/CPScript/Kitty-Tools
 * https://github.com/CPScript/USB-Trojan
-* https://github.com/CPScript/LOL-ransom
 * https://github.com/CPScript/Reaper
 * https://github.com/CPScript/VBS-File-maker
-* https://github.com/CPScript/YourAcutie.TXT
 
 
 
