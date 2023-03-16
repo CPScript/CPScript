@@ -16,7 +16,7 @@ Preview: https://www.youtube.com/watch?v=Ygw0iv7ooWM
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="left">
+<div align="center">
 
 # About me:
 Questions | Answers
@@ -35,6 +35,7 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 </div> 
            
            
+<div align="left">
 
 ## Learn Coding
 * https://github.com/CPScript/Learn-C
