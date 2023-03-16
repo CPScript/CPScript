@@ -17,6 +17,12 @@ Preview: https://www.youtube.com/watch?v=Ygw0iv7ooWM
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
+    
+    
+    
+    
+    
+    
 
 # About me:
 Questions | Answers
@@ -30,6 +36,11 @@ Can i hack? | YES... but only for ethical use.
 What do i do 4 fun? | Im ither outside, talking in chatrooms, or playing games.
 What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
+    
+<div align="center">
+    
+# Repos
+    
 <div align="center">
   <img src="divider2.png" alt="divider"/>
 </div> 
@@ -39,12 +50,8 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
 ## Learn Coding
 * https://github.com/CPScript/Learn-C
-* https://github.com/CPScript/Learn-Ruby                                                                                                             
-* https://github.com/CPScript/Lean-Python (not published yet)
-                                                                                                                      
-                                                                                                                      
-                                                                                                                  
-                                                                                                                      
+* https://github.com/CPScript/Learn-Ruby                                                                                                * https://github.com/CPScript/Lean-Python (not published yet)
+                                                                                                                     
 ## My most popular repos
 
 * https://github.com/CPScript/Kitty-Tools
@@ -58,11 +65,12 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
 <div align="center">
 
+# MY STATS    
+    
 <div align="center">
   <img src="divider1.png" alt="divider"/>
 </div> 
 
-# MY STATS
            
 [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
  
