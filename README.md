@@ -114,5 +114,5 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 # Have a great DAY <3... 
                          
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://i.pinimg.com/originals/4f/79/d1/4f79d16b5be08fbbdfd8a1978bb59075.gif"/>
 </p>
