@@ -1,5 +1,7 @@
 <div align=center>
     
+    ![banner-banners](https://user-images.githubusercontent.com/83523587/225724967-c4e3cb0a-2efe-4a9c-9c17-a9f6863ee20e.gif)
+
 <details>
 <summary>News / Upcoming Repos</summary>
 <br>
@@ -112,7 +114,3 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 <div align="center">
 
 # Have a great DAY <3... 
-                         
-<p align="center">
-  <img src="https://i.pinimg.com/originals/70/82/63/70826360a72047abc1ff324e7df77b65.gif"/>
-</p>
