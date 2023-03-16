@@ -1,3 +1,5 @@
+<div align=center>
+
 <details>
 <summary>News / Upcoming Repos</summary>
 <br>
@@ -15,7 +17,6 @@ Preview: https://www.youtube.com/watch?v=Ygw0iv7ooWM
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
 
 # About me:
 Questions | Answers
