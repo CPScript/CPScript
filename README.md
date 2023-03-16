@@ -50,7 +50,9 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
 ## Learn Coding
 * https://github.com/CPScript/Learn-C
-* https://github.com/CPScript/Learn-Ruby                                                                                                * https://github.com/CPScript/Lean-Python (not published yet)
+* https://github.com/CPScript/Learn-Ruby   
+    
+* https://github.com/CPScript/Lean-Python (not published yet)
                                                                                                                      
 ## My most popular repos
 
