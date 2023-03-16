@@ -31,7 +31,7 @@ What do i do 4 fun? | Im ither outside, talking in chatrooms, or playing games.
 What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
 <div align="center">
-  <img src="divider1.png" alt="divider"/>
+  <img src="divider2.png" alt="divider"/>
 </div> 
            
            
@@ -58,7 +58,9 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 
 <div align="center">
 
-
+<div align="center">
+  <img src="divider1.png" alt="divider"/>
+</div> 
 
 # MY STATS
            
