@@ -1,7 +1,5 @@
 <div align=center>
     
-![ZbRU](https://user-images.githubusercontent.com/83523587/225727539-ff8909d4-f368-4266-8125-77679402725b.gif)
-
     
 <details>
 <summary>News / Upcoming Repos</summary>
