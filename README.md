@@ -25,16 +25,7 @@ The programs arn't being sold at the moment so dont worry about buying anything
     
 
 # About me:
-Questions | Answers
---------- | --------- 
-Age? | I am 16 years old
-Name? | thats classified, just call me CPS or Chai 
-Gender? | Classified
-Location? | World Wide Web
-What do i plan to make next? | Something HELLA cool
-Can i hack? | YES... but only for ethical use.
-What do i do 4 fun? | Im ither outside, talking in chatrooms, or playing games.
-What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
+there is not muh of anything you need to know about me <3
 
 ## -------
  
