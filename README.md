@@ -111,3 +111,5 @@ What i used to do | https://scratch.mit.edu/users/Unreal-engine-5/
 <div align="center">
 
 # Have a great DAY <3... 
+                         
+![Snake animation](https://github.com/CPScript/github-readme/blob/output/github-contribution-snake.svg)                         
