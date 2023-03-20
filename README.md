@@ -12,7 +12,6 @@ The programs arn't being sold at the moment so dont worry about buying anything
 </details>
 
     
-<img src="https://profile-counter.glitch.me/{CPScript}/count.svg" alt="CPScript :: Visitor's Count" />
 
 <div align=center>
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
