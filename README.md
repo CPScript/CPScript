@@ -25,8 +25,7 @@ The programs arn't being sold at the moment so dont worry about buying anything
     
 
 # About me:
-there is not muh of anything you need to know about me <3
-
+Im 16, I wont care for your feelings (just saying <3), my fav hacking group is "LolzSec", 
 ## -------
  
     
