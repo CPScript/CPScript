@@ -25,7 +25,7 @@ The programs arn't being sold at the moment so dont worry about buying anything
     
 
 # About me:
-Im 16, I wont care for your feelings (just saying <3), my fav hacking group is "LolzSec", 
+Im 16, I wont care for your feelings (just saying <3), my fav hacking group is LolzSec, Im hella dumb (gpa of 2.5 🙃), i like listening to phonk, things i do in my free time are: (Analizing code, looking at malware, going outside, playing games)
 ## -------
  
     
