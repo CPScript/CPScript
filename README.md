@@ -93,7 +93,7 @@ Im 16, I wont care for your feelings (just saying <3), my fav hacking group is L
            
 ## Contact me:
 * Discord - Chai#8230  im always online         
-* Email - CPScript@outlook.com  Il very rarely check this
+* Email - CPScript@hotmail.com  Il very rarely check this
            
            
            
