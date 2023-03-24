@@ -11,7 +11,6 @@ The programs arn't being sold at the moment so dont worry about buying anything
 
 </details>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F?si=EI3AOuoNRZ6GffnQ80XHdw)    
 
 <div align=center>
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
