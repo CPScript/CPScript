@@ -61,13 +61,12 @@ Somethings arn't ment to be said...
 
 <div align="center">
 
-## -------
-
-# MY STATS    
-    
 <div align="center">
   <img src="divider1.png" alt="divider"/>
 </div> 
+    
+# MY STATS    
+
 
            
 [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
