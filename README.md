@@ -26,14 +26,13 @@ The programs arn't being sold at the moment so dont worry about buying anything
 # About me:
 Somethings arn't ment to be said...
                                                        
-## -------
- 
-    
-<h1 align="center"><img src="code.gif" height="20"/> Some Repositories</h1>
-    
 <div align="center">
   <img src="divider2.png" alt="divider"/>
 </div> 
+ 
+    
+<h1 align="center"><img src="code.gif" height="20"/> Repositories</h1>
+    
            
            
 <div align="left">
