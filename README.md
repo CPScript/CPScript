@@ -24,7 +24,7 @@ The programs arn't being sold at the moment so dont worry about buying anything
     
 
 # About me:
-Im 16, I wont care for your feelings (just saying <3), my fav hacking group is LolzSec, Im hella dumb (gpa of 2.5 🙃), i like listening to phonk, things i do in my free time are: (Analizing code, looking at malware, going outside, playing games)
+Somethings arn't ment to be said...
                                                        
 ## -------
  
@@ -38,13 +38,20 @@ Im 16, I wont care for your feelings (just saying <3), my fav hacking group is L
            
 <div align="left">
 
-### Learn Coding
+### My personal Favorets
+* https://github.com/CPScript/Orbit
+* https://github.com/CPScript/Kitty-Tools
+* https://github.com/CPScript/Worst
+* https://github.com/CPScript/HiDDen-Cam    
+
+### Learn
+* https://github.com/CPScript/Programming-Languages
+* https://github.com/CPScript/VBS-File-maker
 * https://github.com/CPScript/Learn-C
 * https://github.com/CPScript/Learn-Ruby   
-    
-* https://github.com/CPScript/Lean-Python (not published yet)
+
                                                                                                                      
-### My most popular repos
+### Most popular repos
 
 * https://github.com/CPScript/Kitty-Tools
 * https://github.com/CPScript/USB-Trojan
