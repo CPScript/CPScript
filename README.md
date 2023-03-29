@@ -24,7 +24,7 @@ The programs arn't being sold at the moment so dont worry about buying anything
     
 
 # About me:
-Somethings arn't ment to be said...
+I just like to make stuff
                                                        
 <div align="center">
   <img src="divider2.png" alt="divider"/>
