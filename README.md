@@ -24,8 +24,8 @@ The programs arn't being sold at the moment so dont worry about buying anything
     
 
 # About me:
-I just like to make stuff
-                                                       
+I'v been getting hacked a lot recently, and who ever is doing it sucks at it... lol (they hacking my gmails, but i get them back in a couple of minutes... PS, im probibly hacking them atm lol)
+    
 <div align="center">
   <img src="divider2.png" alt="divider"/>
 </div> 
