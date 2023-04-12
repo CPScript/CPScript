@@ -60,12 +60,8 @@ I don't care what most people do...
 
 
 <div align="center">
-
-<div align="center">
-  <img src="divider1.png" alt="divider"/>
-</div> 
     
-# MY STATS    
+# STATS    
 
 
            
