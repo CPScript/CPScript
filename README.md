@@ -84,11 +84,7 @@ I don't care what most people do...
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-           
-</details>
-    
-    
-    
+              
     
 ### Main Languages
 <div>
@@ -105,6 +101,9 @@ I don't care what most people do...
     <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-line.svg" title="CSharp" alt="C#" width="60/>"
     <img src=     
 <div>
+    
+</details>
+
 
 <div align="left">
           
