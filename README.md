@@ -52,11 +52,12 @@ I don't care what most people do...
 * https://github.com/CPScript/YouAreAnIdiot
 * https://github.com/CPScript/Fine-Wine
 
-### Learn
+### Learn / Help
+* https://github.com/CPScript/Basic-Scripts
 * https://github.com/CPScript/Programming-Languages
 * https://github.com/CPScript/VBS-File-maker
 * https://github.com/CPScript/Learn-C
-* https://github.com/CPScript/Learn-Ruby   
+* https://github.com/CPScript/Learn-Ruby 
 
                                                                                                                      
 ### Most popular repos
