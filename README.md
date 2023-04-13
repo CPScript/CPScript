@@ -73,8 +73,8 @@ I don't care what most people do...
     
 # STATS    
 
-<details>
-<summary>News / Upcoming Repos</summary>
+<details open>
+<summary>My Stats</summary>
 <br>
            
 [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
