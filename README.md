@@ -48,9 +48,10 @@ I don't care what most people do...
 * https://github.com/CPScript/Worst
 * https://github.com/CPScript/Death
 * https://github.com/CPScript/USB-Ransom
-* https://github.com/CPScript/WannaCryptor
-* https://github.com/CPScript/YouAreAnIdiot
-* https://github.com/CPScript/Fine-Wine
+* https://github.com/CPScript/WannaCryptor 
+* https://github.com/CPScript/YouAreAnIdiot 
+* https://github.com/CPScript/Petya 
+* https://github.com/CPScript/Fine-Wine (LoveBug / ILoveYou.txt)
 
 ### Learn / Help
 * https://github.com/CPScript/Basic-Scripts
