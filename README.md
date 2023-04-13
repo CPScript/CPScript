@@ -42,6 +42,15 @@ I don't care what most people do...
 * https://github.com/CPScript/Kitty-Tools
 * https://github.com/CPScript/Worst
 * https://github.com/CPScript/HiDDen-Cam    
+    
+### My Malwares
+* https://github.com/CPScript/Black-n-White (soon)
+* https://github.com/CPScript/Worst
+* https://github.com/CPScript/Death
+* https://github.com/CPScript/USB-Ransom
+* https://github.com/CPScript/WannaCryptor
+* https://github.com/CPScript/YouAreAnIdiot
+* https://github.com/CPScript/Fine-Wine
 
 ### Learn
 * https://github.com/CPScript/Programming-Languages
