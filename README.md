@@ -66,13 +66,16 @@ I don't care what most people do...
 * https://github.com/CPScript/Reaper
 * https://github.com/CPScript/VBS-File-maker
 
-
+    
+    
 
 <div align="center">
     
 # STATS    
 
-
+<details>
+<summary>News / Upcoming Repos</summary>
+<br>
            
 [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
  
@@ -82,6 +85,11 @@ I don't care what most people do...
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
            
+</details>
+    
+    
+    
+    
 ### Main Languages
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"  title="Bach" alt="Bach" width="60" height="60"/>&nbsp;
