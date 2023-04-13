@@ -43,7 +43,7 @@ I don't care what most people do...
 * https://github.com/CPScript/Worst
 * https://github.com/CPScript/HiDDen-Cam    
     
-### My Malwares
+### My Malwares (not all made by me)
 * https://github.com/CPScript/Black-n-White (soon)
 * https://github.com/CPScript/Worst
 * https://github.com/CPScript/Death
