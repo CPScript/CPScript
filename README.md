@@ -24,7 +24,7 @@ The programs arn't being sold at the moment so dont worry about buying anything
     
 
 # About me:
-I loke to study malware... i just think its cool
+I like to study & make malware...
     
 <div align="center">
   <img src="divider2.png" alt="divider"/>
