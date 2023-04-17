@@ -52,7 +52,7 @@ I like to study & make malware...
 * https://github.com/CPScript/WannaCryptor 
 * https://github.com/CPScript/YouAreAnIdiot 
 * https://github.com/CPScript/Petya 
-* https://github.com/CPScript/Fine-Wine (LoveBug / ILoveYou.txt)
+* https://github.com/CPScript/LoveLetter (LoveBug / ILoveYou.txt)
 
 ### Learn / Help
 * https://github.com/CPScript/Basic-Scripts
