@@ -112,13 +112,4 @@ I like to study & make malware...
           
            
 ## Contact me:
-* Discord - Chai#8230  im always online         
-* Email - CPScript@hotmail.com  Il very rarely check this
-           
-           
-           
-           
-  
-<div align="center">
-
-# Have a great DAY <3... 
+* Email - CPScript@hotmail.com
