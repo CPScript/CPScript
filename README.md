@@ -8,9 +8,7 @@
 Working on a kill switch, for some reason...
      
     
-||==========================================================||
 || Check out my store: https://giveme1taa.wixsite.com/orbit ||
-||==========================================================||
     
 </details>
 
