@@ -5,10 +5,11 @@
 <summary>News / Upcoming Repos</summary>
 <br>
 
-Check out my store: https://giveme1taa.wixsite.com/orbit 
-
-The programs arn't being sold at the moment so dont worry about buying anything
-
+Working on a kill switch, for some reason...
+    
+||==========================================================||
+|| Check out my store: https://giveme1taa.wixsite.com/orbit ||
+||==========================================================||
 </details>
 
 
