@@ -24,7 +24,7 @@ The programs arn't being sold at the moment so dont worry about buying anything
     
 
 # About me:
-I don't care what most people do...
+I loke to study malware... i just think its cool
     
 <div align="center">
   <img src="divider2.png" alt="divider"/>
@@ -47,6 +47,7 @@ I don't care what most people do...
 * https://github.com/CPScript/Pythonic (soon)
 * https://github.com/CPScript/Worst
 * https://github.com/CPScript/Death
+* https://github.com/CPScript/Black-n-White
 * https://github.com/CPScript/USB-Ransom
 * https://github.com/CPScript/WannaCryptor 
 * https://github.com/CPScript/YouAreAnIdiot 
