@@ -62,13 +62,7 @@ I like to study & make malware...
 * https://github.com/CPScript/Learn-C
 * https://github.com/CPScript/Learn-Ruby 
 
-                                                                                                                     
-### Most popular repos
-
-* https://github.com/CPScript/Kitty-Tools
-* https://github.com/CPScript/USB-Trojan
-* https://github.com/CPScript/Reaper
-* https://github.com/CPScript/VBS-File-maker
+                                                                                                                    
 
     
     
