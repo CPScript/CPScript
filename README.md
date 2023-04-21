@@ -45,7 +45,7 @@ I like to study & make malware...
 * https://github.com/CPScript/HiDDen-Cam    
     
 ### My Malwares (not all made by me)
-* https://github.com/CPScript/Pythonic (Releasing soon)
+* https://github.com/CPScript/Pythonic
 * https://github.com/CPScript/Worst
 * https://github.com/CPScript/Death
 * https://github.com/CPScript/Black-n-White
@@ -53,7 +53,7 @@ I like to study & make malware...
 * https://github.com/CPScript/WannaCryptor 
 * https://github.com/CPScript/YouAreAnIdiot 
 * https://github.com/CPScript/Petya 
-* https://github.com/CPScript/LoveLetter (LoveBug / ILoveYou.txt)
+* https://github.com/CPScript/LoveLetter
 
 ### Learn / Help
 * https://github.com/CPScript/Basic-Scripts
