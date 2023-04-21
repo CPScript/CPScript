@@ -21,7 +21,7 @@
     
 
 # About me:
-I like to study & make malware...
+Hello, i got nun to put here...
     
 <div align="center">
   <img src="divider2.png" alt="divider"/>
