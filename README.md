@@ -16,9 +16,7 @@
 
 ### My personal Favorets
 * https://github.com/CPScript/Orbit
-* https://github.com/CPScript/Kitty-Tools
-* https://github.com/CPScript/Worst
-* https://github.com/CPScript/HiDDen-Cam    
+* https://github.com/CPScript/Kitty-Tools  
     
 ### My Malwares (not all made by me)
 * https://github.com/CPScript/Pythonic
