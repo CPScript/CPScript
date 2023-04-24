@@ -24,7 +24,6 @@
 * https://github.com/CPScript/Pythonic
 * https://github.com/CPScript/Worst
 * https://github.com/CPScript/Death
-* https://github.com/CPScript/Black-n-White
 * https://github.com/CPScript/USB-Ransom
 * https://github.com/CPScript/WannaCryptor 
 * https://github.com/CPScript/YouAreAnIdiot 
