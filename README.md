@@ -11,7 +11,7 @@
 <h1 align="center"><img src="code.gif" height="20"/> Repositories</h1>
     
            
-<div align="center">     
+<div align="left">     
 
 ### My personal Favorets
 * https://github.com/CPScript/Orbit
