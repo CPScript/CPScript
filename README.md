@@ -12,7 +12,6 @@
     
            
            
-<div align="left">
 
 ### My personal Favorets
 * https://github.com/CPScript/Orbit
