@@ -14,6 +14,7 @@
 <div align="left">     
 
 ### My personal Favorets
+* https://github.com/CPScript/Chess
 * https://github.com/CPScript/Orbit
 * https://github.com/CPScript/Kitty-Tools  
     
