@@ -73,8 +73,6 @@
     
 </details>
 
-
-<div align="left">
           
            
 ## Contact me:
