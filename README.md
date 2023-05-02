@@ -24,7 +24,7 @@ Aside from Python, i use a lot of other languages for my projects like: Javascri
 I like to use python the most tho...
 
 ## Contacts
-E-Mail: `CPScript@gmail.com` (or <a href='CPScript@gmail.com'>click here</a>)  
+E-Mail: `CPScript@gmail.com` 
 Discord: Fe4RLess#0001 
 
 
