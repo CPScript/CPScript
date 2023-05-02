@@ -7,8 +7,9 @@
   <img src="divider2.png" alt="divider"/>
 </div> 
 
-<p align="center"><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Random+malware+and+Network+Dev'></img></p>
-
+<div align=center>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Random+malware+and+Network+Dev'></img>
+</div>
 
  
     
