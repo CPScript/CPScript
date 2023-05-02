@@ -10,7 +10,7 @@
   <img src="divider2.png" alt="divider"/>
 </div> 
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+random+malware+and+Network+Developer <3'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+malware+and+Network+Developer <3'></img>
 
  
     
