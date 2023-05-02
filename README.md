@@ -28,7 +28,9 @@ E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqx
 DIscord: `Fe4RLess#0001`  
  
 
-
+<p align="center">
+    <a href="https://discord.gg/JbAtUxGcJZ"><img src="https://discord.c99.nl/widget/theme-3/848092597822160907.png" height="80px"></a>
+</p>
 
  
     
