@@ -6,21 +6,6 @@
   <img src="divider2.png" alt="divider"/>
 </div> 
 
-<img src='aki.jpg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
-
-# Hi there 👋👋
-My name is Chai and i am a random developer.  
-I enjoy analizing and making malware... im mainly ethical when it comes to hacking divices.
-
-
-## Languages
-🇬🇧 English  
-🇪🇸 Spanish
-
-<img src='flr.png' width='100%' height='24px'></img>
-
-
-
  
     
 <h1 align="center"><img src="code.gif" height="20"/> Repositories</h1>
