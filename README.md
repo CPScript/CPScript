@@ -41,7 +41,9 @@ DIscord: `not avalible yet`
 ### My personal Favorets
 * https://github.com/CPScript/Chess
 * https://github.com/CPScript/Orbit
-* https://github.com/CPScript/Kitty-Tools  
+* https://github.com/CPScript/Kitty-Tools 
+* https://github.com/CPScript/Basic-Scripts
+* https://github.com/CPScript/Programming-Languages 
     
 ### My Malwares (not all made by me)
 * https://github.com/CPScript/Pythonic
@@ -51,16 +53,7 @@ DIscord: `not avalible yet`
 * https://github.com/CPScript/WannaCryptor 
 * https://github.com/CPScript/YouAreAnIdiot 
 * https://github.com/CPScript/Petya 
-* https://github.com/CPScript/LoveLetter
-
-### Learn / Help
-* https://github.com/CPScript/Basic-Scripts
-* https://github.com/CPScript/Programming-Languages
-* https://github.com/CPScript/VBS-File-maker
-* https://github.com/CPScript/Learn-C
-* https://github.com/CPScript/Learn-Ruby 
-
-                                                                                                                    
+* https://github.com/CPScript/LoveLetter                                                                                                                    
 
     
     
