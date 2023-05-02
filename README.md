@@ -27,8 +27,10 @@ Aside from Python, i use a lot of other languages for my projects like: Javascri
 E-Mail: `CPScript@gmail.com` (or <a href='CPScript@gmail.com'>click here</a>)  
 Discord: Fe4RLess#0001 
 
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+malware+and+Network+Developer <3'></img>
  
     
+
 <h1 align="center"><img src="code.gif" height="20"/> Repositories</h1>
     
            
