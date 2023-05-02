@@ -5,7 +5,7 @@
 </div>
 
 <div align=center>
-    <img src="https://moe-counter.glitch.me/get/@CPScript" alt="profile view counter"/>
+![images (2)](https://user-images.githubusercontent.com/83523587/235742042-57cbc9d7-ea62-4807-8294-5a02a5eb80f5.jpeg)
 </div>
 
 
