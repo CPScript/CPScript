@@ -4,6 +4,10 @@
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Disease&count=1)
+
+
 <div align="center">
   <img src="divider2.png" alt="divider"/>
 </div> 
