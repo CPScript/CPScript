@@ -21,6 +21,12 @@ I like to use python the most tho...
 E-Mail: `CPScript@gmail.com` (or <a href='CPScript@gmail.com'>click here</a>)  
 Discord: Fe4RLess#0001 
 
+## Languages
+🇺🇸 English 
+🇪🇸 Spanish (Learning)
+
+<div align="center">     
+
 <img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+malware+and+Network+Developer <3'></img>
  
     
