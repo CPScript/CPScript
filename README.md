@@ -69,7 +69,7 @@ DIscord: `not avalible yet`
     
 # STATS    
 
-<details open>
+<details closed>
 <summary>My Stats</summary>
 <br>
            
