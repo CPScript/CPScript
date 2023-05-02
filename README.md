@@ -8,6 +8,12 @@
   <img src="divider2.png" alt="divider"/>
 </div> 
 
+<div align="center">     
+
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+malware+and+Network+Developer <3'></img>
+
+<div align="left">     
+
 <img src='aki.jpeg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
 
 # Hi there 👋👋
@@ -25,17 +31,15 @@ Discord: Fe4RLess#0001
 🇺🇸 English 
 🇪🇸 Spanish (Learning)
 
-<div align="center">     
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+malware+and+Network+Developer <3'></img>
  
     
+
+<div align="left">     
 
 <h1 align="center"><img src="code.gif" height="20"/> Repositories</h1>
     
            
-<div align="left">     
-
 ### My personal Favorets
 * https://github.com/CPScript/Chess
 * https://github.com/CPScript/Orbit
@@ -98,11 +102,6 @@ Discord: Fe4RLess#0001
 <div>
     
 </details>
-
-          
-           
-## Contact me:
-* Email - CPScript@hotmail.com
 
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/CPScript/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/CPScript/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/CPScript/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
