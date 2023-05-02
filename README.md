@@ -5,12 +5,6 @@
 </div>
 
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Disease&count=1)
-
-
-<div align="center">
-  <img src="divider2.png" alt="divider"/>
-</div> 
 
 <div align="center">     
 
@@ -34,7 +28,10 @@ DIscord: `Fe4RLess#0001`
 
 
  
-    
+<div align="center">
+  <img src="divider2.png" alt="divider"/>
+</div> 
+
 
 <div align="left">     
 
