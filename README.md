@@ -5,6 +5,11 @@
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
+
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+malware+and+Network+Developer <3'></img>
+
+
+
 ## About me!
 <div align="center">
   <img src="divider2.png" alt="divider"/>
@@ -12,8 +17,19 @@
 
 <img src='aki.jpeg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
 
+# Hi there 👋👋
+My name is Chai and i am a Malware analisis, i like to make other things like game hacks, Networking tools, and random shit... 
+I mainly make usfull things... i dont use most of them tho... i have no reason to :)
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+malware+and+Network+Developer <3'></img>
+Aside from Python, i use a lot of other languages&tools for my projects like: Javascript, php, asm, C, C#, C++, and Html
+
+## Contacts
+E-Mail: `CPScript@gmail.com` (or <a href='CPScript@gmail.com'>click here</a>)  
+Discord: Fe4RLess#0001 
+
+## Languages
+🇬🇧 English  
+🇪🇸 Spanish (learning)  
 
  
     
