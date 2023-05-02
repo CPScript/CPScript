@@ -25,7 +25,7 @@ I like to use python the most tho...
 
 ## Contacts
 E-Mail: `CPScript@gmail.com`  (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>) 
-Discord: Fe4RLess#0001 
+Discord: `Fe4RLess#0001` 
 
 
 
