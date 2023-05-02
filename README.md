@@ -1,4 +1,3 @@
-<div align="center">     
 
 
 <div align=center>
@@ -15,7 +14,8 @@
 My name is Chai and i am a Malware analisis, i like to make other things like game hacks, Networking tools, and random shit... 
 I mainly make usfull things... i dont use most of them tho... i have no reason to :)
 
-Aside from Python, i use a lot of other languages for my projects like: Javascript, asm, C, and Html
+Aside from Python, i use a lot of other languages for my projects like: Javascript, asm, C, C#, C++, and Html
+I like to use python the most tho...
 
 ## Contacts
 E-Mail: `CPScript@gmail.com` (or <a href='CPScript@gmail.com'>click here</a>)  
