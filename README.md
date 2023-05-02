@@ -2,6 +2,7 @@
 
 <div align=center>
     <img src="https://moe-counter.glitch.me/get/@CPScript" alt="profile view counter"/>
+    
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
