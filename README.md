@@ -2,9 +2,13 @@
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
+## About me!
 <div align="center">
   <img src="divider2.png" alt="divider"/>
 </div> 
+
+<p align='center'><img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Random+malware+&+Network+Dev'></img></p>
+
 
  
     
