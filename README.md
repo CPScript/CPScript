@@ -5,7 +5,7 @@
 </div>
 
 <div align=center>
-    <img src="https://discord.c99.nl/widget/theme-2/962390424390098974.png"  alt=""/>
+    <img src="https://discord.c99.nl/widget/theme-3/962390424390098974.png"  alt=""/>
 </div>
 
 <div align=center>
