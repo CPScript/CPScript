@@ -5,6 +5,9 @@
 </div>
 
 <div align=center>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rjksf76cnpqnbr6lqlk3y7k2ry&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rjksf76cnpqnbr6lqlk3y7k2ry&redirect=true)
+
 </div>
 
 
