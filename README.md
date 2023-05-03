@@ -29,11 +29,11 @@ I like to use python the most tho...
 
 ## Contacts
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
-Discord: `not avalible yet`  
+Discord: `Fe4RLess#0001`  
  
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/962390424390098974?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/962390424390098974)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/962390424390098974?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Damn,%20I%20do%20like%20chicken%20nuggets...)](https://discord.com/users/962390424390098974)
 
 
 
