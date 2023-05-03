@@ -4,9 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align=center>
-    <img src="https://discord.c99.nl/widget/theme-3/962390424390098974.png"  alt=""/>
-</div>
+
 
 <div align=center>
     
@@ -38,6 +36,7 @@ Discord: `Fe4RLess#0001`
 
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/962390424390098974?theme=dark&bg=301934&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Damn...%20I%20do%20like%20chicken%20nuggets!)](https://discord.com/users/962390424390098974)
+<img src="https://discord.c99.nl/widget/theme-3/962390424390098974.png"  alt=""/>
 
 
 
