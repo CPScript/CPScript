@@ -31,7 +31,7 @@ I like to use python the most tho...
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
 DIscord: `not avalible yet`  
  
-
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=dark&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=I%20Like%20Chicken%20Nuggets...)](https://discord.com/users/94490510688792576)
 
  
 <div align="center">
