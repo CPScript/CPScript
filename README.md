@@ -33,9 +33,6 @@ I like to use python the most tho...
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
 Discord: `Fe4RLess#0001`  
  
-
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/962390424390098974?theme=dark&bg=301934&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Damn...%20I%20do%20like%20chicken%20nuggets!)](https://discord.com/users/962390424390098974)
 <img src="https://discord.c99.nl/widget/theme-3/962390424390098974.png"  alt=""/>
 
 
