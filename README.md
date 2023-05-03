@@ -22,7 +22,7 @@
 
 <img src='aki.jpeg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
 
-# Hi there 😘 🥰 🫶
+# Hi there 😘
 My name is Chai and i am a Malware Analysis, i like to make other things like game hacks, Networking tools, and random shit... 
 I mainly make usfull things... i dont use most of them tho... i have no reason to :)
 
