@@ -29,7 +29,7 @@ I like to use python the most tho...
 
 ## Contacts
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
-DIscord: `not avalible yet`  
+Discord: `not avalible yet`  
  
 
  
