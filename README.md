@@ -15,7 +15,7 @@
 ```
 Ccode: Yeah lol, you can always improve it
 CPScript: Im finna improve it by not using it
-CPScript: The errors... oh god the errors... every time i fixed sum 5 more would pop up!
+CPScript: The errors... oh god the errors... every time i fixed sum 5 more pop up!
 
 Made whalst trying to fix https://github.com/CPScript/AntiVirus
 ```
