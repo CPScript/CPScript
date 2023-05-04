@@ -4,6 +4,15 @@
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
 </div>
 
+#### my famous quote
+
+```
+Ccode: Yeah lol, you can always improve it
+CPScript: Im finna improve it by not using it
+CPScript: The errors... oh god the errors... every time i fixed sum 5 more would pop up!
+
+Made whalst trying to fix https://github.com/CPScript/AntiVirus
+```
 
 
 <div align=center>
