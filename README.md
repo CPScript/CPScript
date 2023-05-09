@@ -68,6 +68,7 @@ Discord: `Fe4RLess#0001`
 * https://github.com/CPScript/Orbit
 * https://github.com/CPScript/Kitty-Tools 
 * https://github.com/CPScript/Basic-Scripts
+* https://github.com/CPScript/Simple-Antivirus
 * https://github.com/CPScript/Programming-Languages 
     
 ### My Malwares (not all made by me)
