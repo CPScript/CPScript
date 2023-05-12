@@ -11,14 +11,8 @@
 
 <div align=left>
 
+![Screenshot 2023-05-12 8 54 01 AM](https://github.com/CPScript/CPScript/assets/83523587/519ee4a3-f5ac-4267-9d22-1ee00ea1d94b)
 
-```
-Ccode: Yeah lol, you can always improve it
-CPScript: Im finna improve it by not using it
-CPScript: The errors... oh god the errors... every time i fixed sum 5 more pop up!
-
-Made whalst trying to fix https://github.com/CPScript/AntiVirus
-```
 
 <div align=center>
 
@@ -31,7 +25,7 @@ Made whalst trying to fix https://github.com/CPScript/AntiVirus
 
 <div align="center">     
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+Malware+and+Network+Developer <3'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+Malware,+Security,+and+Network+Developer <3'></img>
 
 <div align="left">     
 
