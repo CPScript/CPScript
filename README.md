@@ -9,7 +9,6 @@
 
 #### my famous quote
 
-<div align=left>
 
 ![Screenshot 2023-05-12 8 54 01 AM](https://github.com/CPScript/CPScript/assets/83523587/519ee4a3-f5ac-4267-9d22-1ee00ea1d94b)
 
