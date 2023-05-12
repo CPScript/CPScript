@@ -24,7 +24,7 @@
 
 <div align="center">     
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+Malware,+Security,+and+Network+Developer <3'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+random+Malware,+Security,+and+Network+Dev <3'></img>
 
 <div align="left">     
 
