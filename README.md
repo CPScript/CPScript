@@ -52,32 +52,6 @@ Discord: `Fe4RLess#0001`
 </div> 
 
 
-<div align="left">     
-
-<h1 align="center"><img src="code.gif" height="20"/> Repositories</h1>
-    
-           
-### My personal Favorets
-* https://github.com/CPScript/Chess
-* https://github.com/CPScript/Orbit
-* https://github.com/CPScript/Kitty-Tools 
-* https://github.com/CPScript/Basic-Scripts
-* https://github.com/CPScript/Simple-Antivirus
-* https://github.com/CPScript/Programming-Languages 
-    
-### My Malwares (not all made by me)
-* https://github.com/CPScript/Pythonic
-* https://github.com/CPScript/Worst
-* https://github.com/CPScript/Death
-* https://github.com/CPScript/USB-Ransom
-* https://github.com/CPScript/WannaCryptor 
-* https://github.com/CPScript/YouAreAnIdiot 
-* https://github.com/CPScript/Petya 
-* https://github.com/CPScript/LoveLetter                                                                                                                    
-
-    
-    
-
 <div align="center">
     
 # STATS    
