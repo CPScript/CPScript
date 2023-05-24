@@ -21,7 +21,7 @@
 
 <div align="left">     
 
-<img src='aki.jpeg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
+<img src='shark.jpeg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
 
 # Hi there 🫠
 My name is Chai and I am someone who enjoys and likes to do things like make Networking tools, security applications, thest my hacing skills, make hacking tools (automates the hacking process), and more... 
