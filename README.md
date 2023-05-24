@@ -23,7 +23,7 @@
 
 <img src='aki.jpeg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
 
-# Hi there 😘
+# Hi there 🫠
 My name is Chai and I am someone who enjoys and likes to do things like make Networking tools, security applications, thest my hacing skills, make hacking tools (automates the hacking process), and more... 
 Most of my stuff isn't on github... whether for being to OP, or just bc i dont want it on here...
 I mainly make usfull things. I dont use most of them tho. I have no reason to :)
