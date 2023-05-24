@@ -26,7 +26,7 @@
 # Hi there 🫠
 My name is Chai and I am someone who enjoys and likes to do things like make Networking tools, security applications, testing my hacking skills, and making automation tools (automates processes that people would have a hard time doing) 
 Most of my stuff isn't on github... whether for being to OP, or just bc i dont want it on here...
-I mainly want to help people out <3
+I mainly want to help people out <3  So if you need help, ill try my best :D
 
 Aside from mainly using Python, i use some other languages for my projects like: php, asm, C, C#, C++, and Html
 I like to use python the most tho...
