@@ -21,14 +21,14 @@
 
 <div align="left">     
 
-<img src='shark.jpeg' title=" 	。.:☆*:･'(*⌒―⌒*)))" align='right'></img>
+<img src='shark.jpeg' title=" If you see this than you gay :D " align='right'></img>
 
 # Hi there 🫠
-My name is Chai and I am someone who enjoys and likes to do things like make Networking tools, security applications, thest my hacing skills, make hacking tools (automates the hacking process), and more... 
+My name is Chai and I am someone who enjoys and likes to do things like make Networking tools, security applications, testing my hacking skills, and making automation tools (automates processes that people would have a hard time doing) 
 Most of my stuff isn't on github... whether for being to OP, or just bc i dont want it on here...
-I mainly make usfull things. I dont use most of them tho. I have no reason to :)
+I mainly want to help people out <3
 
-Aside from Python, i use a lot of other languages for my projects like: Javascript, asm, C, C#, C++, and Html
+Aside from mainly using Python, i use some other languages for my projects like: php, asm, C, C#, C++, and Html
 I like to use python the most tho...
 
 ## Contacts
