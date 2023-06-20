@@ -21,7 +21,6 @@
 
 <div align="left">     
 
-<img src='shark.jpeg' title=" If you see this than you gay :D " align='right'></img>
 
 # Hi there 🫠
 My name is Chai and I am someone who enjoys and likes to do things like make Networking tools, security applications, testing my hacking skills, and making automation tools (automates processes that people would have a hard time doing) 
