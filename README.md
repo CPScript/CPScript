@@ -47,11 +47,14 @@ Discord: `Fe4RLess#0001`
 
     
 
+
+
+# STATS    
+click to expand
+
 <p align="center">
     <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
 </p>
-
-# STATS    
 
 <details closed>
 <summary>My Stats</summary>
