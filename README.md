@@ -24,7 +24,7 @@
 
 # Hello world! 🫠
 About me:
-I enjoy taking apart tec, studying hardware, programming, hacking, and finding your information :p
+I enjoy taking apart tec, studying hardware, programming, and hacking...
 Aside from mainly using Python, i use some other languages for my projects like: php, asm, C, C#, Javascript, and Html
 
 ## Contacts
