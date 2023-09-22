@@ -17,17 +17,15 @@
 
 <div align="center">     
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Your+favorite+Dev <3'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=I like apples and bannanas 😋'></img>
 
 <div align="left">     
 
 
-# Hi there 🫠
-My name is Chai and I am someone who enjoys and likes to do things like make Networking tools, security applications, testing my hacking skills, and making automation tools (automates processes that people would have a hard time doing) 
-Most of my stuff isn't on github... Because most of it would be worthless, and not realy usefull... I mainly want to help people out <3  So if you need help, ill try my best :D
-
-Aside from mainly using Python, i use some other languages for my projects like: php, asm, C, C#, C++, and Html
-I like to use python the most tho...
+# Hello world! 🫠
+About me:
+I enjoy taking apart tec, studying hardware, programming, hacking, and finding your information :p
+Aside from mainly using Python, i use some other languages for my projects like: php, asm, C, C#, Javascript, and Html
 
 ## Contacts
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
