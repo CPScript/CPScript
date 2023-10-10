@@ -32,7 +32,7 @@ About me:
 
 ## Contacts
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
-Discord: `Fe4RLess.`  
+Discord: `fe4rless.`  
  
 <img src="https://discord.c99.nl/widget/theme-3/962390424390098974.png"  alt=""/>
 
