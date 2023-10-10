@@ -15,21 +15,21 @@
 
 
 
-<div align="center">     
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=            I like apples and bannanas 😋'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines= Hey cutie 😋'></img>
 
 <div align="left">     
 
 
 # Hello world! 🫠
 About me:
-I enjoy taking apart tec, studying hardware, programming, and hacking...
-Aside from mainly using Python, i use some other languages for my projects like: php, asm, C, C#, Javascript, and Html
+I enjoy taking apart tech, studying hardware, programming, and hacking...
+Aside from mainly using Python, i use some other languages for my projects like: bash, ps1(powershell), java, php, asm, C, C#, Javascript, and bash
+I can mainly use any programming language so if you need help with something, please message me via discord (i rarely use my email):
 
 ## Contacts
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
-Discord: `Fe4RLess#0001`  
+Discord: `Fe4RLess.`  
  
 <img src="https://discord.c99.nl/widget/theme-3/962390424390098974.png"  alt=""/>
 
