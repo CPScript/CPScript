@@ -24,11 +24,9 @@
 # Hello world! 🫠
 About me:
 ---
-I enjoy taking apart tech, studying hardware, programming, and hacking... 
-
-Aside from mainly using Python, i use some other languages for my projects like: bash, ps1(powershell), java, php, asm, C, C#, Javascript, and bash...
-
-I can mainly use any programming language so if you need help with something, please message me via discord (i rarely use my email):
+* I enjoy taking apart tech, studying hardware, programming, and hacking... 
+* Aside from mainly using Python, i use some other languages for my projects like: bash, ps1(powershell), java, php, asm, C, C#, Javascript, and bash...
+* I can mainly use any programming language so if you need help with something, please message me via discord (i rarely use my email):
 
 ## Contacts
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
