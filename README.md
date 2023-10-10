@@ -16,7 +16,7 @@
 
 <div align=center>
 
-<img src='                     https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hey cutie <3'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hey cutie <3'></img>
 
 <div align="left">     
 
