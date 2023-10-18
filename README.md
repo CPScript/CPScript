@@ -13,10 +13,14 @@
 
 </div>
 
-
 <div align=center>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Love you <3'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=          へ   ♡     ╱|、'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=     ૮  -   ՛ )     (`   -  7'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=       /  ⁻  ៸|      |、⁻ 〵'></img>
+<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=    乀 (ˍ, ل ل      じしˍ,)ノ'></img>
 
-<img src='https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&lines=Hey cutie <3'></img>
+
 
 </div>
 
