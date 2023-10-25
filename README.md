@@ -13,8 +13,7 @@
 
 </div>
 
-
-
+---
 <div align="left">     
 
 
@@ -39,7 +38,7 @@ Discord: `fe4rless.`
 </div> 
 
 
-<div align="center">
+<div align="left">
 
     
 
@@ -48,7 +47,7 @@ Discord: `fe4rless.`
 # STATS    
 click to expand
 
-<p align="center">
+<p align="left">
     <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
 </p>
 
