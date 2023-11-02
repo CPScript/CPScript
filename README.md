@@ -48,8 +48,14 @@ Discord: `fe4rless.`
 click to expand
 
 <p align="left">
+    [![An image of @cpscript's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpscript)](https://holopin.io/@cpscript)
+</p>
+
+
+<p align="left">
     <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
 </p>
+
 
 <details closed>
 <summary>My Stats</summary>
