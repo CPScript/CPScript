@@ -47,9 +47,7 @@ Discord: `fe4rless.`
 # STATS    
 click to expand
 
-<p align="left">
-    [![An image of @cpscript's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpscript)](https://holopin.io/@cpscript)
-</p>
+[![An image of @cpscript's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpscript)](https://holopin.io/@cpscript)
 
 
 <p align="left">
