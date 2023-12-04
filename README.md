@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="stars">
 
 
 <div align=center>
