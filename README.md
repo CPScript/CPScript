@@ -1,9 +1,6 @@
+Wanna donate??? Send me 1$ on cashapp - $LovelyDisease
 
-
-<div align=center>
-
-    > Want to donate? Send me 1$ on cashapp - $LovelyDisease
-    
+<div align=center>    
     <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
     <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="stars">
 
