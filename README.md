@@ -30,8 +30,7 @@ About me:
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
 Discord: `fe4rless.`  
  
-<img src="https://discord.c99.nl/widget/theme-3/962390424390098974.png"  alt=""/>
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/fe4rless.)](https://discord.com/users/fe4rless.)
 
 
  
