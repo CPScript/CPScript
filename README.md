@@ -29,6 +29,7 @@ About me:
 ## Contacts
 E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
 Discord: `fe4rless.`  
+Rwplit: `https://replit.com/@cpscript`  
  
 [![Discord Presence](https://lanyard.cnrad.dev/api/fe4rless.)]
 
