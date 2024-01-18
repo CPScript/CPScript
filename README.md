@@ -20,32 +20,25 @@
 # Hello world! 🫠
 About me:
 ---
-* I enjoy taking apart tech, studying hardware, programming, and hacking... 
-* Aside from mainly using Python, i use some other languages for my projects like: bash, ps1(powershell), java, php, html, C, C#, Javascript, and assembly...
-* I can mainly use any programming language so if you need help with something, please message me via discord (i rarely use my email):
+* I enjoy taking apart tech, studying hardware, programming, and hacking.
+* Aside from mainly using Python, I use some other languages for my projects like: Bash, PS1 (PowerShell), Java, PHP, HTML, C, C#, JavaScript, and Assembly.
+* I'm currently learning more about machine programming, and am doing more cyber security courses.
 
-## Contacts
-E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
-Discord: `fe4rless.`  
-Replit: `https://replit.com/@cpscript`  
- 
-[![Discord Presence](https://lanyard.cnrad.dev/api/fe4rless.)]
+## Socials
+> E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
+> Discord: `fe4rless.`  
+> Replit: `https://replit.com/@cpscript`  
+* If you want to contact me; Please message me via discord. (I rarely use my email)
 
  
 <div align="center">
   <img src="divider2.png" alt="divider"/>
 </div> 
 
-
 <div align="left">
-
-    
-
-
 
 # STATS    
 [![An image of @cpscript's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpscript)](https://holopin.io/@cpscript)
-
 
 <p align="left">
     <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
@@ -62,18 +55,13 @@ click to expand
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
 <img src="https://stats4github.vercel.app/api/top-langs/?username=CPScript&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android"><br/>
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-              
-    
-    
+
 </details>
 
 <div align=center>
-
-
 
 <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/CPScript/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/CPScript/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/CPScript/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
