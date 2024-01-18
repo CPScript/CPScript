@@ -28,7 +28,7 @@ About me:
 > E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
 > Discord: `fe4rless.`  
 > Replit: `https://replit.com/@cpscript`  
-* If you want to contact me; Please message me via discord. (I rarely use my email)
+` If you want to contact me; Please message me via discord. (I rarely use my email)`
 
  
 <div align="center">
