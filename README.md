@@ -30,7 +30,8 @@ About me:
 > Discord: `fe4rless.`  
 > Replit: `https://replit.com/@cpscript`  
 > Reddit: `https://www.reddit.com/u/Diseased-Frog`
-If you want to contact me; Please message me via discord. (I rarely use my email)
+
+* If you want to contact me; Please message me via discord. (I rarely use my email)
 
  
 <div align="center">
