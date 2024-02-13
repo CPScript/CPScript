@@ -22,6 +22,7 @@ About me:
 ---
 * I enjoy taking apart tech, studying hardware, programming, and hacking.
 * Aside from mainly using Python, I use some other languages for my projects like: Bash, PS1 (PowerShell), Java, PHP, HTML, C, C#, JavaScript, and Assembly.
+
 * I'm currently learning more about machine programming, and am doing more cyber security courses.
 
 ## Socials
