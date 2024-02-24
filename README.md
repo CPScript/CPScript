@@ -26,10 +26,11 @@ About me:
 * I'm currently learning more about machine programming, and am doing more cyber security courses.
 
 ## Socials
-> E-Mail: `CPScript@hotmail.com` (<a href='https://www.youtube.com/watch?v=SHRAEqxoN0c'>Random Link...</a>)  
+> E-Mail: `CPScript@hotmail.com`
+
 > Discord: `fe4rless.`  
+
 > Replit: `https://replit.com/@cpscript`  
-> Reddit: `https://www.reddit.com/u/Diseased-Frog`
 
 * If you want to contact me; Please message me via discord. (I rarely use my email)
 
