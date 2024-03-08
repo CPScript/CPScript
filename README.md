@@ -1,29 +1,34 @@
+
 <div align=center>    
-    <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
-    <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="stars">
+Your here already so why not follow? <3
+
+<div align=center>    
+
+
+<img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
+<img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="stars">
 
 </div>
 
 
 
-<div align=center>
-
-    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rjksf76cnpqnbr6lqlk3y7k2ry&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-</div>
 
 ---
 <div align="left">     
 
 
 # Hello world! 🫠
-About me:
----
-* I enjoy taking apart tech, studying hardware, programming, and hacking.
-* Aside from mainly using Python, I use some other languages for my projects like: Bash, PS1 (PowerShell), Java, PHP, HTML, C, C#, JavaScript, and Assembly.
+Currently listening to:
+<div align=left>
 
-* I'm currently learning more about machine programming, and am doing more cyber security courses.
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rjksf76cnpqnbr6lqlk3y7k2ry&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
+About me:
+
+* I enjoy taking apart tech, programming, machine learning, and hacking.
+* Aside from mainly using Python, I use some other languages for my projects like: Bash, PS1 (PowerShell), Java, PHP, HTML, C, C#, JavaScript, and Assembly.
 
 ## Socials
 > E-Mail: `CPScript@hotmail.com`
@@ -32,7 +37,7 @@ About me:
 
 > Replit: `https://replit.com/@cpscript`  
 
-* If you want to contact me; Please message me via discord. (I rarely use my email)
+* If you want to contact me; Please message me via discord!
 
  
 <div align="center">
@@ -42,26 +47,36 @@ About me:
 <div align="left">
 
 # STATS    
-<p align="left">
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
-</p>
-
-click to expand
-
-<details closed>
+<details open>
 <summary>My Stats</summary>
 <br>
            
-[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
- 
+<div align=center>    
+
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
-<img src="https://stats4github.vercel.app/api/top-langs/?username=CPScript&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android"><br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
+</div>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
+</p>
+
+<div align=left>    
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+<div align=center>    
 
 [![An image of @cpscript's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpscript)](https://holopin.io/@cpscript)
+</div>
+
+<div align=left>    
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
+</div>
+
 
 </details>
 
