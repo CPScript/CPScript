@@ -51,13 +51,13 @@ About me:
 <summary>My Stats</summary>
 <br>
            
-<div align=center>    
+<div align=left>    
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
 
 </div>
 
-<p align="center">
+<p align="left">
     <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
 </p>
 
