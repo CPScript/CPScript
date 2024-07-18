@@ -29,7 +29,6 @@ About me:
 But I also have used many other Languages too.
 
 ## Socials
-> E-Mail: `CPScript@hotmail.com`
 
 > Discord: `fe4rless.`  
 
