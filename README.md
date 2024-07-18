@@ -22,7 +22,9 @@ Your here already so why not follow? <3
 
 About me:
 
-* I enjoy taking apart tech, programming, machine learning, and hacking. Im always learning new things :D
+* I uploaded **L** things here 😎
+
+* I enjoy; taking apart tech, programming, machine learning, and hacking. Im always learning new things :D
 * Fluent with; Python, Bash, C(#)(++), x86_65 Assembly, Assembly, Makefile, Batch, html, VBS, JavaScript, Java, SQL, PHP, Nim, Ruby, GoLang...
 But I also have used many other Languages too.
 
