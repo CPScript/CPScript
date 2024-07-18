@@ -27,8 +27,9 @@ Currently listening to:
 
 About me:
 
-* I enjoy taking apart tech, programming, machine learning, and hacking.
-* Aside from mainly using Python, I use some other languages for my projects like: Bash, PS1 (PowerShell), Java, PHP, HTML, C, C#, JavaScript, and Assembly.
+* I enjoy taking apart tech, programming, machine learning, and hacking. And im always learning new things :D
+* Fluent with; Python, Bash, C(#)(++), x86_65 Assembly, Assembly, Makefile, Batch, html, VBS, JavaScript, Java, SQL, PHP, Nim, Ruby, GoLang...
+But I also have used many other Languages too.
 
 ## Socials
 > E-Mail: `CPScript@hotmail.com`
