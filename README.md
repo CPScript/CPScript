@@ -1,6 +1,6 @@
 
 <div align=center>    
-Your here already so why not follow? <3
+Your here already so why not follow :D
 
 <div align=center>    
 
@@ -17,14 +17,14 @@ Your here already so why not follow? <3
 <div align="left">     
 
 
-# Hello world! 🫠
+# Hello world! 
 
 
 About me:
 
 * I uploaded **L** things here 😎
 
-* I enjoy; taking apart tech, programming, machine learning, and hacking. Im always learning new things :D
+* I specialize with: Networking, Hacking, Machine learning, Automation, and being a dumbass :P
 * Fluent with; Python, Bash, C(#)(++), x86_65 Assembly, Assembly, Makefile, Batch, html, VBS, JavaScript, Java, SQL, PHP, Nim, Ruby, GoLang...
 But I also have used many other Languages too.
 
