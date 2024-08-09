@@ -22,8 +22,6 @@ Your here already so why not follow :D
 
 About me:
 
-* I uploaded **L** things here 😎
-
 * I specialize with: Networking, Hacking, Machine learning, Automation, and being a dumbass :P
 * Fluent with; Python, Bash, C(#)(++), x86_65 Assembly, Assembly, Makefile, Batch, html, VBS, JavaScript, Java, SQL, PHP, Nim, Ruby, GoLang...
 But I also have used many other Languages too.
