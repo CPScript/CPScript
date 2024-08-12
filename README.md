@@ -24,6 +24,8 @@ Github Portfolio --> <a href="https://cpscript.github.io/CPScript/">Click Me :D<
 
 About me:
 
+
+* No matter what it is, i consider hacking and coding very easy. I love having challanges, but i dont finish some of my projects becease they are so easy to make that they bore me.
 * I specialize with: Networking, Hacking, Machine learning, Automation, and being a dumbass :P
 * Fluent with; Python, Bash, C(#)(++), x86_65 Assembly, Assembly, Makefile, Batch, html, VBS, JavaScript, Java, SQL, PHP, Nim, Ruby, GoLang...
 But I also have used many other Languages too.
