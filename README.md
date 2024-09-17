@@ -26,15 +26,8 @@ About me:
 
 
 * Computers = cool 😎 👍 
-* I specialize with: Networking, Hacking, Machine learning, Automation, and being a dumbass :P
-* Fluent with; python‚ C‚ C＋＋‚ C＃‚ html‚ Makefile‚ Batch‚ VBS‚ JavaScript‚ Java‚ SQL‚ PHP‚ Nim‚ Ruby‚ GoLang‚ bash‚ shell‚ Typescript‚ rust‚ swift‚ lua‚ haskell‚ kotlin‚ ruby and a few others <3
-
-## Socials
-
-> Discord: `fe4rless.`  
-
-* If you want to contact me; Please message me via discord!
-
+* I specialize with: Networking, Hacking, Machine learning, Automation, and being a professional dumbass :P
+* Fluent with; Assembly, python‚ C‚ C＋＋‚ C＃‚ html‚ Makefile‚ Batch‚ VBS‚ JavaScript‚ Java‚ SQL‚ PHP‚ Nim‚ Ruby‚ GoLang‚ bash‚ shell‚ Typescript‚ rust‚ swift‚ lua‚ haskell‚ ruby and a few others <3
  
 <div align="center">
   <img src="divider2.png" alt="divider"/>
