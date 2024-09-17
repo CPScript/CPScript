@@ -1,9 +1,6 @@
 
 <div align=center>    
 Your here already so why not follow :D
-
-Github Portfolio --> <a href="https://cpscript.github.io/CPScript/">Click Me :D</a>
-
 <div align=center>    
 
 
