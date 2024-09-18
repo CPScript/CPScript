@@ -9,22 +9,13 @@ Your here already so why not follow :D
 
 </div>
 
-
-
-
 ---
 <div align="left">     
 
-
-# Hello world! 
-
-
 About me:
-
-
-* Computers = cool 😎 👍 
-* I specialize with: Networking, Hacking, Machine learning, Automation, and being a professional dumbass :P
-* Fluent with; Assembly, python‚ C‚ C＋＋‚ C＃‚ html‚ Makefile‚ Batch‚ VBS‚ JavaScript‚ Java‚ SQL‚ PHP‚ Nim‚ Ruby‚ GoLang‚ bash‚ shell‚ Typescript‚ rust‚ swift‚ lua‚ haskell‚ ruby and a few others <3
+ * Computers = cool 😎 👍 
+ * I specialize with: Networking, Hacking, Machine learning, Automation, and being a professional dumbass :P
+ * Fluent with; Assembly, python‚ C‚ C＋＋‚ C＃‚ html‚ Makefile‚ Batch‚ VBS‚ JavaScript‚ Java‚ SQL‚ PHP‚ Nim‚ Ruby‚ GoLang‚ bash‚ shell‚ Typescript‚ rust‚ swift‚ lua‚ haskell‚ ruby and a few others <3
  
 <div align="center">
   <img src="divider2.png" alt="divider"/>
@@ -37,37 +28,13 @@ About me:
 <summary>My Stats</summary>
 <br>
            
-<div align=left>    
-
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
-
-</div>
-
-<p align="left">
-    <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
-</p>
-
-<div align=left>    
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
-<div align=center>    
-
-[![An image of @cpscript's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cpscript)](https://holopin.io/@cpscript)
-</div>
-
-<div align=left>    
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
-</div>
-
+name|statistics
+----|----
+All used Languages (This doesn't acctualy show all of the languages i have used, it shows all of the ones uploadded to my github profile and how much i use such language) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&langs_count=50&layout=compact)
+Streak | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+Comments & contributions | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave) <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
+Trophies | [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
+Holopin | [![Holopin](https://holopin.me/cpscript)](https://holopin.io/@cpscript)
+Octoring | <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/CPScript/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/CPScript/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/CPScript/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
 </details>
-
-<div align=left>
-
-<table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/CPScript/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/CPScript/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/CPScript/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
-
-
