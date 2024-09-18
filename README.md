@@ -30,7 +30,7 @@ About me:
            
 name|statistics
 ----|----
-All used Languages (This doesn't actually show all of the languages i have used, it shows all of the ones uploaded to my github profile and how much i use such language) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&langs_count=50&layout=compact)
+All used Languages (This doesn't actually show all of the languages i have used, it shows all of the ones uploaded to my github profile and how much i use such language) (This chart confuses me as I don't remember using some of them!) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&langs_count=50&layout=compact)
 Streak | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 Comments & contributions | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave) <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
 Trophies | [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
