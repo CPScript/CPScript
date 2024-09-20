@@ -43,4 +43,4 @@ Octoring | <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="http
 
 </details>
 
-> NOTE: if your looking at my pins they are my most recent software... to see the rest of my repositories click: [here](https://github.com/CPScript?tab=repositories)
+> NOTE: Have a good day! bellow are my pins... To see the rest of my repositories click: [here](https://github.com/CPScript?tab=repositories)
