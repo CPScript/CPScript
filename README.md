@@ -43,4 +43,4 @@ Octoring | <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="http
 
 </details>
 
-> (My username is "CPScript" as i was mainly planning on making a programming language... it was ment to be called "Chai-Programming Script"... whatever that means 💀)
+> NOTE: if your looking at my pins they are my most recent software... to see the rest of my repositories click: [here](https://github.com/CPScript?tab=repositories)
