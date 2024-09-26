@@ -13,8 +13,8 @@ Your here already so why not follow <3
 
 About me:
  * Computers = cool 😎 👍 
- * I specialize with: Networking, Hacking, Machine learning, Automation, and being a professional dumbass :P
- * Fluent with; Scroll down!
+ * I specialize with: Networking, Hacking, Machine learning, and being a professional dumbass :P
+ * I also enjoy making simple automation tools, mostly every repo I make here is one.
  
 <div align="center">
   <img src="divider2.png" alt="divider"/>
