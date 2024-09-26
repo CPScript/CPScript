@@ -17,6 +17,7 @@ About me:
 
 Quote:
  * Biting your tongue whailst eating is the perfect example of how even with many years of experience one can still mess up every once and a while.
+ * Every night we set our alarm(s) expecting to wake up in the morning not knowing if we will not not. Now that's true dedication.
 
 <div align="center">
   <img src="divider2.png" alt="divider"/>
