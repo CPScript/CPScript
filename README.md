@@ -14,7 +14,10 @@ About me:
  * Computers = cool 😎 👍 
  * I specialize with: Networking, Hacking, Machine learning, and being a professional dumbass :P
  * I also enjoy making simple automation tools, mostly every repo I make here is one.
- 
+
+Quote:
+ * Biting your tongue can show that even with many years of experience one can still mess up every once and a while.
+
 <div align="center">
   <img src="divider2.png" alt="divider"/>
 </div> 
