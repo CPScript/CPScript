@@ -1,6 +1,5 @@
 <div align=center>    
-Your here already so why not follow <3
-<div align=center>    
+out of 22k veiwers i only got 80+ followers, be diffrent and follow me<div align=center>    
 
 
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
