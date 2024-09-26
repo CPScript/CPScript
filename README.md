@@ -1,5 +1,5 @@
 <div align=center>    
-out of 22k profile views i only got 80+ followers, be different and follow me<div align=center>    
+Out of 22k profile views i only got 80+ followers, be different and follow me... To the people that do follow me, thank you <3<div align=center>    
 
 
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
