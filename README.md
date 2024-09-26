@@ -16,7 +16,7 @@ About me:
  * I also enjoy making simple automation tools, mostly every repo I make here is one.
 
 Quote:
- * Biting your tongue can show that even with many years of experience one can still mess up every once and a while.
+ * Biting your tongue whailst eating is the perfect example of how even with many years of experience one can still mess up every once and a while.
 
 <div align="center">
   <img src="divider2.png" alt="divider"/>
