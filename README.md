@@ -1,10 +1,8 @@
-<div align=center>    
-Out of 22k profile views i only got 80+ followers, be different and follow me... To the people that do follow me, thank you <3<div align=center>    
-
-
-<img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt=""/>
-<img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="stars">
-
+<div align=center>   
+sence november 2023 
+  
+<img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
+<img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
 </div>
 
 ---
