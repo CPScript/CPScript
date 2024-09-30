@@ -1,6 +1,6 @@
 <div align=center>   
-sence november 2023 
-  
+To the people who follow me; THANK YOU <3  
+
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
 <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
 </div>
@@ -12,10 +12,12 @@ About me:
  * Computers = cool 😎 👍 
  * I specialize with: Networking, Hacking, Machine learning, and being a professional dumbass :P
  * I also enjoy making simple automation tools, mostly every repo I make here is one.
+ * I ABSOLUTELY HATE TALKING ABOUT COMPUTERS WITH PEOPLE WHO ARE UN-EDUCATED WITH SUCH SUBJECT
 
 Quote:
  * Biting your tongue whailst eating is the perfect example of how even with many years of experience one can still mess up every once and a while.
  * Every night we set our alarm(s) expecting to wake up in the morning not knowing if we will not not. Now that's true dedication.
+ * Think of 'life' like its the moon, we love its beautiful light side but don't see the shadowed side. We must learn that to truly appreciate and love its beauty, we must cherish both the visible and the unseen.
 
 <div align="center">
   <img src="divider2.png" alt="divider"/>
