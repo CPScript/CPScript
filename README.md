@@ -18,6 +18,7 @@ Quote:
  * Biting your tongue whailst eating is the perfect example of how even with many years of experience one can still mess up every once and a while.
  * Every night we set our alarm(s) expecting to wake up in the morning not knowing if we will not not. Now that's true dedication.
  * Think of 'life' like its the moon, we love its beautiful light side but don't see the shadowed side. We must learn that to truly appreciate and love its beauty, we must cherish both the visible and the unseen.
+ * Love is a whispered promise in darkness, the gentle touch that soothes the scars we never show, and the quiet strength that holds us together when the world outside is falling apart. It's the accumulation of every laugh, every tear, and every moment we've shared with the ones who make our hearts beat. And yet, it's also the ache of longing, the weight of memories, and the bittersweet knowledge that our time together is limited. Love is the beauty and the brutality, the joy and the sorrow, the forever and the fleeting – all intertwined, all inseparable, and all worth fighting for. 
 
 <div align="center">
   <img src="divider2.png" alt="divider"/>
