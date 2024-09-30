@@ -10,10 +10,10 @@
 <div align="left">     
 
 About me:
+ * 17
  * Computers = cool 😎 👍 
  * I specialize with: Networking, Hacking, Machine learning, and being a professional dumbass :P
  * I also enjoy making simple automation tools, mostly every repo I make here is one.
- * I ABSOLUTELY HATE TALKING ABOUT COMPUTERS WITH PEOPLE WHO ARE UN-EDUCATED WITH SUCH SUBJECT
 
 Quote:
  * Biting your tongue whailst eating is the perfect example of how even with many years of experience one can still mess up every once and a while.
