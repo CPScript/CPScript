@@ -9,13 +9,13 @@
 ---
 <div align="left">     
 
-About me:
+**About me**:
  * 17
  * Computers = cool 😎 👍 
  * I specialize with: Networking, Hacking, Machine learning, and being a professional dumbass :P
  * I also enjoy making simple automation tools, mostly every repo I make here is one.
 
-Quote:
+**Quotes**:
  * Biting your tongue whailst eating is the perfect example of how even with many years of experience one can still mess up every once and a while.
  * Every night we set our alarm(s) expecting to wake up in the morning not knowing if we will not not. Now that's true dedication.
  * Think of 'life' like its the moon, we love its beautiful light side but don't see the shadowed side. We must learn that to truly appreciate and love its beauty, we must cherish both the visible and the unseen.
