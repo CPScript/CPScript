@@ -48,4 +48,4 @@ Octoring | <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="http
 
 </details>
 
-> NOTE: Have a good day! **Bellow are my pins! not all of my repos**... **To see the rest of my repositories click: [THIS VERY COOL LINK](https://github.com/CPScript?tab=repositories)
+> NOTE: Have a good day! **Bellow are my pins! not all of my repos**... **To see the rest of my repositories click: [THIS VERY COOL LINK](https://github.com/CPScript?tab=repositories)**
