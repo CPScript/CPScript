@@ -1,6 +1,6 @@
 <div align=center>   
   
-### To the people who follow me; THANK YOU <3  
+## Working with teams to; reform the electronic indrestry, inforce privacy, security, and protection, and simplicity
 
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
 <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
@@ -11,8 +11,7 @@
 
 **About me**:
  * 17
- * Computers = cool 😎 👍 
- * I specialize with: Networking, Hacking, Machine learning, and being a professional dumbass :P
+ * I specialize with: Networking, Hacking, Machine learning
  * I also enjoy making simple automation tools, mostly every repo I make here is one.
 
 **Quotes**:
@@ -32,8 +31,6 @@
 <summary>My Stats</summary>
 <br>
            
-
-<!-- This gives me the ick wtf :(-->
 name|statistics
 ----|----
 Languages | <a href="https://en.wikipedia.org/wiki/Assembly_language"> <img src="assets/Assembily-x86.png" width="50" alt="assembily-x86"> </a> <a href="https://en.wikipedia.org/wiki/Assembly_language"> <img src="assets/assembly.png" width="50" alt="assembly"> </a> <a href="https://python.org"> <img src="assets/python.png" width="50" alt="python"> </a> <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)"> <img src="assets/bash.png" width="50" alt="bash"> </a> <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> <img src="assets/C.png" width="50" alt="C"> </a> <a href="https://cplusplus.com"> <img src="assets/C++.png" width="50" alt="C++"> </a> <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)"> <img src="assets/C-sharp.png" width="50" alt="C-sharp"> </a> <a href="https://javascript.com"> <img src="assets/javascript.webp" width="50" alt="javascript"> </a> <a href="https://java.com"> <img src="assets/java.png" width="50" alt="java"> </a> <a href="https://Haskell.org"> <img src="assets/Haskell.png" width="50" alt="Haskell"> </a> <a href="https://learn.microsoft.com/en-us/office/vba/outlook/how-to/using-visual-basic-to-customize-outlook-forms/using-visual-basic-scripting-edition"> <img src="assets/VBS.png" width="50" alt="vbs"> </a> <a href="https://lua.org"> <img src="assets/Lua.png" width="50" alt="lua"> </a> <a href="https://mysql.com"> <img src="assets/SQL.png" width="50" alt="sql"> </a> <a href="https://www.geeksforgeeks.org/basics-of-batch-scripting"> <img src="assets/batch.png" width="50" alt="batch"> </a> <a href="https://go.dev"> <img src="assets/go.png" width="50" alt="go"> </a> <a href="https://html.com"> <img src="assets/html5.png" width="50" alt="html5"> </a> <a href="https://nim-lang.org"> <img src="assets/nim.png" width="50" alt="nim"> </a> <a href="https://www.php.net"> <img src="assets/php.png" width="50" alt="php"> </a> <a href="https://ruby-lang.org"> <img src="assets/ruby.png" width="50" alt="ruby"> </a> <a href="https://rust-lang.org"> <img src="assets/rust.png" width="50" alt="rust"> </a> <a href="https://swift.org"> <img src="assets/swift.png" width="50" alt="swift"> </a> <a href="https://www.typescriptlang.org"> <img src="assets/typescript.png" width="50" alt="typescript"> </a> 
@@ -48,4 +45,4 @@ Octoring | <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="http
 
 </details>
 
-> NOTE: Have a good day! **Bellow are my pins! not all of my repos**... **To see the rest of my repositories click: [THIS VERY COOL LINK](https://github.com/CPScript?tab=repositories)**
+> NOTE: **Bellow are my pins! not all of my repos**... **To see the rest of my repositories click: [THIS VERY COOL LINK](https://github.com/CPScript?tab=repositories)**
