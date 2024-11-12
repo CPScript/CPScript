@@ -1,6 +1,6 @@
 <div align=center>   
   
-## Working with teams, corporations, LLC's, etc to; reform the electronic indrestry, inforce privacy, security, and protection, and simplicity
+## Working with teams, corporations, LLCs, etc to; reform the electronic industry, enforce privacy, security, and protection, and simplicity
 
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
 <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
