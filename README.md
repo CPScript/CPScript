@@ -1,3 +1,5 @@
+You sit there looking at my profile, mabye even a few repos. Then to slowly glance towards my profile picture. As you look at it your attention soon turns towards my following. You think to yourself "wow, this user has a lot of followers" you then click of the page and think "haha, they dont need any more, they probably have a few people follow and unfollow every day, why should i care". In reality though outside of your thoughts the truth is that i put in all of this work to make specific tools for specific uses but i get nothing in return. im not asking for a coffie or 20$, but a follow would be nice!
+
 <div align=center>    
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
 <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
