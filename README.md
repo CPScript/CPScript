@@ -10,7 +10,7 @@
 
  * 17
  * I specialize.
- * Interested in machine learning, Malware analisis, Hacking, GPU programming, kernel devlopment, Boot-secter devlopment, firmware devlopment, High level, mid level, and low level programming, graphical design, taking part modding and putting back together tech, destroying chromebooks
+ * Interested in machine learning, Malware analisis, Hacking, GPU programming, kernel devlopment, Boot-secter devlopment, firmware devlopment, High level, mid level, and low level programming, graphical design, taking apart; modding, and putting back together tech. Destroying chromebooks
  * I've been working extensively with Assembly, Batch, Python, javascript, node, and java. Mainly have been busy with personal projects and a Minecraft server
  * I also enjoy making simple automation tools, mostly every repo I make here is one.
 
