@@ -1,7 +1,4 @@
-<div align=center>  
-
-- Maintain your repositories? Never heard of her :D 
-  
+<div align=center>    
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
 <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
 </div>
@@ -10,14 +7,14 @@
 <div align="left">     
 
 **About me**:
+
  * 17
- * I specialize with: Networking, Hacking, Machine learning
+ * I specialize.
+ * Interested in machine learning, Malware analisis, Hacking, GPU programming, kernel devlopment, Boot-secter devlopment, firmware devlopment, High level, mid level, and low level programming, graphical design, taking part modding and putting back together tech, destroying chromebooks
+ * I've been working extensively with Assembly, Batch, Python, javascript, node, and java. Mainly have been busy with personal projects and a Minecraft server
  * I also enjoy making simple automation tools, mostly every repo I make here is one.
 
 **Quotes**:
- * Biting your tongue whailst eating is the perfect example of how even with many years of experience one can still mess up every once and a while.
- * Every night we set our alarm(s) expecting to wake up in the morning not knowing if we will not not. Now that's true dedication.
- * Think of 'life' like its the moon, we love its beautiful light side but don't see the shadowed side. We must learn that to truly appreciate and love its beauty, we must cherish both the visible and the unseen.
  * Love is a whispered promise in darkness, the gentle touch that soothes the scars we never show, and the quiet strength that holds us together when the world outside is falling apart. It's the accumulation of every laugh, every tear, and every moment we've shared with the ones who make our hearts beat. And yet, it's also the ache of longing, the weight of memories, and the bittersweet knowledge that our time together is limited. Love is the beauty and the brutality, the joy and the sorrow, the forever and the fleeting – all intertwined, all inseparable, and all worth fighting for. 
 
 <div align="center">
@@ -27,8 +24,8 @@
 <div align="left">
 
 # STATS    
-<details open>
-<summary>My Stats</summary>
+<details closed>
+<summary>CLICK ON ME TO SHOW 'CPScripts' USER STATISTICS</summary>
 <br>
            
 name|statistics
@@ -40,9 +37,6 @@ All uploaded repo Langs (This doesn't actually show all of the languages i have 
 Streak | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 Comments & contributions | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave) <img width="500" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CPScript&theme=monokai" alt="Orbiting-tools">
 Trophies | [![trophy](https://github-profile-trophy.vercel.app/?username=CPScript)](https://github.com/CPScript/github-profile-trophy)
-Holopin | [![Holopin](https://holopin.me/cpscript)](https://holopin.io/@cpscript)
 Octoring | <table><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/CPScript/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/CPScript/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/CPScript/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
 
 </details>
-
-> NOTE: **Bellow are my pins! not all of my repos**... **To see the rest of my repositories click: [THIS VERY COOL LINK](https://github.com/CPScript?tab=repositories)**
