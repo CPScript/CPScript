@@ -8,14 +8,8 @@
 
 **About me**:
 
- * 17
  * I specialize.
  * Interested in machine learning, Malware analisis, Hacking, GPU programming, kernel devlopment, Boot-secter devlopment, firmware devlopment, High level, mid level, and low level programming, graphical design, taking apart; modding, and putting back together tech. Destroying chromebooks
- * I've been working extensively with Assembly, Batch, Python, javascript, node, and java. Mainly have been busy with personal projects and a Minecraft server
- * My repositorys are like drawings... They are as simple as scribbles on paper leading to seemingless sketches, but when complete they are perfect peices of art. Just like the story of life.
-
-**Quotes**:
- * Love is a whispered promise in darkness, the gentle touch that soothes the scars we never show, and the quiet strength that holds us together when the world outside is falling apart. It's the accumulation of every laugh, every tear, and every moment we've shared with the ones who make our hearts beat. And yet, it's also the ache of longing, the weight of memories, and the bittersweet knowledge that our time together is limited. Love is the beauty and the brutality, the joy and the sorrow, the forever and the fleeting – all intertwined, all inseparable, and all worth fighting for. 
 
 <div align="center">
   <img src="divider2.png" alt="divider"/>
