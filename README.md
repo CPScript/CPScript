@@ -11,6 +11,7 @@
 
 **About me**:
 
+ * **Contact me:** *contact-disease.unelected107@passmail.net*
  * I specialize.
  * Interested in machine learning, Malware analisis, Hacking, GPU programming, kernel devlopment, Boot-secter devlopment, firmware devlopment, High level, mid level, and low level programming, graphical design, taking apart; modding, and putting back together tech. Destroying chromebooks
 
