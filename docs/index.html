@@ -1,1 +1,2450 @@
-<p>hello world</p>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="CPScript - Systems Engineer and Low-level Developer specializing in assembly, kernel development, and security research" />
+    <meta name="keywords" content="CPScript, Low-level programming, Assembly, C, C++, malware analysis, systems exploitation, kernel development, reverse engineering, SystemScript" />
+    <meta name="author" content="CPScript" />
+    <title>CPScript - Systems Engineer & Low-level Developer</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary: #BF00FF;
+            --primary-dark: #8C00B3;
+            --primary-light: #D580FF;
+            --secondary: #0070FF;
+            --secondary-dark: #0050B3;
+            --secondary-light: #80B7FF;
+            --accent: #00C8FF;
+            --accent-dark: #009BC8;
+            --accent-light: #80E9FF;
+            --tertiary: #FF5500;
+            --tertiary-dark: #B33E00;
+            --tertiary-light: #FFAC80;
+            --bg-dark: #0A0A0A;
+            --bg-darker: #050505;
+            --bg-card: #111111;
+            --bg-card-hover: #1A1A1A;
+            --text: #E0E0E0;
+            --text-dim: #A0A0A0;
+            --text-bright: #FFFFFF;
+            --code-bg: #1A1A1A;
+            --border-color: #222222;
+            --shadow-color: rgba(0, 0, 0, 0.5);
+            --success: #00C853;
+            --warning: #FFD600;
+            --danger: #FF1744;
+            --info: #00B0FF;
+            --glow-primary: 0 0 10px rgba(191, 0, 255, 0.5), 0 0 20px rgba(191, 0, 255, 0.3), 0 0 30px rgba(191, 0, 255, 0.1);
+            --glow-secondary: 0 0 10px rgba(0, 112, 255, 0.5), 0 0 20px rgba(0, 112, 255, 0.3), 0 0 30px rgba(0, 112, 255, 0.1);
+            --glow-accent: 0 0 10px rgba(0, 200, 255, 0.5), 0 0 20px rgba(0, 200, 255, 0.3), 0 0 30px rgba(0, 200, 255, 0.1);
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'JetBrains Mono', monospace;
+        }
+
+        body {
+            background-color: var(--bg-dark);
+            color: var(--text);
+            line-height: 1.6;
+            overflow-x: hidden;
+            background-image: 
+                radial-gradient(circle at 20% 30%, rgba(191, 0, 255, 0.08) 0%, transparent 40%),
+                radial-gradient(circle at 80% 70%, rgba(0, 112, 255, 0.08) 0%, transparent 40%),
+                radial-gradient(circle at 40% 80%, rgba(0, 200, 255, 0.08) 0%, transparent 40%),
+                radial-gradient(circle at 60% 20%, rgba(255, 85, 0, 0.08) 0%, transparent 40%);
+            position: relative;
+        }
+
+        body::before {
+            content: '';
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                repeating-linear-gradient(0deg, transparent, transparent 1px, rgba(191, 0, 255, 0.02) 1px, rgba(191, 0, 255, 0.02) 2px),
+                repeating-linear-gradient(90deg, transparent, transparent 1px, rgba(0, 112, 255, 0.02) 1px, rgba(0, 112, 255, 0.02) 2px);
+            background-size: 30px 30px;
+            pointer-events: none;
+            z-index: -1;
+        }
+
+        /* Navigation and Header */
+        .nav-bar {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            z-index: 1000;
+            background-color: rgba(10, 10, 10, 0.8);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            border-bottom: 1px solid rgba(191, 0, 255, 0.2);
+            padding: 12px 0;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .nav-logo {
+            font-family: 'Orbitron', sans-serif;
+            margin-left: 20px;
+            font-size: 1.5rem;
+            font-weight: 700;
+            color: var(--primary);
+            text-shadow: 0 0 10px rgba(191, 0, 255, 0.3);
+            display: flex;
+            align-items: center;
+            transition: all 0.3s ease;
+        }
+
+        .nav-logo:hover {
+            color: var(--primary-light);
+            text-shadow: 0 0 15px rgba(191, 0, 255, 0.5);
+        }
+
+        .nav-logo span {
+            color: var(--text-dim);
+            font-size: 1.1rem;
+            margin-left: 5px;
+        }
+
+        .nav-links {
+            display: flex;
+            margin-right: 20px;
+        }
+
+        .nav-link {
+            color: var(--text);
+            margin-left: 20px;
+            text-decoration: none;
+            position: relative;
+            padding: 5px 0;
+            transition: all 0.3s ease;
+        }
+
+        .nav-link::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 0;
+            height: 2px;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            transition: width 0.3s ease;
+        }
+
+        .nav-link:hover {
+            color: var(--primary-light);
+        }
+
+        .nav-link:hover::after {
+            width: 100%;
+        }
+
+        /* Mobile nav */
+        .mobile-nav-toggle {
+            display: none;
+            background: transparent;
+            border: none;
+            color: var(--text);
+            font-size: 1.5rem;
+            cursor: pointer;
+            margin-right: 15px;
+        }
+
+        /* Hero Section */
+        .hero {
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .hero-content {
+            text-align: center;
+            z-index: 2;
+            padding: 2rem;
+            max-width: 900px;
+            background: rgba(10, 10, 10, 0.7);
+            border-radius: 12px;
+            border: 1px solid rgba(191, 0, 255, 0.3);
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+            animation: fadeInUp 1.2s ease-out;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .hero-title {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 3.5rem;
+            margin-bottom: 15px;
+            text-shadow: 0 0 15px rgba(191, 0, 255, 0.7);
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            position: relative;
+            display: inline-block;
+        }
+
+        .hero-title::after {
+            content: attr(data-text);
+            position: absolute;
+            left: 0;
+            top: 0;
+            z-index: -1;
+            color: transparent;
+            -webkit-text-stroke: 1px rgba(191, 0, 255, 0.5);
+        }
+
+        .hero-subtitle {
+            font-size: 1.2rem;
+            margin-bottom: 1.5rem;
+            color: var(--accent);
+            text-transform: uppercase;
+            letter-spacing: 3px;
+            font-family: 'Orbitron', sans-serif;
+            text-shadow: 0 0 8px rgba(0, 200, 255, 0.5);
+        }
+
+        .hero-description {
+            font-size: 1.1rem;
+            margin-bottom: 2rem;
+            color: var(--text-dim);
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .hero-btns {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin-top: 30px;
+        }
+
+        .btn {
+            display: inline-block;
+            position: relative;
+            padding: 12px 30px;
+            text-transform: uppercase;
+            background: none;
+            color: var(--primary);
+            border: 2px solid var(--primary);
+            border-radius: 4px;
+            font-weight: bold;
+            font-size: 0.9rem;
+            letter-spacing: 2px;
+            overflow: hidden;
+            transition: all 0.3s;
+            z-index: 1;
+            text-decoration: none;
+            font-family: 'Orbitron', sans-serif;
+            cursor: pointer;
+        }
+
+        .btn:hover {
+            color: var(--text-bright);
+            box-shadow: var(--glow-primary);
+        }
+
+        .btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(191, 0, 255, 0.4), transparent);
+            transition: 0.5s;
+            z-index: -1;
+        }
+
+        .btn:hover::before {
+            left: 100%;
+        }
+
+        .btn-secondary {
+            color: var(--secondary);
+            border-color: var(--secondary);
+        }
+
+        .btn-secondary:hover {
+            box-shadow: var(--glow-secondary);
+        }
+
+        .btn-secondary::before {
+            background: linear-gradient(90deg, transparent, rgba(0, 112, 255, 0.4), transparent);
+        }
+
+        .btn-accent {
+            color: var(--accent);
+            border-color: var(--accent);
+        }
+
+        .btn-accent:hover {
+            box-shadow: var(--glow-accent);
+        }
+
+        .btn-accent::before {
+            background: linear-gradient(90deg, transparent, rgba(0, 200, 255, 0.4), transparent);
+        }
+
+        /* Grid and 3D effects */
+        .grid-3d {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-image: 
+                linear-gradient(rgba(191, 0, 255, 0.1) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(191, 0, 255, 0.1) 1px, transparent 1px);
+            background-size: 30px 30px;
+            perspective: 1000px;
+            transform-style: preserve-3d;
+            transform: rotateX(60deg);
+            animation: grid-move 20s linear infinite;
+            opacity: 0.3;
+        }
+
+        @keyframes grid-move {
+            0% {
+                background-position: 0 0;
+            }
+            100% {
+                background-position: 0 30px;
+            }
+        }
+
+        /* Cyber scanner effect */
+        .cyber-scanner {
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(to right, transparent, var(--primary), transparent);
+            animation: scanLine 3s linear infinite;
+            opacity: 0.5;
+            z-index: 0;
+        }
+
+        @keyframes scanLine {
+            0% {
+                transform: translateY(0);
+            }
+            100% {
+                transform: translateY(calc(100vh - 4px));
+            }
+        }
+
+        /* 3D Spinning Cube */
+        .cube-container {
+            position: absolute;
+            width: 150px;
+            height: 150px;
+            top: 50%;
+            right: 10%;
+            transform: translateY(-50%);
+            perspective: 1000px;
+            z-index: 1;
+        }
+
+        .cube {
+            width: 100%;
+            height: 100%;
+            position: relative;
+            transform-style: preserve-3d;
+            animation: cube-rotate 15s infinite linear;
+        }
+
+        @keyframes cube-rotate {
+            0% {
+                transform: rotateX(0) rotateY(0) rotateZ(0);
+            }
+            100% {
+                transform: rotateX(360deg) rotateY(360deg) rotateZ(360deg);
+            }
+        }
+
+        .cube-face {
+            position: absolute;
+            width: 150px;
+            height: 150px;
+            border: 2px solid var(--primary);
+            background-color: rgba(191, 0, 255, 0.1);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-family: 'Orbitron', sans-serif;
+            color: var(--text-bright);
+            font-size: 1rem;
+            font-weight: bold;
+            text-shadow: 0 0 8px var(--primary);
+            box-shadow: 0 0 15px rgba(191, 0, 255, 0.3) inset;
+            backface-visibility: visible;
+            text-align: center;
+            padding: 10px;
+        }
+
+        .front {
+            transform: translateZ(75px);
+        }
+
+        .back {
+            transform: rotateY(180deg) translateZ(75px);
+        }
+
+        .right {
+            transform: rotateY(90deg) translateZ(75px);
+        }
+
+        .left {
+            transform: rotateY(-90deg) translateZ(75px);
+        }
+
+        .top {
+            transform: rotateX(90deg) translateZ(75px);
+        }
+
+        .bottom {
+            transform: rotateX(-90deg) translateZ(75px);
+        }
+
+        /* Typing cursor effect for terminal */
+        .cursor {
+            display: inline-block;
+            width: 10px;
+            height: 18px;
+            background-color: var(--primary);
+            animation: blink 1s infinite;
+            vertical-align: text-bottom;
+        }
+
+        @keyframes blink {
+            50% {
+                opacity: 0;
+            }
+        }
+
+        /* Main content */
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 60px 20px;
+        }
+
+        .section {
+            margin: 100px 0;
+        }
+
+        .section-header {
+            text-align: center;
+            margin-bottom: 50px;
+            position: relative;
+        }
+
+        .section-title {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.5rem;
+            margin-bottom: 20px;
+            color: var(--secondary);
+            position: relative;
+            display: inline-block;
+        }
+
+        .section-title::after {
+            content: '';
+            position: absolute;
+            bottom: -10px;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 80px;
+            height: 3px;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+        }
+
+        .section-subtitle {
+            font-size: 1.1rem;
+            color: var(--text-dim);
+            max-width: 700px;
+            margin: 0 auto;
+        }
+
+        /* About section */
+        .about-section {
+            display: grid;
+            grid-template-columns: 1fr 2fr;
+            gap: 40px;
+            align-items: center;
+        }
+
+        .about-image {
+            position: relative;
+            width: 100%;
+            border-radius: 8px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            overflow: hidden;
+            transition: all 0.3s ease;
+            border: 2px solid var(--primary);
+        }
+
+        .about-image:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--glow-primary);
+        }
+
+        .github-stats {
+            width: 100%;
+            display: block;
+            border-radius: 8px;
+        }
+
+        .about-content h3 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            color: var(--primary);
+        }
+
+        .about-content p {
+            margin-bottom: 15px;
+            font-size: 1rem;
+            color: var(--text);
+        }
+
+        .terminal {
+            background-color: var(--bg-darker);
+            border-radius: 8px;
+            padding: 20px;
+            margin: 25px 0;
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.5);
+            border: 1px solid var(--border-color);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .terminal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
+
+        .terminal-title {
+            color: var(--text-dim);
+            font-size: 0.9rem;
+            margin: 0;
+            font-family: sans-serif;
+        }
+
+        .terminal-dots {
+            display: flex;
+            gap: 6px;
+        }
+
+        .terminal-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        .terminal-dot.red {
+            background-color: var(--danger);
+        }
+
+        .terminal-dot.yellow {
+            background-color: var(--warning);
+        }
+
+        .terminal-dot.green {
+            background-color: var(--success);
+        }
+
+        .terminal-body {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+            color: var(--text);
+            line-height: 1.5;
+        }
+
+        .terminal-prompt {
+            color: var(--success);
+            margin-right: 10px;
+        }
+
+        .terminal-command {
+            color: var(--text-bright);
+        }
+
+        .terminal-output {
+            color: var(--text-dim);
+            margin: 10px 0;
+            padding-left: 10px;
+        }
+
+        .terminal-line {
+            margin-bottom: 10px;
+        }
+
+        /* Skills section */
+        .skills-section {
+            margin: 80px 0;
+        }
+
+        .skills-container {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            gap: 30px;
+        }
+
+        .skill-category {
+            background-color: var(--bg-card);
+            border-radius: 8px;
+            padding: 25px;
+            border: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        .skill-category:hover {
+            transform: translateY(-10px);
+            border-color: var(--primary);
+            box-shadow: var(--glow-primary);
+        }
+
+        .skill-category:nth-child(2):hover {
+            border-color: var(--secondary);
+            box-shadow: var(--glow-secondary);
+        }
+
+        .skill-category:nth-child(3):hover {
+            border-color: var(--accent);
+            box-shadow: var(--glow-accent);
+        }
+
+        .skill-category h3 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.4rem;
+            margin-bottom: 20px;
+            color: var(--primary);
+            position: relative;
+            padding-bottom: 10px;
+        }
+
+        .skill-category:nth-child(2) h3 {
+            color: var(--secondary);
+        }
+
+        .skill-category:nth-child(3) h3 {
+            color: var(--accent);
+        }
+
+        .skill-category h3::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 50px;
+            height: 2px;
+            background: var(--primary);
+        }
+
+        .skill-category:nth-child(2) h3::after {
+            background: var(--secondary);
+        }
+
+        .skill-category:nth-child(3) h3::after {
+            background: var(--accent);
+        }
+
+        .skill-list {
+            list-style: none;
+        }
+
+        .skill-item {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+        }
+
+        .skill-icon {
+            width: 30px;
+            height: 30px;
+            background-color: rgba(191, 0, 255, 0.1);
+            border-radius: 4px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-right: 15px;
+            color: var(--primary);
+            font-size: 1rem;
+        }
+
+        .skill-category:nth-child(2) .skill-icon {
+            background-color: rgba(0, 112, 255, 0.1);
+            color: var(--secondary);
+        }
+
+        .skill-category:nth-child(3) .skill-icon {
+            background-color: rgba(0, 200, 255, 0.1);
+            color: var(--accent);
+        }
+
+        .skill-info {
+            flex: 1;
+        }
+
+        .skill-name {
+            font-size: 1rem;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .skill-bar {
+            height: 5px;
+            background-color: rgba(191, 0, 255, 0.1);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+
+        .skill-category:nth-child(2) .skill-bar {
+            background-color: rgba(0, 112, 255, 0.1);
+        }
+
+        .skill-category:nth-child(3) .skill-bar {
+            background-color: rgba(0, 200, 255, 0.1);
+        }
+
+        .skill-progress {
+            height: 100%;
+            background: linear-gradient(to right, var(--primary-dark), var(--primary));
+            border-radius: 3px;
+            width: 0;
+            transition: width 1.5s ease;
+        }
+
+        .skill-category:nth-child(2) .skill-progress {
+            background: linear-gradient(to right, var(--secondary-dark), var(--secondary));
+        }
+
+        .skill-category:nth-child(3) .skill-progress {
+            background: linear-gradient(to right, var(--accent-dark), var(--accent));
+        }
+
+        /* Projects section */
+        .projects-section {
+            margin: 80px 0;
+        }
+
+        .projects-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+            gap: 30px;
+        }
+
+        .project-card {
+            background-color: var(--bg-card);
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5);
+            border: 1px solid rgba(191, 0, 255, 0.1);
+            transition: all 0.3s ease;
+            position: relative;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .project-card:hover {
+            transform: translateY(-10px);
+            border-color: var(--primary);
+            box-shadow: var(--glow-primary);
+        }
+
+        .project-card:nth-child(2):hover {
+            border-color: var(--secondary);
+            box-shadow: var(--glow-secondary);
+        }
+
+        .project-card:nth-child(3):hover {
+            border-color: var(--accent);
+            box-shadow: var(--glow-accent);
+        }
+
+        .project-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(to bottom, var(--primary), var(--secondary));
+        }
+
+        .project-card:nth-child(2)::before {
+            background: linear-gradient(to bottom, var(--secondary), var(--accent));
+        }
+
+        .project-card:nth-child(3)::before {
+            background: linear-gradient(to bottom, var(--accent), var(--tertiary));
+        }
+
+        .project-content {
+            padding: 25px;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .project-title {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.4rem;
+            margin-bottom: 15px;
+            color: var(--accent);
+        }
+
+        .project-description {
+            font-size: 1rem;
+            color: var(--text-dim);
+            margin-bottom: 20px;
+            flex: 1;
+        }
+
+        .project-tech {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-top: 15px;
+        }
+
+        .project-tech-tag {
+            background-color: rgba(0, 200, 255, 0.1);
+            border: 1px solid rgba(0, 200, 255, 0.3);
+            border-radius: 20px;
+            padding: 4px 12px;
+            font-size: 0.8rem;
+            color: var(--accent);
+        }
+
+        .project-link {
+            display: inline-block;
+            margin-top: 20px;
+            color: var(--primary);
+            text-decoration: none;
+            font-size: 0.9rem;
+            transition: all 0.3s ease;
+        }
+
+        .project-link:hover {
+            color: var(--text-bright);
+            text-shadow: var(--glow-primary);
+        }
+
+        .project-link i {
+            margin-left: 5px;
+        }
+
+        /* SystemScript section */
+        .systemscript-section {
+            margin: 80px 0;
+            position: relative;
+        }
+
+        .systemscript-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            align-items: center;
+        }
+
+        .systemscript-content h3 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.8rem;
+            margin-bottom: 20px;
+            color: var(--accent);
+        }
+
+        .systemscript-content p {
+            margin-bottom: 15px;
+            font-size: 1rem;
+            color: var(--text);
+        }
+
+        .systemscript-content ul {
+            margin-bottom: 20px;
+            padding-left: 20px;
+        }
+
+        .systemscript-content li {
+            margin-bottom: 8px;
+        }
+
+        .code-block {
+            background-color: var(--code-bg);
+            border-radius: 8px;
+            padding: 20px;
+            margin: 25px 0;
+            overflow-x: auto;
+            border: 1px solid var(--border-color);
+            position: relative;
+            transition: all 0.3s ease;
+        }
+
+        .code-block:hover {
+            border-color: var(--primary);
+            box-shadow: 0 0 20px rgba(191, 0, 255, 0.1);
+        }
+
+        .code-block::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 4px;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+        }
+
+        .code-block pre {
+            font-family: 'JetBrains Mono', monospace;
+            font-size: 0.9rem;
+            color: var(--text);
+            line-height: 1.5;
+        }
+
+        .code-header {
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .code-title {
+            font-family: 'Orbitron', sans-serif;
+            color: var(--accent);
+            font-size: 1rem;
+            margin: 0;
+        }
+
+        .code-dots {
+            display: flex;
+            gap: 6px;
+        }
+
+        .code-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+
+        .code-dot.red {
+            background-color: var(--danger);
+        }
+
+        .code-dot.yellow {
+            background-color: var(--warning);
+        }
+
+        .code-dot.green {
+            background-color: var(--success);
+        }
+
+        /* Languages and Tools section */
+        .languages-section {
+            margin: 80px 0;
+        }
+
+        .languages-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+            gap: 25px;
+            margin-top: 40px;
+        }
+
+        .language-item {
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .language-item:hover {
+            transform: translateY(-10px);
+        }
+
+        .language-icon {
+            width: 70px;
+            height: 70px;
+            margin: 0 auto 10px;
+            border-radius: 8px;
+            overflow: hidden;
+            padding: 5px;
+            background-color: var(--bg-card);
+            border: 1px solid var(--border-color);
+            transition: all 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .language-item:hover .language-icon {
+            border-color: var(--primary);
+            box-shadow: var(--glow-primary);
+        }
+
+        .language-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+        }
+
+        .language-name {
+            font-size: 0.9rem;
+            color: var(--text-dim);
+            transition: all 0.3s ease;
+        }
+
+        .language-item:hover .language-name {
+            color: var(--primary);
+        }
+
+        /* OS Section */
+        .os-section {
+            margin: 80px 0;
+        }
+
+        .os-container {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 40px;
+        }
+
+        .os-item {
+            text-align: center;
+            transition: all 0.3s ease;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: rgba(10, 10, 10, 0.3);
+            border: 1px solid var(--border-color);
+            width: 120px;
+        }
+
+        .os-item:hover {
+            background-color: var(--bg-card-hover);
+            transform: translateY(-10px);
+            border-color: var(--secondary);
+            box-shadow: var(--glow-secondary);
+        }
+
+        .os-icon {
+            width: 60px;
+            height: 60px;
+            margin: 0 auto 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .os-icon img {
+            width: 100%;
+            height: 100%;
+            object-fit: contain;
+            transition: all 0.3s ease;
+        }
+
+        .os-item:hover .os-icon img {
+            transform: scale(1.1);
+        }
+
+        .os-name {
+            font-size: 0.9rem;
+            color: var(--text);
+        }
+
+        /* TRUST SYSTEMS Section */
+        .trust-section {
+            margin: 80px 0;
+        }
+
+        .trust-content {
+            margin-top: 30px;
+        }
+
+        .trust-content h3 {
+            font-family: 'Orbitron', sans-serif;
+            color: var(--primary);
+            margin-bottom: 20px;
+        }
+
+        .trust-content p {
+            margin-bottom: 15px;
+        }
+
+        .trust-features {
+            list-style-type: none;
+            margin-top: 20px;
+        }
+
+        .trust-features li {
+            margin-bottom: 10px;
+            display: flex;
+            align-items: center;
+        }
+
+        .trust-features li i {
+            color: var(--primary);
+            margin-right: 10px;
+        }
+
+        /* Contact section */
+        .contact-section {
+            margin: 80px 0;
+            text-align: center;
+        }
+
+        .contact-container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: var(--bg-card);
+            border-radius: 8px;
+            border: 1px solid var(--border-color);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+        }
+
+        .contact-container:hover {
+            border-color: var(--primary);
+            box-shadow: var(--glow-primary);
+        }
+
+        .contact-email {
+            display: inline-block;
+            padding: 15px 30px;
+            background-color: rgba(191, 0, 255, 0.1);
+            border-radius: 8px;
+            border: 1px solid rgba(191, 0, 255, 0.3);
+            color: var(--text);
+            text-decoration: none;
+            transition: all 0.3s ease;
+            font-size: 1.1rem;
+            margin-top: 20px;
+        }
+
+        .contact-email:hover {
+            background-color: rgba(191, 0, 255, 0.2);
+            transform: translateY(-5px);
+            box-shadow: var(--glow-primary);
+            color: var(--text-bright);
+        }
+
+        .social-icons {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            margin: 30px 0;
+        }
+
+        .social-icon {
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+            background-color: rgba(191, 0, 255, 0.1);
+            color: var(--text);
+            font-size: 1.5rem;
+            transition: all 0.3s ease;
+            text-decoration: none;
+        }
+
+        .social-icon:hover {
+            background-color: var(--primary);
+            color: var(--text-bright);
+            transform: translateY(-5px);
+            box-shadow: var(--glow-primary);
+        }
+
+        /* Back to top button */
+        .back-to-top {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 50px;
+            height: 50px;
+            background-color: var(--primary);
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: var(--text-bright);
+            text-decoration: none;
+            font-size: 1.5rem;
+            opacity: 0;
+            pointer-events: none;
+            transition: all 0.3s ease;
+            z-index: 99;
+            box-shadow: 0 0 10px rgba(191, 0, 255, 0.5);
+        }
+
+        .back-to-top.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .back-to-top:hover {
+            transform: translateY(-5px);
+            box-shadow: var(--glow-primary);
+        }
+
+        /* Footer */
+        footer {
+            padding: 40px 0;
+            background-color: var(--bg-darker);
+            border-top: 1px solid rgba(191, 0, 255, 0.1);
+            text-align: center;
+        }
+
+        .footer-content {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 20px;
+        }
+
+        .footer-links {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 30px;
+            margin-bottom: 30px;
+        }
+
+        .footer-link {
+            color: var(--text-dim);
+            text-decoration: none;
+            transition: all 0.3s ease;
+        }
+
+        .footer-link:hover {
+            color: var(--primary);
+        }
+
+        .footer-copyright {
+            color: var(--text-dim);
+            font-size: 0.9rem;
+        }
+
+        /* Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+            }
+            to {
+                opacity: 1;
+            }
+        }
+
+        @keyframes fadeInLeft {
+            from {
+                opacity: 0;
+                transform: translateX(-30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        @keyframes fadeInRight {
+            from {
+                opacity: 0;
+                transform: translateX(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+
+        .fade-in {
+            animation: fadeIn 1s ease-out forwards;
+        }
+
+        .fade-in-left {
+            animation: fadeInLeft 1s ease-out forwards;
+        }
+
+        .fade-in-right {
+            animation: fadeInRight 1s ease-out forwards;
+        }
+
+        .delay-1 {
+            animation-delay: 0.2s;
+        }
+
+        .delay-2 {
+            animation-delay: 0.4s;
+        }
+
+        .delay-3 {
+            animation-delay: 0.6s;
+        }
+
+        /* Responsive styles */
+        @media (max-width: 1200px) {
+            .hero-title {
+                font-size: 3rem;
+            }
+            
+            .hero-subtitle {
+                font-size: 1.1rem;
+            }
+            
+            .systemscript-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .languages-grid {
+                grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
+            }
+
+            .cube-container {
+                right: 5%;
+            }
+        }
+
+        @media (max-width: 991px) {
+            .about-section {
+                grid-template-columns: 1fr;
+            }
+            
+            .about-image {
+                max-width: 400px;
+                margin: 0 auto 40px;
+            }
+            
+            .projects-grid {
+                grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+            }
+
+            .cube-container {
+                display: none;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .nav-links {
+                display: none;
+            }
+            
+            .mobile-nav-toggle {
+                display: block;
+            }
+            
+            .hero-title {
+                font-size: 2.5rem;
+            }
+            
+            .hero-subtitle {
+                font-size: 1rem;
+            }
+            
+            .hero-description {
+                font-size: 1rem;
+            }
+            
+            .section-title {
+                font-size: 2rem;
+            }
+            
+            .btn {
+                padding: 10px 20px;
+                font-size: 0.8rem;
+            }
+            
+            .hero-btns {
+                flex-direction: column;
+                gap: 15px;
+            }
+            
+            .languages-grid {
+                grid-template-columns: repeat(auto-fill, minmax(85px, 1fr));
+                gap: 15px;
+            }
+            
+            .language-icon {
+                width: 60px;
+                height: 60px;
+            }
+        }
+
+        @media (max-width: 576px) {
+            .hero-title {
+                font-size: 2rem;
+            }
+            
+            .nav-logo {
+                font-size: 1.2rem;
+            }
+            
+            .section {
+                margin: 60px 0;
+            }
+            
+            .section-title {
+                font-size: 1.8rem;
+            }
+            
+            .about-content h3, .systemscript-content h3 {
+                font-size: 1.5rem;
+            }
+            
+            .skills-container {
+                grid-template-columns: 1fr;
+            }
+            
+            .projects-grid {
+                grid-template-columns: 1fr;
+            }
+            
+            .terminal {
+                padding: 15px;
+            }
+            
+            .terminal-body {
+                font-size: 0.8rem;
+            }
+            
+            .languages-grid {
+                grid-template-columns: repeat(auto-fill, minmax(80px, 1fr));
+                gap: 10px;
+            }
+            
+            .language-icon {
+                width: 50px;
+                height: 50px;
+            }
+        }
+
+        /* Mobile navigation */
+        .mobile-nav {
+            position: fixed;
+            top: 60px;
+            left: 0;
+            width: 100%;
+            height: 0;
+            background-color: rgba(10, 10, 10, 0.95);
+            overflow: hidden;
+            transition: height 0.3s ease;
+            z-index: 999;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+
+        .mobile-nav.open {
+            height: calc(100vh - 60px);
+        }
+
+        .mobile-nav-links {
+            display: flex;
+            flex-direction: column;
+            padding: 20px;
+        }
+
+        .mobile-nav-link {
+            color: var(--text);
+            text-decoration: none;
+            padding: 15px 0;
+            font-size: 1.2rem;
+            border-bottom: 1px solid rgba(191, 0, 255, 0.1);
+            transition: all 0.3s ease;
+        }
+
+        .mobile-nav-link:hover {
+            color: var(--primary);
+            padding-left: 10px;
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Background Effects -->
+    <div class="cyber-scanner"></div>
+    
+    <!-- Navigation -->
+    <nav class="nav-bar">
+        <div class="nav-logo">CPScript<span>/></span></div>
+        <div class="nav-links">
+            <a href="#about" class="nav-link">About</a>
+            <a href="#skills" class="nav-link">Skills</a>
+            <a href="#projects" class="nav-link">Projects</a>
+            <a href="#systemscript" class="nav-link">SystemScript</a>
+            <a href="#trust" class="nav-link">TRUST SYSTEMS</a>
+            <a href="#contact" class="nav-link">Contact</a>
+        </div>
+        <button class="mobile-nav-toggle" aria-label="Toggle navigation">
+            <i class="fas fa-bars"></i>
+        </button>
+    </nav>
+    
+    <!-- Mobile Navigation -->
+    <div class="mobile-nav">
+        <div class="mobile-nav-links">
+            <a href="#about" class="mobile-nav-link">About</a>
+            <a href="#skills" class="mobile-nav-link">Skills</a>
+            <a href="#projects" class="mobile-nav-link">Projects</a>
+            <a href="#systemscript" class="mobile-nav-link">SystemScript</a>
+            <a href="#trust" class="mobile-nav-link">TRUST SYSTEMS</a>
+            <a href="#contact" class="mobile-nav-link">Contact</a>
+        </div>
+    </div>
+    
+    <!-- Hero Section -->
+    <section class="hero" id="home">
+        <div class="grid-3d"></div>
+        
+        <!-- 3D Spinning Cube -->
+        <div class="cube-container">
+            <div class="cube">
+                <div class="cube-face front">PLEASE HIRE ME</div>
+                <div class="cube-face back">EXPERT DEVELOPER</div>
+                <div class="cube-face right">LOW-LEVEL PRO</div>
+                <div class="cube-face left">SYSTEMS ENGINEER</div>
+                <div class="cube-face top">SECURITY SPECIALIST</div>
+                <div class="cube-face bottom">KERNEL WIZARD</div>
+            </div>
+        </div>
+        
+        <div class="hero-content">
+            <h1 class="hero-title" data-text="CPScript">CPScript</h1>
+            <p class="hero-subtitle">Low-level Developer | Malware Analyst | Systems Engineer</p>
+            <p class="hero-description">Specializing in the art of manipulating hardware and software at their foundational levels. Creator of SystemScript language and lead developer at TRUST SYSTEMS, developing military-grade security tools and custom system frameworks.</p>
+            
+            <div class="hero-btns">
+                <a href="#about" class="btn">Discover More</a>
+                <a href="#contact" class="btn btn-secondary">Get In Touch</a>
+            </div>
+        </div>
+    </section>
+    
+    <div class="container">
+        <!-- About Section -->
+        <section class="section" id="about">
+            <div class="section-header">
+                <h2 class="section-title">About Me</h2>
+                <p class="section-subtitle">Exploring the depths of low-level programming and system architecture</p>
+            </div>
+            
+            <div class="about-section">
+                <div class="about-image fade-in-left">
+                    <!-- GitHub Stats Card -->
+                    <img src="https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="CPScript GitHub Stats" class="github-stats">
+                    <!-- GitHub Streak Stats -->
+                    <img src="https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=radical&hide_border=true" alt="CPScript GitHub Streak" class="github-stats" style="margin-top: 10px;">
+                    <!-- Top Languages -->
+                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=radical&hide_border=true" alt="CPScript Top Languages" class="github-stats" style="margin-top: 10px;">
+                </div>
+                
+                <div class="about-content fade-in-right">
+                    <h3>Who is CPScript?</h3>
+                    <p>I'm CPScript, also known as 0x44isease, a low-level developer with expertise in system exploitation, malware analysis, and kernel development. My work focuses on the intricate intersection of hardware and software, diving deep into how systems operate at their foundational levels.</p>
+                    
+                    <p>As the creator of SystemScript language and lead developer at TRUST SYSTEMS, I develop military-grade security tools and custom system frameworks designed for both protection and controlled exploitation. My passion lies in understanding and manipulating the lowest levels of computing architecture.</p>
+                    
+                    <div class="terminal">
+                        <div class="terminal-header">
+                            <h4 class="terminal-title">cpscript@system:~</h4>
+                            <div class="terminal-dots">
+                                <div class="terminal-dot red"></div>
+                                <div class="terminal-dot yellow"></div>
+                                <div class="terminal-dot green"></div>
+                            </div>
+                        </div>
+                        <div class="terminal-body">
+                            <div class="terminal-line">
+                                <span class="terminal-prompt">$</span>
+                                <span class="terminal-command">whoami</span>
+                            </div>
+                            <div class="terminal-output">
+                                CPScript - Low-level Developer & Systems Engineer<br>
+                                Root access granted to kernel functions and hardware interfaces<br>
+                                Clearance: Level 5 - System Exploitation & Malware Analysis
+                            </div>
+                            <div class="terminal-line">
+                                <span class="terminal-prompt">$</span>
+                                <span class="terminal-command">cat /etc/expertise</span>
+                            </div>
+                            <div class="terminal-output">
+                                - Assembly programming (x86/x86-64)<br>
+                                - Kernel & driver development<br>
+                                - System exploitation frameworks<br>
+                                - Reverse engineering & malware analysis<br>
+                                - Custom low-level language design<br>
+                                - Hardware manipulation & firmware development
+                            </div>
+                            <div class="terminal-line">
+                                <span class="terminal-prompt">$</span>
+                                <span class="terminal-command">echo $MISSION</span>
+                            </div>
+                            <div class="terminal-output">
+                                "To master and advance the art of low-level programming, creating tools and frameworks that push the boundaries of what's possible with hardware and software integration."
+                            </div>
+                            <div class="terminal-line">
+                                <span class="terminal-prompt">$</span>
+                                <span class="terminal-command">ls -la projects/</span>
+                                <span class="cursor"></span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Skills Section -->
+        <section class="skills-section section" id="skills">
+            <div class="section-header">
+                <h2 class="section-title">Technical Arsenal</h2>
+                <p class="section-subtitle">My diverse toolkit for system manipulation and low-level development</p>
+            </div>
+            
+            <div class="skills-container">
+                <div class="skill-category fade-in">
+                    <h3>Core Expertise</h3>
+                    <ul class="skill-list">
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-microchip"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Low-level Programming</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 98%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-bug"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Malware Analysis</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 95%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-gears"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">System Architecture</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 90%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-memory"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Memory Management</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 97%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="skill-category fade-in delay-1">
+                    <h3>System Control</h3>
+                    <ul class="skill-list">
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-shield-virus"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Systems Exploitation</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 96%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-network-wired"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Kernel Development</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 92%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-microchip"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Firmware Development</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 88%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-server"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Boot-Sector Development</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 85%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                
+                <div class="skill-category fade-in delay-2">
+                    <h3>Advanced Technologies</h3>
+                    <ul class="skill-list">
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-robot"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Machine Learning</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 80%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-cubes"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">GPU Programming</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 85%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-laptop-code"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Language Design</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 90%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="skill-item">
+                            <div class="skill-icon">
+                                <i class="fa-solid fa-file-binary"></i>
+                            </div>
+                            <div class="skill-info">
+                                <div class="skill-name">Binary Analysis</div>
+                                <div class="skill-bar">
+                                    <div class="skill-progress" style="width: 94%;"></div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Languages Section -->
+        <section class="languages-section section">
+            <div class="section-header">
+                <h2 class="section-title">Languages & Tools</h2>
+                <p class="section-subtitle">My programming languages and development tools</p>
+            </div>
+            
+            <div class="languages-grid">
+                <!-- Low-level Languages -->
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/Assembily-x86.png" alt="x86 Assembly">
+                    </div>
+                    <div class="language-name">x86 ASM</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/assembly.png" alt="Assembly">
+                    </div>
+                    <div class="language-name">Assembly</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/C.png" alt="C">
+                    </div>
+                    <div class="language-name">C</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/C++.png" alt="C++">
+                    </div>
+                    <div class="language-name">C++</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/C-sharp.png" alt="C#">
+                    </div>
+                    <div class="language-name">C#</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/rust.png" alt="Rust">
+                    </div>
+                    <div class="language-name">Rust</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/go.png" alt="Go">
+                    </div>
+                    <div class="language-name">Go</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/nim.png" alt="Nim">
+                    </div>
+                    <div class="language-name">Nim</div>
+                </div>
+                <!-- Mid-level Languages -->
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/java.png" alt="Java">
+                    </div>
+                    <div class="language-name">Java</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/swift.png" alt="Swift">
+                    </div>
+                    <div class="language-name">Swift</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/Haskell.png" alt="Haskell">
+                    </div>
+                    <div class="language-name">Haskell</div>
+                </div>
+                <!-- High-level/Scripting Languages -->
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/python.png" alt="Python">
+                    </div>
+                    <div class="language-name">Python</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/javascript.webp" alt="JavaScript">
+                    </div>
+                    <div class="language-name">JavaScript</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/typescript.png" alt="TypeScript">
+                    </div>
+                    <div class="language-name">TypeScript</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/php.png" alt="PHP">
+                    </div>
+                    <div class="language-name">PHP</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/ruby.png" alt="Ruby">
+                    </div>
+                    <div class="language-name">Ruby</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/Lua.png" alt="Lua">
+                    </div>
+                    <div class="language-name">Lua</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/VBS.png" alt="VBS">
+                    </div>
+                    <div class="language-name">VBS</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/bash.png" alt="Bash">
+                    </div>
+                    <div class="language-name">Bash</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/batch.png" alt="Batch">
+                    </div>
+                    <div class="language-name">Batch</div>
+                </div>
+                <!-- Markup/Query Languages -->
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/html5.png" alt="HTML">
+                    </div>
+                    <div class="language-name">HTML</div>
+                </div>
+                <div class="language-item fade-in">
+                    <div class="language-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/SQL.png" alt="SQL">
+                    </div>
+                    <div class="language-name">SQL</div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- OS Section -->
+        <section class="os-section">
+            <div class="section-header">
+                <h2 class="section-title">Operating Systems</h2>
+                <p class="section-subtitle">Platforms I work with and develop for</p>
+            </div>
+            
+            <div class="os-container">
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/arch.png" alt="Arch Linux">
+                    </div>
+                    <div class="os-name">Arch Linux</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/kali.png" alt="Kali Linux">
+                    </div>
+                    <div class="os-name">Kali Linux</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/parrot.png" alt="Parrot OS">
+                    </div>
+                    <div class="os-name">Parrot OS</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/windows.png" alt="Windows">
+                    </div>
+                    <div class="os-name">Windows</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/mac.png" alt="macOS">
+                    </div>
+                    <div class="os-name">macOS</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/redhat.png" alt="Red Hat">
+                    </div>
+                    <div class="os-name">Red Hat</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/debain.png" alt="Debian">
+                    </div>
+                    <div class="os-name">Debian</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/rasp.png" alt="Raspbian">
+                    </div>
+                    <div class="os-name">Raspbian</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/hyra.png" alt="Hyra">
+                    </div>
+                    <div class="os-name">Hyra</div>
+                </div>
+                <div class="os-item fade-in">
+                    <div class="os-icon">
+                        <img src="https://raw.githubusercontent.com/CPScript/CPScript/main/assets/android.png" alt="Android">
+                    </div>
+                    <div class="os-name">Android</div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- Projects Section -->
+        <section class="projects-section section" id="projects">
+            <div class="section-header">
+                <h2 class="section-title">Featured Projects</h2>
+                <p class="section-subtitle">A selection of my most significant technical accomplishments</p>
+            </div>
+            
+            <div class="projects-grid">
+                <div class="project-card fade-in">
+                    <div class="project-content">
+                        <h3 class="project-title">SystemScript</h3>
+                        <p class="project-description">Custom programming language bridging low-level and high-level development with direct hardware access capabilities and memory management features.</p>
+                        <div class="project-tech">
+                            <span class="project-tech-tag">Language Design</span>
+                            <span class="project-tech-tag">Compiler</span>
+                            <span class="project-tech-tag">Memory Management</span>
+                        </div>
+                        <a href="https://github.com/CPScript/SystemScript" class="project-link">Explore Project <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                
+                <div class="project-card fade-in delay-1">
+                    <div class="project-content">
+                        <h3 class="project-title">Memory-Manipulation</h3>
+                        <p class="project-description">Lightweight memory manipulation framework for advanced memory operations, allowing for precise control over system resources and memory allocation.</p>
+                        <div class="project-tech">
+                            <span class="project-tech-tag">C/C++</span>
+                            <span class="project-tech-tag">Assembly</span>
+                            <span class="project-tech-tag">Memory Management</span>
+                        </div>
+                        <a href="#" class="project-link">Explore Project <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                
+                <div class="project-card fade-in delay-2">
+                    <div class="project-content">
+                        <h3 class="project-title">8bitCPU-HDL</h3>
+                        <p class="project-description">Custom 8-bit CPU implementation in hardware description language, demonstrating advanced digital logic design and processor architecture principles.</p>
+                        <div class="project-tech">
+                            <span class="project-tech-tag">HDL</span>
+                            <span class="project-tech-tag">CPU Architecture</span>
+                            <span class="project-tech-tag">Digital Logic</span>
+                        </div>
+                        <a href="#" class="project-link">Explore Project <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                
+                <div class="project-card fade-in delay-3">
+                    <div class="project-content">
+                        <h3 class="project-title">kernel-game</h3>
+                        <p class="project-description">Kernel software for boot sector backup and restoration, ensuring system integrity and providing disaster recovery options.</p>
+                        <div class="project-tech">
+                            <span class="project-tech-tag">Assembly</span>
+                            <span class="project-tech-tag">C</span>
+                            <span class="project-tech-tag">Kernel</span>
+                        </div>
+                        <a href="#" class="project-link">Explore Project <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                
+                <div class="project-card fade-in delay-4">
+                    <div class="project-content">
+                        <h3 class="project-title">Hyra OS (By Ian M.)</h3>
+                        <p class="project-description">Custom operating system development project with specialized kernel architecture, driver framework, and security implementations.</p>
+                        <div class="project-tech">
+                            <span class="project-tech-tag">OS Development</span>
+                            <span class="project-tech-tag">Kernel</span>
+                            <span class="project-tech-tag">System Architecture</span>
+                        </div>
+                        <a href="#" class="project-link">Explore Project <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+                
+                <div class="project-card fade-in delay-5">
+                    <div class="project-content">
+                        <h3 class="project-title">Kyro OS</h3>
+                        <p class="project-description">A weponized operating system focusing on user security. This is more of a unbloated weponized framework as an operating system. </p>
+                        <div class="project-tech">
+                            <span class="project-tech-tag">Python</span>
+                            <span class="project-tech-tag">Operating System</span>
+                            <span class="project-tech-tag">Weponized</span>
+                        </div>
+                        <a href="#" class="project-link">Explore Project <i class="fa-solid fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- SystemScript Section -->
+        <section class="systemscript-section section" id="systemscript">
+            <div class="section-header">
+                <h2 class="section-title">SystemScript</h2>
+                <p class="section-subtitle">A powerful multi-paradigm systems programming language for complete hardware and software control</p>
+            </div>
+            
+            <div class="systemscript-container">
+                <div class="systemscript-content fade-in-left">
+                    <h3>Reimagining System-Level Programming</h3>
+                    <p>SystemScript is my custom programming language that bridges the gap between low-level system programming and high-level application development. With a C-like syntax but considerably more power and flexibility, it provides direct hardware manipulation capabilities alongside high-level abstractions.</p>
+                    
+                    <p>The language uses a recursively enumerable parsing system that enables both precise control and expressive syntax, making it suitable for everything from kernel development to web applications, while maintaining absolute control over underlying systems resources.</p>
+                    
+                    <div class="code-block">
+                        <div class="code-header">
+                            <h4 class="code-title">SystemScript Example</h4>
+                            <div class="code-dots">
+                                <div class="code-dot red"></div>
+                                <div class="code-dot yellow"></div>
+                                <div class="code-dot green"></div>
+                            </div>
+                        </div>
+                        <pre><code>// Basic program structure
+module example;
+
+import system.io;
+import system.memory;
+
+// Constants
+const MAX_BUFFER_SIZE: u32 = 4096;
+
+// Function definition with type annotations
+fn calculate_checksum(data: *u8, length: u32) -> u32 {
+    let sum: u32 = 0;
+    
+    for (let i: u32 = 0; i < length; i++) {
+        sum += *unsafe_offset(data, i);
+    }
+    
+    return sum & 0xFFFFFFFF;
+}
+
+// Entry point
+fn main() -> i32 {
+    // String literals
+    let message = "Hello, SystemScript!";
+    io.println(message);
+    
+    // Direct memory allocation
+    let buffer = memory.alloc<u8>(MAX_BUFFER_SIZE);
+    defer memory.free(buffer);
+    
+    // Hardware port access
+    io.port_write<u8>(0x3F8, 65);
+    
+    return 0;
+}</code></pre>
+                    </div>
+                </div>
+                
+                <div class="systemscript-content fade-in-right">
+                    <h3>Key Features</h3>
+                    <p>SystemScript combines the power of systems programming with modern language features, providing explicit control over hardware while maintaining safety mechanisms where needed.</p>
+                    
+                    <ul>
+                        <li>Direct memory management with manual and automated options</li>
+                        <li>Hardware port I/O and memory-mapped device access</li>
+                        <li>Kernel-level system call integration</li>
+                        <li>Precise control flow with advanced pattern matching</li>
+                        <li>Metaprogramming and compile-time code execution</li>
+                        <li>JIT compilation for dynamic code generation</li>
+                        <li>Inline assembly for architecture-specific optimization</li>
+                    </ul>
+                    
+                    <div class="code-block">
+                        <div class="code-header">
+                            <h4 class="code-title">Kernel Development Example</h4>
+                            <div class="code-dots">
+                                <div class="code-dot red"></div>
+                                <div class="code-dot yellow"></div>
+                                <div class="code-dot green"></div>
+                            </div>
+                        </div>
+                        <pre><code>// Kernel entry point implementation
+module kernel;
+
+import hardware.cpu;
+import hardware.terminal;
+import system.interrupts;
+import memory.virtual;
+
+// Kernel entry point
+#[no_mangle]
+#[export]
+fn kernel_main() {
+    // Initialize terminal for output
+    terminal.initialize();
+    terminal.clear();
+    terminal.print("SystemScript Kernel booting...\n");
+    
+    // Initialize GDT and IDT
+    cpu.setup_gdt();
+    interrupts.setup_idt();
+    
+    // Setup memory management
+    virtual.initialize();
+    
+    // Setup interrupt handlers
+    interrupts.set_handler(0x0E, page_fault_handler);
+    interrupts.enable();
+    
+    // Kernel main loop
+    loop {
+        cpu.halt();
+    }
+}</code></pre>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <!-- TRUST SYSTEMS Section -->
+        <section class="trust-section section" id="trust">
+            <div class="section-header">
+                <h2 class="section-title">TRUST SYSTEMS</h2>
+                <p class="section-subtitle">Elite cybersecurity division designing military-grade security solutions</p>
+            </div>
+            
+            <div class="terminal">
+                <div class="terminal-header">
+                    <h4 class="terminal-title">root@trust-systems:~</h4>
+                    <div class="terminal-dots">
+                        <div class="terminal-dot red"></div>
+                        <div class="terminal-dot yellow"></div>
+                        <div class="terminal-dot green"></div>
+                    </div>
+                </div>
+                <div class="terminal-body">
+                    <div class="terminal-line">
+                        <span class="terminal-prompt">#</span>
+                        <span class="terminal-command">cat trust_systems_overview.txt</span>
+                    </div>
+                    <div class="terminal-output">
+                        TRUST SYSTEMS - Elite Cybersecurity Division<br><br>
+                        Founded by CPScript (0x44isease), TRUST SYSTEMS specializes in developing military-grade security tools and exploitation frameworks for authorized security testing and system hardening.<br><br>
+                        Our team consists of highly specialized developers focusing on kernel-level security, system architecture, and advanced threat detection and prevention.
+                    </div>
+                    <div class="terminal-line">
+                        <span class="terminal-prompt">#</span>
+                        <span class="terminal-command">python -c "import trust.core as core; print(core.get_capabilities())"</span>
+                    </div>
+                    <div class="terminal-output">
+                        ['Advanced Memory Protection', 'Kernel-Level Monitoring', 'Custom Exploitation Framework', 'Military-Grade Encryption', 'Real-time Threat Detection', 'System Hardening', 'Network Intrusion Prevention']
+                    </div>
+                    <div class="terminal-line">
+                        <span class="terminal-prompt">#</span>
+                        <span class="terminal-command">./deploy_security_framework.sh --level=military</span>
+                    </div>
+                    <div class="terminal-output">
+                        Initializing TRUST SYSTEMS Security Framework v3.7.2<br>
+                        [+] Loading kernel modules...<br>
+                        [+] Initializing memory protection...<br>
+                        [+] Setting up monitoring agents...<br>
+                        [+] Configuring threat detection rules...<br>
+                        [+] Enabling encryption for all communications...<br>
+                        [+] System hardening complete.<br>
+                        [+] Protection active: All systems operational
+                    </div>
+                    <div class="terminal-line">
+                        <span class="terminal-prompt">#</span>
+                        <span class="terminal-command">tail -f /var/log/trust/security.log</span><span class="cursor"></span>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="code-block" style="margin-top: 30px;">
+                <div class="code-header">
+                    <h4 class="code-title">TRUST SYSTEMS Security Framework</h4>
+                    <div class="code-dots">
+                        <div class="code-dot red"></div>
+                        <div class="code-dot yellow"></div>
+                        <div class="code-dot green"></div>
+                    </div>
+                </div>
+                <pre><code># TRUST SYSTEMS Security Framework
+# Advanced protection and system manipulation toolkit
+# Developed by @CPScript (0x44isease)
+
+import trust.core as core
+import trust.security as sec
+
+# Initialize system protection
+system = core.TrustSystem()
+system.initialize_protection(level=sec.MILITARY_GRADE)
+
+# Deploy advanced monitoring
+monitor = system.deploy_monitor(scope=core.KERNEL_LEVEL)
+monitor.start(stealth_mode=True)
+
+# Set up threat detection
+detector = sec.ThreatDetector(sensitivity=sec.HIGH)
+detector.register_callback(system.neutralize_threat)
+
+# Initialize memory protection
+memory_guard = sec.MemoryGuard()
+memory_guard.protect_critical_regions()
+memory_guard.enable_exploit_prevention()
+
+# Set up secure communication
+comms = sec.SecureChannel(encryption=sec.AES_256_GCM)
+comms.initialize()
+
+print("TRUST SYSTEMS Security Framework activated")
+print("System is now protected and monitored")</code></pre>
+            </div>
+            
+            <div class="trust-content">
+                <h3>Key Focus Areas</h3>
+                <p>TRUST SYSTEMS focuses on developing security solutions that protect critical infrastructure while enabling authorized security research. Our frameworks integrate at the system level to provide comprehensive security without performance degradation.</p>
+                <p>We specialize in developing custom security solutions for:</p>
+                <ul class="trust-features">
+                    <li><i class="fa-solid fa-check"></i> Critical infrastructure protection</li>
+                    <li><i class="fa-solid fa-check"></i> Advanced persistent threat detection</li>
+                    <li><i class="fa-solid fa-check"></i> Zero-day vulnerability research and mitigation</li>
+                    <li><i class="fa-solid fa-check"></i> Kernel-level security mechanisms</li>
+                    <li><i class="fa-solid fa-check"></i> Memory protection and anti-exploitation</li>
+                    <li><i class="fa-solid fa-check"></i> Custom cryptographic implementation</li>
+                </ul>
+            </div>
+        </section>
+        
+        <!-- Contact Section -->
+        <section class="contact-section section" id="contact">
+            <div class="section-header">
+                <h2 class="section-title">Connect With Me</h2>
+                <p class="section-subtitle">Interested in low-level development, systems exploitation, or malware analysis? Let's collaborate.</p>
+            </div>
+            
+            <div class="contact-container fade-in">
+                <p>Feel free to reach out if you're interested in discussing low-level development, systems exploitation, or any technical project that pushes the boundaries of what's possible with hardware and software integration. Notice, I come at a price and to make me work for you i const a lot. But my work is efficient and professional.</p>
+                
+                <a href="mailto:contact-disease.unelected107@passmail.net" class="contact-email">
+                    <i class="fa-solid fa-envelope"></i> contact-disease.unelected107@passmail.net
+                </a>
+                
+                <div class="social-icons">
+                    <a href="https://github.com/CPScript" target="_blank" class="social-icon"><i class="fab fa-github"></i></a>
+                    <a href="#" class="social-icon"><i class="fab fa-twitter"></i></a>
+                    <a href="https://spacehey.com/0x44" target="_blank" class="social-icon"><i class="fa-solid fa-user"></i></a>
+                    <a href="#" class="social-icon"><i class="fa-solid fa-code"></i></a>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+    <!-- Back to top button -->
+    <a href="#home" class="back-to-top" id="backToTop">
+        <i class="fa-solid fa-chevron-up"></i>
+    </a>
+    
+    <!-- Footer -->
+    <footer>
+        <div class="footer-content">
+            <div class="footer-links">
+                <a href="https://github.com/CPScript" target="_blank" class="footer-link">GitHub</a>
+                <span>|</span>
+                <span class="footer-link">Low-level Developer</span>
+                <span>|</span>
+                <span class="footer-link">Malware Analyst</span>
+                <span>|</span>
+                <span class="footer-link">Systems Engineer</span>
+            </div>
+            <p class="footer-copyright">&copy; 2025 CPScript. All rights reserved.</p>
+        </div>
+    </footer>
+    
+    <script>
+        // Mobile Navigation Toggle
+        const navToggle = document.querySelector('.mobile-nav-toggle');
+        const mobileNav = document.querySelector('.mobile-nav');
+        const mobileNavLinks = document.querySelectorAll('.mobile-nav-link');
+        
+        navToggle.addEventListener('click', () => {
+            mobileNav.classList.toggle('open');
+            navToggle.innerHTML = mobileNav.classList.contains('open') ? '<i class="fas fa-times"></i>' : '<i class="fas fa-bars"></i>';
+        });
+        
+        mobileNavLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                mobileNav.classList.remove('open');
+                navToggle.innerHTML = '<i class="fas fa-bars"></i>';
+            });
+        });
+        
+        // Animate skill bars on scroll
+        const animateOnScroll = (elements, animationClass) => {
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        entry.target.classList.add(animationClass);
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.1 });
+            
+            elements.forEach(element => {
+                observer.observe(element);
+            });
+        };
+        
+        // Skill bars animation
+        document.addEventListener('DOMContentLoaded', function() {
+            const skillBars = document.querySelectorAll('.skill-progress');
+            
+            skillBars.forEach(bar => {
+                bar.style.width = '0';
+            });
+            
+            const observer = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        const width = entry.target.getAttribute('style').replace('width: 0px;', '');
+                        setTimeout(() => {
+                            entry.target.style.width = width;
+                        }, 100);
+                        observer.unobserve(entry.target);
+                    }
+                });
+            }, { threshold: 0.1 });
+            
+            skillBars.forEach(bar => {
+                observer.observe(bar);
+            });
+            
+            // Fade-in animations
+            const fadeElements = document.querySelectorAll('.fade-in, .fade-in-left, .fade-in-right');
+            animateOnScroll(fadeElements, 'animated');
+            
+            // Terminal typing effect
+            const terminalCommands = document.querySelectorAll('.terminal-command');
+            const terminalOutputs = document.querySelectorAll('.terminal-output');
+            
+            terminalOutputs.forEach(output => {
+                output.style.display = 'none';
+            });
+            
+            const commandObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isInters
