@@ -7,6 +7,9 @@
 </div>
 
 ---
+When nobody wakes you up in the morning, and when nobody waits for you at night. And when you can do whatever you want. What is it? Freedom, or loneliness? 
+
+---
 <div align="left">     
 
 **About me**:
