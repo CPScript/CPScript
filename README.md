@@ -7,7 +7,9 @@
 </div>
 
 ---
-When nobody wakes you up in the morning, and when nobody waits for you at night. And when you can do whatever you want. What is it? Freedom, or loneliness? 
+When nobody wakes you up in the morning, and when nobody waits for you at night. And when you can do whatever you want. What is it? Freedom, or loneliness? Am i lonely?
+
+You' know. People say that love is about finding the right person, when in reality love is about becoming the right person. Dont look for the person you want to spend your life with, become the person you want to spend your life with.
 
 ---
 <div align="left">     
