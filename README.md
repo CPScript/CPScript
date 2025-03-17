@@ -15,7 +15,7 @@ GingerBread | New IRC client | work in progress
 UPE | Full universe simulation engine to make a single apple | work in progress (trust the process!)
 ssMINI | "SystetScript MINI"; for small boards and controllers | not started, but still made already
 Lunar | A weponized Shell | Not started
-More | I have othertings to add to this list | Work in progress
+More | I have other things to add to this list | Work in progress
 
 ---
 When nobody wakes you up in the morning, and when nobody waits for you at night. And when you can do whatever you want. What is it? Freedom, or loneliness? Am i lonely?
