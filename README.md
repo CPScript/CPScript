@@ -7,6 +7,17 @@
 </div>
 
 ---
+
+## Upcoming Projects:
+Project | what is this? | is it done?
+--|--|--
+GingerBread | New IRC client | work in progress
+UPE | Full universe simulation engine to make a single apple | work in progress (trust the process!)
+ssMINI | "SystetScript MINI"; for small boards and controllers | not started, but still made already
+Lunar | A weponized Shell | Not started
+More | I have othertings to add to this list | Work in progress
+
+---
 When nobody wakes you up in the morning, and when nobody waits for you at night. And when you can do whatever you want. What is it? Freedom, or loneliness? Am i lonely?
 
 You' know. People say that love is about finding the right person, when in reality love is about becoming the right person. Dont look for the person you want to spend your life with, become the person you want to spend your life with.
