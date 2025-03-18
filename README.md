@@ -12,7 +12,7 @@
 Project | what is this? | is it done?
 --|--|--
 GingerBread | New IRC client | work in progress
-UPE | Full universe simulation engine to make a single apple | work in progress (trust the process!)
+UPE | This is a complex Python program attempting to simulate physics from quantum to macroscopic levels, with a focus on modeling an apple and radiation effects on biological systems. It's structured as a multi-scale simulation framework | work in progress (trust the process!)
 ssMINI | "SystetScript MINI"; for small boards and controllers | not started, but still made already
 Lunar | A weponized Shell | Not started
 More | I have other things to add to this list | Work in progress
