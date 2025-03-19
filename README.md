@@ -15,7 +15,10 @@ GingerBread | New IRC client | work in progress
 UPE | This is a complex Python program attempting to simulate physics from quantum to macroscopic levels, with a focus on modeling an apple and radiation effects on biological systems. It's structured as a multi-scale simulation framework | work in progress (trust the process!)
 ssMINI | "SystetScript MINI"; for small boards and controllers | not started, but still made already
 Lunar | A weponized Shell | Not started
+HWID_Sy | A simple HardwareID System Spoofer | workk in progress / paused
+Moon | A fully system spoofer. This is not going to be open source, but will be sellable. | paused
 More | I have other things to add to this list | Work in progress
+
 
 ---
 When nobody wakes you up in the morning, and when nobody waits for you at night. And when you can do whatever you want. What is it? Freedom, or loneliness? Am i lonely?
