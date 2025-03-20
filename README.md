@@ -1,6 +1,6 @@
 <div align=center>    
 
-<a href="https://github.com/CPScript"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+Github:+CPScript+<3" alt="UwU">
+<a href="https://github.com/CPScript"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+CPScript+For+A+Cookie+<3" alt="UwU">
 
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
 <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
