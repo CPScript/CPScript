@@ -1,3 +1,6 @@
+Your local mentally unstable full stack developer
+---
+
 <div align=center>    
 
 <a href="https://github.com/CPScript"><img src="http://readme-typing-svg.herokuapp.com?color=BF00FF&center=true&vCenter=true&multiline=false&lines=Follow+CPScript+For+A+Cookie+<3" alt="UwU">
