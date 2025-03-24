@@ -11,7 +11,7 @@ Your local mentally unstable full stack developer. Please star my projects (PLEA
 
 ---
 
-## Upcoming Projects:
+## Upcoming
 Project | what is this? | is it done?
 --|--|--
 GingerBread | New IRC client | work in progress
