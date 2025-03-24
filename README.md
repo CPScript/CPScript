@@ -1,4 +1,4 @@
-Your local mentally unstable full stack developer
+Your local mentally unstable full stack developer. Please star my projects (PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE PLEASE) 💀
 ---
 
 <div align=center>    
