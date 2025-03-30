@@ -13,8 +13,7 @@ You' know. People say that love is about finding the right person, when in reali
 **About me**:
 
  * **Contact me:** *contact-disease.unelected107@passmail.net*
- * I specialize. **I HATE ALGORITHMS**
- * Interested in machine learning, Malware analisis, Hacking, GPU programming, kernel devlopment, Boot-secter devlopment, firmware devlopment, High level, mid level, and low level programming, graphical design, taking apart; modding, and putting back together tech. Destroying chromebooks
+ * I specialize.
 
 <div align="center">
   <img src="divider2.png" alt="divider"/>
