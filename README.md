@@ -1,3 +1,7 @@
+# I could really just upload so many of my other projects here lol... But **nahh**
+
+---
+
 <div align=center>    
 
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
