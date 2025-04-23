@@ -7,6 +7,8 @@
 ---
 You' know. People say that love is about finding the right person, when in reality love is about becoming the right person. Dont look for the person you want to spend your life with, become the person you want to spend your life with.
 
+*“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**
+
 ---
 <div align="left">     
 
