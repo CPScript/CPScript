@@ -25,6 +25,74 @@ You' know. People say that love is about finding the right person, when in reali
 
 ![image](https://github.com/user-attachments/assets/605d20de-0a1f-403d-8ad3-33bf0f261d03)
 
+For an image of dimensions $W \times H$, the RGB color value at pixel coordinate $(m, n)$ where $m \in \{1, 2, ..., W\}$ and $n \in \{1, 2, ..., H\}$ is defined by the vectorized function:
+
+$$\Psi(m, n) = \left(R\left(f_r\left(\frac{m-\frac{W}{2}}{\eta}, \frac{n-\frac{H}{2}}{\eta}\right)\right), G\left(f_g\left(\frac{m-\frac{W}{2}}{\eta}, \frac{n-\frac{H}{2}}{\eta}\right)\right), B\left(f_b\left(\frac{m-\frac{W}{2}}{\eta}, \frac{n-\frac{H}{2}}{\eta}\right)\right)\right)$$
+
+where $\eta$ is the scaling factor and $R, G, B$ are channel-specific transform functions defined as:
+
+$$R(x) = 255e^{-\alpha_r\|x\|^2}\left|x\right|^{\beta_r+\delta_r\sin(\gamma_r\|x\|)}$$
+
+$$G(x) = 255e^{-\alpha_g\|x\|^2}\left|x\right|^{\beta_g+\delta_g\sin(\gamma_g\|x\|)}$$
+
+$$B(x) = 255e^{-\alpha_b\|x\|^2}\left|x\right|^{\beta_b+\delta_b\sin(\gamma_b\|x\|)}$$
+
+The core spatial transformation functions $f_r, f_g, f_b$ involve the metric-distortion tensor $\mathcal{M}(x, y)$ and relativistic correction factor $\Lambda(x, y)$:
+
+$$\mathcal{M}(x, y) = \mathcal{K}_s(x, y) + \frac{1-A_{\Omega}(x, y)}{10}\cdot\zeta^2\cdot e^{-\kappa\|r(x,y)\|^2} + \xi^3\cdot e^{-\sigma\|r(x,y)\|^2}$$
+
+where $r(x, y) = \sqrt{x^2 + y^2}$ represents the radial distance from the origin, and:
+
+$$\mathcal{K}_s(x, y) = \sum_{i=1}^{5}\frac{8+25\mathcal{R}(x, y)}{20}L_i(x, y)e^{-\tau_i\sqrt{\|\mathcal{E}_i(x,y)\|^2+\|\mathcal{F}_i(x,y)\|^2+\|\mathcal{G}_i(x,y)\|^2+\|\mathcal{H}_i(x,y)\|^2}}$$
+
+$$A_{\Omega}(x, y) = \left(\prod_{i=1}^{3}C_{a,i}(x, y)\right)\left(\prod_{j=1}^{3}C_{b,j}(x, y)\right)$$
+
+The accretion disk model function $C_{a,i}(x, y)$ and event horizon geometry $C_{b,j}(x, y)$ are given by:
+
+$$C_{a,i}(x, y) = e^{-\frac{\lambda_{a,i}}{\ln(\|x\|^2+\|y\|^2+\epsilon)}\left(\sqrt{\|x\|^4+\|y\|^4}+\mathcal{D}(x,y)\right)}$$
+
+$$C_{b,j}(x, y) = e^{-\frac{\|x\|^2+\mu\|y\|^2+\nu}{\ln(\|x\|^2+\|y\|^2+\epsilon)}\left(\sqrt{\|x\|^2+\|y\|^2+\phi}+\mathcal{D}(x,y)^{\rho_{j}}\right)}$$
+
+The relativistic distortion mapping $\mathcal{D}(x, y)$ incorporates gravitational lensing effects:
+
+$$\mathcal{D}(x, y) = \frac{2-v}{2}e^{\tau\sin(v\|x\|)\cos(v\|y\|)} - \frac{v^2-v+2}{20}e^{\kappa\cos(v\|x\|)\sin(v\|y\|)} \cdot e^{\alpha_{\mathcal{D}}\|r(x,y)\|^2}$$
+
+The spiral arm function generating the galactic structures is defined as:
+
+$$L_i(x, y) = e^{\lambda\sqrt{\|P_i(x,y)\|^2+\|Q_i(x,y)\|^2}} \cdot \cos\{7[\cos(4\pi)P_i(x,y)+\sin(4\pi)Q_i(x,y)]+2\cos\{4\sin([27+v\pi]P_i(x,y)+4\sin([27+v\pi)Q_i(x,y))+4\cos(3\pi)\}\}$$
+
+where the parametric spiral components $P_i$ and $Q_i$ are:
+
+$$P_i(x, y) = \left(x + (1-3v)^2\frac{1}{2} + \frac{9}{10}\right)\cos\left(\frac{3+v}{7}\ln(W_i(x, y))\right) + \left(y - (1-3v)^2\frac{1}{4} + \frac{13}{20}\right)\sin\left(\frac{3+v}{7}\ln(W_i(x, y))\right)$$
+
+$$Q_i(x, y) = \left(x + (1-3v)^2\frac{1}{2} + \frac{9}{10}\right)\sin\left(\frac{3+v}{7}\ln(W_i(x, y))\right) - \left(y - (1-3v)^2\frac{1}{4} + \frac{13}{20}\right)\cos\left(\frac{3+v}{7}\ln(W_i(x, y))\right)$$
+
+The radial metric function $W_i(x, y)$ and light-streak tensor $E_i(x, y)$ complete the model:
+
+$$W_i(x, y) = \left(x + (1-3v)^2\frac{1}{2} + \frac{9}{10}\right)^2 + \left(2+3v\right)\left(y - (1-3v)^2\frac{1}{4} + \frac{13}{20}\right)^2 + 10^{-7}$$
+
+$$E_i(x, y) = \sum_{k=1}^{3}\frac{3+57v}{240}(23-2v)^{-1}20^k V_{a,i}(x, y)$$
+
+The final velocity field function $V_{a,i}(x, y)$ that models relativistic effects near the event horizon:
+
+$$V_{a,i}(x, y) = \cos(5[14-3v]^{-1}10^{-11}(1+3\cos(10^{-3}))(\cos(2v^2)x+\sin(2v^2)y)) + 4\cos([14-3v]^{-1}10^{-10}(\cos(10^{-3})x+\sin(10^{-3})y)) + 2\cos(5v)$$ 
+
+$$\times \cos(5[14-3v]^{-1}10^{-11}(1+3\cos(10^{-3}))(\cos(2v^2)y-\sin(2v^2)x)) + 4\cos([14-3v]^{-1}10^{-10}(\cos(10^{-3})y+\sin(10^{-3})x)) + 2\cos(5v)$$
+
+The optimal parametric values for accurate astrophysical representation are:
+- $\alpha_r = 1.5, \alpha_g = 2.0, \alpha_b = 2.5$
+- $\beta_r = 0.7, \beta_g = 0.4, \beta_b = 0.2$
+- $\gamma_r = 3.0, \gamma_g = 4.0, \gamma_b = 5.0$
+- $\delta_r = 0.2, \delta_g = 0.15, \delta_b = 0.1$
+- $\epsilon = 10^{-6}, \phi = 10^{-4}, \rho_j \in \{1.2, 1.5, 1.8\}$
+- $\lambda = 1.5, \tau = 2.3, \kappa = 0.8, \sigma = 1.2$
+- $\mu = 1.2, \nu = 0.7, v = 0.4$
+- $\zeta = 0.8, \xi = 0.5$
+- $\tau_i \in \{0.3, 0.6, 0.9, 1.2, 1.5\}$
+- $\lambda_{a,i} \in \{0.7, 1.1, 1.5\}$
+- $\alpha_{\mathcal{D}} = -0.3$
+- $\eta = 200$
+
 ```
 #define BLACK_HOLE_RADIUS 1.0
 #define SCHWARZSCHILD_RADIUS 0.4
