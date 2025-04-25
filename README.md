@@ -23,6 +23,8 @@ You' know. People say that love is about finding the right person, when in reali
 
 <div align="left">
 
+![image](https://github.com/user-attachments/assets/605d20de-0a1f-403d-8ad3-33bf0f261d03)
+
 ```
 #define BLACK_HOLE_RADIUS 1.0
 #define SCHWARZSCHILD_RADIUS 0.4
@@ -185,9 +187,6 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
     fragColor = vec4(max(vec3(0.0), color), 1.0);
 }
 ```
-
-![image](https://github.com/user-attachments/assets/9f546999-d081-4d0e-9fe4-5e30a5559217)
-
 
 ---
 
