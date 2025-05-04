@@ -14,6 +14,7 @@
 **About me**:
 
  * **Contact me:** *contact-disease.unelected107@passmail.net*
+ * Some of my repos are incomplete or have errors, if you find one; please make an issue so i can go back and fix it <3
  * I specialize.
 
 <div align="center">
