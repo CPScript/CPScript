@@ -14,8 +14,8 @@
 **About me**:
 
  * **Contact me:** *contact-disease.unelected107@passmail.net*
- * Some of my repos are incomplete or have errors, if you find one; please make an issue so i can go back and fix it <3
- * I specialize.
+ * Some of my repos are incomplete or have errors, if you find one; please make an issue so I can go back and fix it <3
+ * I specialize. I love mathmatics, physics, computer programming, and system development. (I also like to research radiology(not just x-ray, but how nuclear energy and radiation works plus the chemestry behind uch) and biology)
 
 <div align="center">
   <img src="divider2.png" alt="divider"/>
