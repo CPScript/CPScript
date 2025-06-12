@@ -1,5 +1,3 @@
-I hate this. I WILL UPLOAD WHATEVER I FEEL LIKE UPLOADING TO **MY** GITHUB PAGE. It's mine, not yours.
-
 <div align=center>    
 
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
