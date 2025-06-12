@@ -1,14 +1,45 @@
-<div align=center>    
+<div align=center>   
 
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
 <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
+
+![tumblr_52b17c68d377a8427514b2eb14dd4514_4716d956_1280](https://github.com/user-attachments/assets/48680e80-024d-4446-b764-2a3f1e059ab8)
 </div>
+
+
+## Commissions!!
+
+**Want a script, software, or something custom just for you? I'm open for commissions! Let's turn your ideas, dreams, and needs into working code.**
+
+### * What I Can Build for You
+- Scripts using: Python, C, C++, Node.js, Bash, Rust, and Assembly
+- Software tools: data analysis, networking, automation, cybersecurity
+- Low-level code: kernel parts and bootsectors
+- Custom APIs
+- Minecraft plugins
+- Discord bots (Python)
+- ...and more — just ask!
+
+### * Pricing
+- **Starts at $40** for small projects
+- Final price depends on project complexity and timeline  
+- Typical turnaround: **2–10 days**
+
+### * 📬 **Contact Me:**  
+You can reach me via **commissions.carve046@passinbox.com** or **open a GitHub issue** if you'd like to start a conversation.
+
+<div align=center>    
+
+![tumblr_a5c87cc78c2812777b53369d52c014e9_03521436_1280](https://github.com/user-attachments/assets/84eefb3a-c242-460b-acdb-bf1dd832fb88)
+</div>
+
 
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**
 
 ---
+
 <div align="left">     
 
 <div align="center">
@@ -18,6 +49,9 @@
 <div align="left">
 
 ![image](https://github.com/user-attachments/assets/605d20de-0a1f-403d-8ad3-33bf0f261d03)
+
+<details>
+<summary><b>Click to expose; GLSL shader script ^^^^</b></summary>
 
 ```
 #define BLACK_HOLE_RADIUS 1.0
@@ -181,3 +215,4 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
     fragColor = vec4(max(vec3(0.0), color), 1.0);
 }
 ```
+</details>
