@@ -10,7 +10,7 @@
 
 **My favorite distro is debian. :P**
 
-Come play on my minecraft server [(Discord invite)](https://discord.gg/FBUeD7afqz)
+**Come play on my minecraft server!** [(Discord invite)](https://discord.gg/FBUeD7afqz)
 
 ---
 
