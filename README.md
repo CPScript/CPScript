@@ -8,12 +8,6 @@
 
 *“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**
 
-*"Anything can be done with one file"* - **CPScript**
-
-**My favorite distro is debian. :P**
-
-**Come play on my minecraft server!** [(Discord invite)](https://discord.gg/FBUeD7afqz)
-
 ---
 
 <div align="left">     
