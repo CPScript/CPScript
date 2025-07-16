@@ -186,15 +186,15 @@ void mainImage(out vec4 fragColor, in vec2 fragCoord) {
 ```
 </details>
 
-<details open>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
+
+
+<details closed>
 <summary>My Stats</summary>
 <br>
             
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CPScript&layout=compact&theme=blue-green)
 <img src="https://stats4github.vercel.app/api/top-langs/?username=CPScript&langs_count=11&hide=html&layout=compact&exclude_repo=Viruses,terminal,Joker,Rosehip-android"><br/>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CPScript&theme=hacker&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
               
