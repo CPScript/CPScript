@@ -3,7 +3,6 @@
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/>
 <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
 
-![tumblr_52b17c68d377a8427514b2eb14dd4514_4716d956_1280](https://github.com/user-attachments/assets/48680e80-024d-4446-b764-2a3f1e059ab8)
 </div>
 
 *“Code is like humor. When you have to explain it, it’s bad.”* – **Cory House**
