@@ -2,6 +2,8 @@
 
 ---
 
+<img width="339" height="187" alt="comkidbingo" src="https://github.com/user-attachments/assets/f31b51c5-96a4-4b89-8022-0f17948dce87" />
+
 
 </div>
 
