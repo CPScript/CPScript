@@ -4,7 +4,6 @@
 
 Upcoming projects | Description | Progress
 ---|---|---
-Apollo Kernel | A kernel | DONE (Made in 2 hours :D)
 LiquiShell & LiquiTerminal | A windows shell made in rust and C# | WIP
 
 <img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/fe411d72-26ea-444b-b8bb-890129842e48" />
