@@ -4,7 +4,7 @@
 
 Upcoming projects | Description | Progress
 ---|---|---
-[ApolloKernel](https://github.com/CPScript/ApolloKernel) | A x86_64 Kernel made in C and assembly made from scratch | Working on Network~Stack (Almost 2 days have gone into this aspect)
+[ApolloKernel](https://github.com/CPScript/ApolloKernel) | A x86_64 Kernel made in C and assembly made from scratch | WIP
 LiquiShell & LiquiTerminal | A windows shell made in rust and C# | WIP
 
 <img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/fe411d72-26ea-444b-b8bb-890129842e48" />
