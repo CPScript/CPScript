@@ -5,7 +5,8 @@
 Upcoming projects | Description | Progress
 ---|---|---
 [Apollo (1.7.0 soon!)](https://github.com/CPScript/ApolloKernel) | A x86_64 Kernel made in C and assembly made from scratch | WIP
-LiquiShell & LiquiTerminal | A windows shell made in rust and C# | Paused for now
+[LucidShell (v0.1.4)](https://github.com/CPScript/LucidShell) | A windows security shell made in rust | WIP
+LiquiShell & LiquiTerminal | A windows shell made in rust and C# | Development has stoped for now.
 
 <img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/fe411d72-26ea-444b-b8bb-890129842e48" />
 
