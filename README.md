@@ -3,6 +3,7 @@
 > About me;
 > * Hello world! Im a programmer that doesnt know where life is taking me, I enjoy computers, science, and mathmatics. But, it still rains.
 > * "CPScript". The username stands for "Chai Processing Script", It was a project i was working on around 13-15 years of age, ment to work like java but as a scripting language for processing data at low levels with minimal scripting needed. The project died, and is no longer uploaded as open source. It was then remade as "syss"(System Script) which was ment to be an alternative to C. SYSS is a fully working scripting language that has documentation but no open source compiler.
+> * A lot of the projects i upload here are not maintained. Atleast all of the old ones.
 
 ---
 
