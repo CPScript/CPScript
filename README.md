@@ -13,8 +13,11 @@ Upcoming projects | Description | Progress
 [LucidShell (v0.1.4)](https://github.com/CPScript/LucidShell) | A windows security shell made in rust | WIP
 LiquiShell & LiquiTerminal | A windows shell made in rust and C# | Development has stoped for now.
 
-<img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/fe411d72-26ea-444b-b8bb-890129842e48" />
-
+Check these out! | Description | Progress | Stars 
+---|---|---|---
+[NFCman](https://github.com/CPScript/NFCman) | A Universal Android NFC research and analysis toolkit. | Done, But maintained | 40 ⭐
+[Kitty-Tools](https://github.com/CPScript/Kitty-Tools) | A Kahoot utility client. | Done, But maintained | 300+ ⭐
+[qce](https://github.com/CPScript/qce) | crypto engine that uses quantum entropy from CMOS sensors.  | Done, But maintained | 0 ⭐(new repo!)
 
 ---
 
