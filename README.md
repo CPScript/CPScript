@@ -16,7 +16,8 @@ LiquiShell & LiquiTerminal | A windows shell made in rust and C# | Development h
 Check these out! | Description | Progress | Stars 
 ---|---|---|---
 [NFCman](https://github.com/CPScript/NFCman) | A Universal Android NFC research and analysis toolkit. | Done, But maintained | 40 ⭐
-[Noisium](https://github.com/CPScript/Noisium) | crypto engine that uses quantum entropy from CMOS sensors.  | Done, But maintained | 2 ⭐(new repo!)
+[Noisium](https://github.com/CPScript/Noisium) | A crypto engine that uses quantum entropy from CMOS sensors. | Done, But maintained | 2 ⭐(new repo!)
+[Sanctum](https://github.com/CPScript/Sanctum) | C library for encrypted network communications | Done, But maintained | 1 ⭐(new repo!)
 
 ---
 
