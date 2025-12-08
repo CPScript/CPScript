@@ -1,9 +1,11 @@
 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/> <img src="https://img.shields.io/github/stars/CPScript?label=Stars" alt="total amount of stars">
 
-> About me;
-> * Hello world! Im a programmer that doesnt know where life is taking me, I enjoy computers, science, and mathmatics. But, it still rains.
-> * "CPScript". The username stands for "Chai Processing Script", It was a project i was working on around 13-15 years of age, ment to work like java but as a scripting language for processing data at low levels with minimal scripting needed. The project died, and is no longer uploaded as open source. It was then remade as "syss"(System Script) which was ment to be an alternative to C. SYSS is a fully working scripting language that has documentation but no open source compiler.
-> * A lot of the projects i upload here are not maintained. Atleast all of the old ones.
+Decipher this for a reward (**Its easy if you know what your doing.**)
+> * .//Wrungow, yuurow Wrungow;??, yuurow dxciphxringow thisow Wrungow . Yuuow dUn'tow |?? knuwow whatow yuUrow duingow. Tryow againow yuUow ;// gutow thisow, BXow >// 4ow itsow tuuow>\\  lateow,  .LLtryow  .LL nutow tuow finishow thisow cyphxrow; "owbowChow". **A rxd boll bouncxs to the stars** A littlx Frog hops to the rxpo
+
+
+ >// .?? ,//>// .?? ,// >\\ >// .?? ,// >\\ >//  >// .?? ,//>// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\  >\\>// .?? ,// >\\ >// .?? ,// >\\  >// >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\  >\\>// .?? ,// >\\ >// .?? ,// >\\  >//  >// .?? ,//>// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\  >\\>// .?? ,// >\\ >// .?? ,// >\\  >// >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// >// .?? ,// >\\ >//  >// .?? ,//>// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\  >\\>// .?? ,// >\\ >// .?? ,// >\\  >// >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// .com >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ >// .?? ,// >\\ .?? ,// >\\ >// .?? 
+
 
 ---
 
@@ -13,11 +15,6 @@ Upcoming projects | Description | Progress
 [LucidShell (v0.1.4)](https://github.com/CPScript/LucidShell) | A windows security shell made in rust | WIP
 LiquiShell & LiquiTerminal | A windows shell made in rust and C# | Development has stoped for now.
 
-Check these out! | Description | Progress | Stars 
----|---|---|---
-[NFCman](https://github.com/CPScript/NFCman) | A Universal Android NFC research and analysis toolkit. | Done, But maintained | 40 ⭐
-[Noisium](https://github.com/CPScript/Noisium) | A crypto engine that uses quantum entropy from CMOS sensors. | Done, But maintained | 2 ⭐(new repo!)
-[Sanctum](https://github.com/CPScript/Sanctum) | C library for encrypted network communications | Done, But maintained | 1 ⭐(new repo!)
 
 ---
 
@@ -26,8 +23,6 @@ Check these out! | Description | Progress | Stars
 </div> 
 
 <div align="left">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CPScript&show_icons=true&theme=synthwave) 
 
 <details closed>
 <summary>My Stats</summary>
