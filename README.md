@@ -1,4 +1,6 @@
-<img src="https://komarev.com/ghpvc/?username=0u44&style=flat-square&color=blue" alt="added to profile on 11/23"/> <img src="https://img.shields.io/github/stars/0u44?label=Stars" alt="total amount of stars">
+<img src="https://komarev.com/ghpvc/?username=0u44&style=flat-square&color=blue" alt="added to profile on 11/23"/> was around 80k (reset because of username change T^T)
+
+<img src="https://img.shields.io/github/stars/0u44?label=Stars" alt="total amount of stars">
 
 ---
 
