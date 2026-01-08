@@ -11,8 +11,7 @@ Views under old username -> <img src="https://komarev.com/ghpvc/?username=CPScri
 Upcoming projects | Description | Progress
 ---|---|---
 [Apollo (1.7.0 soon!)](https://github.com/0u44/ApolloKernel) | A x86_64 Kernel made in C and assembly made from scratch | WIP
-[LucidShell (v0.1.4)](https://github.com/0u44/LucidShell) | A windows security shell made in rust | WIP
-LiquiShell & LiquiTerminal | A windows shell made in rust and C# | Development has stoped for now.
+[Nothing else currently](https://0u44.github.io/) | Please wait! | N/A
 
 
 ---
