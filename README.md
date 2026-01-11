@@ -49,7 +49,7 @@ Hello World!
 
 Upcoming projects | Description | Progress
 ---|---|---
-[Apollo (1.7.0 soon!)](https://github.com/0u44/ApolloKernel) | A x86_64 Kernel made in C and assembly made from scratch | WIP
+[Apollo (1.7.0 soon!)](https://github.com/0u44/Apollo) | A x86_64 Kernel made in C and assembly made from scratch | WIP
 [Nothing else currently](https://0u44.github.io/) | Please wait! | N/A
 
 
