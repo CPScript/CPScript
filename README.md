@@ -1,4 +1,6 @@
 <div align="center">
+            
+2023-2025 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/> | <img src="https://komarev.com/ghpvc/?username=0c44&style=flat-square&color=blue" alt="added to profile on 11/25"/> 2026-Today
 
 ```
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣶⣶⣴⣦⣄⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
@@ -38,19 +40,8 @@
 Hello World!
 ```
 
-
+ <img src="https://img.shields.io/github/stars/0u44?label=Stars" alt="total amount of stars">
 </div>
-
----
-<div align="left">
-
-2023-2025 <img src="https://komarev.com/ghpvc/?username=CPScript&style=flat-square&color=blue" alt="added to profile on 11/23"/> | <img src="https://komarev.com/ghpvc/?username=0c44&style=flat-square&color=blue" alt="added to profile on 11/25"/> 2026-Today | <img src="https://img.shields.io/github/stars/0u44?label=Stars" alt="total amount of stars">
-</div>
-
-Upcoming projects | Description | Progress
----|---|---
-[Apollo (1.7.0 soon!)](https://github.com/0u44/Apollo) | A x86_64 Kernel made in C and assembly made from scratch | WIP
-[Nothing else currently](https://0u44.github.io/) | Please wait! | N/A
 
 
 ---
